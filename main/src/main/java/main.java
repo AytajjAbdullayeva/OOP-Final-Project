@@ -3,10 +3,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class main {
     public static void main(String[] args) {
-<<<<<<< Updated upstream
         System.out.println("Hello World");
         ObjectMapper mapper = new ObjectMapper();
-=======
         // Load databases
         UserDAO.loadUserDatabase();
         HoneyIndexDAO.loadHoneyDatabase();
@@ -47,6 +45,5 @@ public class main {
         }
 
         System.out.println("=== SYSTEM TEST COMPLETED ===");
->>>>>>> Stashed changes
     }
 }
