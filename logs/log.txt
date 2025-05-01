@@ -55,6 +55,7 @@
 2025-05-01T16:39:25.865641100-->User alice's hash matched
 2025-05-01T16:39:25.865641100-->User with Username alice found
 2025-05-01T16:39:25.866641200-->UserDAO: User with UID 1 successfully removed
+<<<<<<< Updated upstream
 2025-05-01T16:49:24.409922200-->UserDAO: Loaded 2 users
 2025-05-01T16:49:24.420923900-->HoneyIndexDAO: Database loaded successfully
 2025-05-01T16:49:24.431616400-->HoneyIndexDAO: HoneyIndex added successfully
@@ -107,3 +108,5 @@
 2025-05-01T16:49:24.456373900-->User alice's hash matched
 2025-05-01T16:49:24.456373900-->User with Username alice found
 2025-05-01T16:49:24.457498500-->UserDAO: User with UID 3 successfully removed
+=======
+>>>>>>> Stashed changes

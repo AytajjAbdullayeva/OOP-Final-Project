@@ -23,7 +23,7 @@ public class UserController {
         else return false;
     }
 
-    public static boolean ChangeUserDetails(String name, String surname, int age, boolean gender, String username) {
+    public static boolean ChangeUserDetails(String name, String surname, int age, boolean gender, String username) { //Username deyismiyecek!!! sadece qalanlar deyisir, usernami deyismek ucun ayrica funskiya var!
         return  UserService.updateUserDetails(name, surname, age, gender, username);
     }
 

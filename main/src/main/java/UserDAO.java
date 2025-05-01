@@ -23,6 +23,7 @@ public class UserDAO {
     public static boolean loadUserDatabase() {
         Path dir = Paths.get("Databases/");
         Path file = dir.resolve("Users.json");
+        users.clear();
 
         try {
             Files.createDirectories(dir);

@@ -40,7 +40,6 @@ public class User {
         this.gender = gender;
         this.username = username;
         this.UID = UserDAO.getNumberOfUsers()+1;
-        UserDAO.setNumberOfUsers(UserDAO.getNumberOfUsers()+1);
 
         try {
             MessageDigest md= MessageDigest.getInstance("SHA-256");

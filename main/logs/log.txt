@@ -1,0 +1,1671 @@
+2025-05-01T18:21:33.700842900-->UserDAO: Error loading users from database
+2025-05-01T18:21:33.707526500-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:21:33.708810500-->Password Hashed
+2025-05-01T18:21:33.710310500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:21:33.712606-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:21:33.729943100-->UserDAO: Error loading users from database
+2025-05-01T18:21:33.730944300-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:21:33.732370400-->Password Hashed
+2025-05-01T18:21:33.732370400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:21:33.733551400-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:21:33.734056900-->User with Username TestUserName found
+2025-05-01T18:21:33.737887600-->UserDAO: Error loading users from database
+2025-05-01T18:21:33.739921200-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:21:33.740920600-->Password Hashed
+2025-05-01T18:21:33.740920600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:21:33.741921600-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:21:33.742919900-->User with ID 1 found
+2025-05-01T18:21:33.745355400-->UserDAO: Error loading users from database
+2025-05-01T18:21:33.746363400-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:21:33.746363400-->Password Hashed
+2025-05-01T18:21:33.746363400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:21:33.747849300-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:21:33.747849300-->Error writinf new users arraylist to database
+2025-05-01T18:22:06.683071900-->UserDAO: Error loading users from database
+2025-05-01T18:22:06.716676800-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:22:06.718053500-->Password Hashed
+2025-05-01T18:22:06.719148400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:22:06.720571400-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:22:12.840179-->UserDAO: Error loading users from database
+2025-05-01T18:22:12.846524400-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:22:12.846524400-->Password Hashed
+2025-05-01T18:22:12.849599100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:22:12.851599100-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:22:12.870939200-->UserDAO: Error loading users from database
+2025-05-01T18:22:12.873431600-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:22:12.874432100-->Password Hashed
+2025-05-01T18:22:12.874432100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:22:12.875542800-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:22:12.876550300-->User with Username TestUserName found
+2025-05-01T18:22:12.879856400-->UserDAO: Error loading users from database
+2025-05-01T18:22:12.881278300-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:22:12.881278300-->Password Hashed
+2025-05-01T18:22:12.882481-->User namedTestUserNamecreated, UID1
+2025-05-01T18:22:12.883487500-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:22:12.883487500-->User with ID 1 found
+2025-05-01T18:22:12.886254600-->UserDAO: Error loading users from database
+2025-05-01T18:22:12.887457100-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:22:12.888931400-->Password Hashed
+2025-05-01T18:22:12.888931400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:22:12.890326600-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:22:12.890326600-->Error writinf new users arraylist to database
+2025-05-01T18:24:55.384971600-->UserDAO: Error loading users from database
+2025-05-01T18:24:55.390449800-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:24:55.391916500-->Password Hashed
+2025-05-01T18:24:55.394013200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:24:55.395445-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:24:55.415388400-->UserDAO: Error loading users from database
+2025-05-01T18:24:55.416812-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:24:55.418314700-->Password Hashed
+2025-05-01T18:24:55.418314700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:24:55.419470100-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:24:55.420468200-->User with Username TestUserName found
+2025-05-01T18:24:55.423629600-->UserDAO: Error loading users from database
+2025-05-01T18:24:55.424663100-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:24:55.425676500-->Password Hashed
+2025-05-01T18:24:55.425676500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:24:55.426982800-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:24:55.426982800-->User with ID 1 found
+2025-05-01T18:24:55.429510800-->UserDAO: Error loading users from database
+2025-05-01T18:24:55.430809500-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:24:55.430809500-->Password Hashed
+2025-05-01T18:24:55.432152500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:24:55.432152500-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:24:55.433159900-->Error writinf new users arraylist to database
+2025-05-01T18:33:14.645606200-->UserDAO: Error loading users from database
+2025-05-01T18:33:14.651606500-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:33:14.653099-->Password Hashed
+2025-05-01T18:33:14.654894600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:33:14.656944-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:33:14.676020500-->UserDAO: Error loading users from database
+2025-05-01T18:33:14.677045400-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:33:14.678222100-->Password Hashed
+2025-05-01T18:33:14.678222100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:33:14.679228500-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:33:14.680235700-->User with Username TestUserName found
+2025-05-01T18:33:14.683696-->UserDAO: Error loading users from database
+2025-05-01T18:33:14.684705300-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:33:14.685706900-->Password Hashed
+2025-05-01T18:33:14.685706900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:33:14.686706900-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:33:14.686706900-->User with ID 1 found
+2025-05-01T18:33:14.688703300-->UserDAO: Error loading users from database
+2025-05-01T18:33:14.689702200-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:33:14.690723400-->Password Hashed
+2025-05-01T18:33:14.690723400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:33:14.690723400-->UserDAO: Error writing user with UID1to database
+2025-05-01T18:33:14.691725400-->Error writinf new users arraylist to database
+2025-05-01T18:33:37.992595700-->UserDAO: Error loading users from database
+2025-05-01T18:33:46.230516100-->HoneyIndexDAO: HoneyIndex couldn't be added
+2025-05-01T18:33:46.230516100-->Password Hashed
+2025-05-01T18:33:46.234202300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:34:31.201919100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:34:31.257999500-->UserDAO: Loaded 0 users
+2025-05-01T18:34:31.285603100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:34:31.286609800-->Password Hashed
+2025-05-01T18:34:31.288884700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:34:31.293571400-->UserDAO: Added user with UID 1
+2025-05-01T18:34:31.310573-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:34:31.315569900-->UserDAO: Loaded 1 users
+2025-05-01T18:34:31.316570900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:34:31.316570900-->Password Hashed
+2025-05-01T18:34:31.317569800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:34:31.317569800-->UserDAO: Added user with UID 1
+2025-05-01T18:34:31.318568800-->User with Username TestUserName found
+2025-05-01T18:34:31.322410600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:34:31.322410600-->UserDAO: Loaded 2 users
+2025-05-01T18:34:31.323772100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:34:31.324778900-->Password Hashed
+2025-05-01T18:34:31.324778900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:34:31.325779200-->UserDAO: Added user with UID 1
+2025-05-01T18:34:31.325779200-->User with ID 1 found
+2025-05-01T18:34:31.327779900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:34:31.328780500-->UserDAO: Loaded 3 users
+2025-05-01T18:34:31.328780500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:34:31.330048100-->Password Hashed
+2025-05-01T18:34:31.330048100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:34:31.330048100-->UserDAO: Added user with UID 1
+2025-05-01T18:34:31.331410900-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:35:00.168733500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:00.216691-->UserDAO: Loaded 0 users
+2025-05-01T18:35:09.301539200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:09.303541600-->Password Hashed
+2025-05-01T18:35:09.313940300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:29.207700900-->UserDAO: Added user with UID 1
+2025-05-01T18:35:38.190847900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:38.212855700-->UserDAO: Loaded 1 users
+2025-05-01T18:35:38.215366400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:38.215366400-->Password Hashed
+2025-05-01T18:35:38.216366400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:38.218366800-->UserDAO: Added user with UID 1
+2025-05-01T18:35:38.224366100-->User with Username TestUserName found
+2025-05-01T18:35:38.235368400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:38.237833300-->UserDAO: Loaded 2 users
+2025-05-01T18:35:38.240351700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:38.253674300-->Password Hashed
+2025-05-01T18:35:38.254673700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:38.255673500-->UserDAO: Added user with UID 1
+2025-05-01T18:35:38.256673900-->User with ID 1 found
+2025-05-01T18:35:38.265673900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:38.268674400-->UserDAO: Loaded 3 users
+2025-05-01T18:35:38.270674300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:38.271673700-->Password Hashed
+2025-05-01T18:35:38.272674600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:38.273674100-->UserDAO: Added user with UID 1
+2025-05-01T18:35:38.275673700-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:35:48.223691900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:48.262637100-->UserDAO: Loaded 0 users
+2025-05-01T18:35:48.274206200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:48.275205200-->Password Hashed
+2025-05-01T18:35:48.277205-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:48.281903400-->UserDAO: Added user with UID 1
+2025-05-01T18:35:48.301024300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:48.306943200-->UserDAO: Loaded 1 users
+2025-05-01T18:35:48.307946100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:48.307946100-->Password Hashed
+2025-05-01T18:35:48.307946100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:48.308945900-->UserDAO: Added user with UID 1
+2025-05-01T18:35:48.308945900-->User with Username TestUserName found
+2025-05-01T18:35:48.313030200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:48.314227-->UserDAO: Loaded 2 users
+2025-05-01T18:35:48.315233200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:48.315233200-->Password Hashed
+2025-05-01T18:35:48.316233300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:48.316233300-->UserDAO: Added user with UID 1
+2025-05-01T18:35:48.317235800-->User with ID 1 found
+2025-05-01T18:35:48.320233800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:35:48.320233800-->UserDAO: Loaded 3 users
+2025-05-01T18:35:48.321241200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:35:48.322241300-->Password Hashed
+2025-05-01T18:35:48.322241300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:35:48.322241300-->UserDAO: Added user with UID 1
+2025-05-01T18:35:48.324014500-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:36:22.482294-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:36:22.529449800-->UserDAO: Loaded 0 users
+2025-05-01T18:36:49.201962600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:36:49.667448500-->Password Hashed
+2025-05-01T18:36:50.825192400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:37:16.217494300-->UserDAO: Added user with UID 1
+2025-05-01T18:37:42.873580500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:37:57.810338400-->UserDAO: Loaded 0 users
+2025-05-01T18:38:01.232155200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:38:01.233155900-->Password Hashed
+2025-05-01T18:38:01.243172-->User namedTestUserNamecreated, UID1
+2025-05-01T18:38:14.823894400-->UserDAO: Added user with UID 1
+2025-05-01T18:38:44.624582200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:38:44.665022100-->UserDAO: Loaded 0 users
+2025-05-01T18:38:44.678274700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:38:44.678274700-->Password Hashed
+2025-05-01T18:38:44.680566900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:38:44.685916400-->UserDAO: Added user with UID 1
+2025-05-01T18:38:44.696223200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:38:44.702639700-->UserDAO: Loaded 1 users
+2025-05-01T18:38:44.703649200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:38:44.703649200-->Password Hashed
+2025-05-01T18:38:44.704647100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:38:44.704647100-->UserDAO: Added user with UID 1
+2025-05-01T18:38:44.704647100-->User with Username TestUserName found
+2025-05-01T18:38:44.709378800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:38:44.710381900-->UserDAO: Loaded 2 users
+2025-05-01T18:38:44.711380-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:38:44.712381100-->Password Hashed
+2025-05-01T18:38:44.712381100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:38:44.712381100-->UserDAO: Added user with UID 1
+2025-05-01T18:38:44.713707100-->User with ID 1 found
+2025-05-01T18:38:44.717160400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:38:44.717160400-->UserDAO: Loaded 3 users
+2025-05-01T18:38:44.718160800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:38:44.719159700-->Password Hashed
+2025-05-01T18:38:44.719159700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:38:44.719159700-->UserDAO: Added user with UID 1
+2025-05-01T18:38:44.720160-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:39:32.217829600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:39:32.254788800-->UserDAO: Loaded 0 users
+2025-05-01T18:39:32.267642400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:39:32.268649200-->Password Hashed
+2025-05-01T18:39:32.270652800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:39:32.275781100-->UserDAO: Added user with UID 1
+2025-05-01T18:39:32.276788100-->User with Username TestUserName found
+2025-05-01T18:39:32.277794600-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:39:32.287764300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:39:32.289189500-->UserDAO: Loaded 0 users
+2025-05-01T18:39:32.290681100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:39:32.290681100-->Password Hashed
+2025-05-01T18:39:32.290681100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:39:32.291690400-->UserDAO: Added user with UID 1
+2025-05-01T18:39:32.291690400-->User with Username TestUserName found
+2025-05-01T18:39:32.292688100-->User TestUserName found
+2025-05-01T18:39:32.292688100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:39:32.292688100-->User TestUserName's hash matched
+2025-05-01T18:39:32.295562200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:39:32.301499300-->UserDAO: Loaded 1 users
+2025-05-01T18:39:32.302966-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:39:32.302966-->Password Hashed
+2025-05-01T18:39:32.302966-->User namedTestUserNamecreated, UID1
+2025-05-01T18:39:32.304212400-->UserDAO: Added user with UID 1
+2025-05-01T18:39:32.304212400-->User with Username TestUserName found
+2025-05-01T18:39:32.304212400-->User TestUserName updated
+2025-05-01T18:39:32.315790400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:39:32.315790400-->UserDAO: Loaded 2 users
+2025-05-01T18:39:32.317234700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:39:32.318250800-->Password Hashed
+2025-05-01T18:39:32.318250800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:39:32.318250800-->UserDAO: Added user with UID 1
+2025-05-01T18:39:32.319248900-->User with Username TestUserName found
+2025-05-01T18:39:32.319248900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:39:32.319248900-->User TestUserName' password is false
+2025-05-01T18:39:32.319248900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:39:32.324144400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:39:32.325217800-->UserDAO: Loaded 3 users
+2025-05-01T18:39:32.326566800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:39:32.326566800-->Password Hashed
+2025-05-01T18:39:32.326566800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:39:32.327709-->UserDAO: Added user with UID 1
+2025-05-01T18:39:32.327709-->User with Username TestUserName found
+2025-05-01T18:39:32.327709-->User TestUserName updated
+2025-05-01T18:41:14.151566400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:14.190267500-->UserDAO: Loaded 0 users
+2025-05-01T18:41:14.201786400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:14.202793800-->Password Hashed
+2025-05-01T18:41:14.205013-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:14.211019900-->UserDAO: Added user with UID 1
+2025-05-01T18:41:14.211019900-->User with Username TestUserName found
+2025-05-01T18:41:14.213096800-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:41:14.223415800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:14.223415800-->UserDAO: Loaded 0 users
+2025-05-01T18:41:14.224914700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:14.224914700-->Password Hashed
+2025-05-01T18:41:14.226175200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:14.226175200-->UserDAO: Added user with UID 1
+2025-05-01T18:41:14.226175200-->User with Username TestUserName found
+2025-05-01T18:41:14.226175200-->User TestUserName found
+2025-05-01T18:41:14.227523-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:41:14.227523-->User TestUserName's hash matched
+2025-05-01T18:41:14.232008900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:14.237123100-->UserDAO: Loaded 1 users
+2025-05-01T18:41:14.238124100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:14.238124100-->Password Hashed
+2025-05-01T18:41:14.238124100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:14.239122100-->UserDAO: Added user with UID 1
+2025-05-01T18:41:14.239122100-->User with Username TestUserName found
+2025-05-01T18:41:14.239122100-->User TestUserName updated
+2025-05-01T18:41:14.239122100-->User with Username TestUserName found
+2025-05-01T18:41:14.250686-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:14.252174300-->UserDAO: Loaded 2 users
+2025-05-01T18:41:14.253401800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:14.253401800-->Password Hashed
+2025-05-01T18:41:14.254426600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:14.254426600-->UserDAO: Added user with UID 1
+2025-05-01T18:41:14.254426600-->User with Username TestUserName found
+2025-05-01T18:41:14.255569200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:41:14.255569200-->User TestUserName' password updated
+2025-05-01T18:41:14.255569200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:41:14.261082200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:14.262126900-->UserDAO: Loaded 3 users
+2025-05-01T18:41:14.263163-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:14.263163-->Password Hashed
+2025-05-01T18:41:14.263163-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:14.264609900-->UserDAO: Added user with UID 1
+2025-05-01T18:41:14.264609900-->User with Username TestUserName found
+2025-05-01T18:41:14.265829900-->User TestUserName updated
+2025-05-01T18:41:39.922382200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:39.959621200-->UserDAO: Loaded 0 users
+2025-05-01T18:41:39.970080800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:39.971078600-->Password Hashed
+2025-05-01T18:41:39.973078700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:39.978078-->UserDAO: Added user with UID 1
+2025-05-01T18:41:39.979075700-->User with Username TestUserName found
+2025-05-01T18:41:39.980078200-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:41:39.990085100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:39.991117900-->UserDAO: Loaded 0 users
+2025-05-01T18:41:39.992146500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:39.992146500-->Password Hashed
+2025-05-01T18:41:39.992146500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:39.993157900-->UserDAO: Added user with UID 1
+2025-05-01T18:41:39.993157900-->User with Username TestUserName found
+2025-05-01T18:41:39.994154300-->User TestUserName found
+2025-05-01T18:41:39.994154300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:41:39.994154300-->User TestUserName's hash matched
+2025-05-01T18:41:39.998157100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:40.003153100-->UserDAO: Loaded 1 users
+2025-05-01T18:41:40.004154600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:40.004154600-->Password Hashed
+2025-05-01T18:41:40.005155400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:40.005155400-->UserDAO: Added user with UID 1
+2025-05-01T18:41:40.006153600-->User with Username TestUserName found
+2025-05-01T18:41:40.006153600-->User TestUserName updated
+2025-05-01T18:41:40.006153600-->User with Username TestUserName found
+2025-05-01T18:41:40.007152900-->User with Username TestUserName found
+2025-05-01T18:41:40.007152900-->User with Username TestUserName found
+2025-05-01T18:41:40.011648800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:40.012659100-->UserDAO: Loaded 2 users
+2025-05-01T18:41:40.014023-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:40.014023-->Password Hashed
+2025-05-01T18:41:40.014023-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:40.015645900-->UserDAO: Added user with UID 1
+2025-05-01T18:41:40.015645900-->User with Username TestUserName found
+2025-05-01T18:41:40.015645900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:41:40.016780400-->User TestUserName' password updated
+2025-05-01T18:41:40.016780400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:41:40.027658400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:41:40.027658400-->UserDAO: Loaded 3 users
+2025-05-01T18:41:40.029028-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:41:40.030066700-->Password Hashed
+2025-05-01T18:41:40.030066700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:41:40.030066700-->UserDAO: Added user with UID 1
+2025-05-01T18:41:40.030066700-->User with Username TestUserName found
+2025-05-01T18:41:40.031560400-->User TestUserName updated
+2025-05-01T18:42:26.456824900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:26.494896900-->UserDAO: Loaded 0 users
+2025-05-01T18:42:26.508001800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:26.508001800-->Password Hashed
+2025-05-01T18:42:26.509030800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:26.514402300-->UserDAO: Added user with UID 1
+2025-05-01T18:42:26.515403900-->User with Username TestUserName found
+2025-05-01T18:42:26.516401300-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:42:26.525697100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:26.525697100-->UserDAO: Loaded 0 users
+2025-05-01T18:42:26.527094500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:26.527094500-->Password Hashed
+2025-05-01T18:42:26.527094500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:26.528103100-->UserDAO: Added user with UID 1
+2025-05-01T18:42:26.528103100-->User with Username TestUserName found
+2025-05-01T18:42:26.528103100-->User TestUserName found
+2025-05-01T18:42:26.528103100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:42:26.529467100-->User TestUserName's hash matched
+2025-05-01T18:42:26.531477700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:26.537184300-->UserDAO: Loaded 1 users
+2025-05-01T18:42:26.538186400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:26.539183-->Password Hashed
+2025-05-01T18:42:26.539183-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:26.539183-->UserDAO: Added user with UID 1
+2025-05-01T18:42:26.540417200-->User with Username TestUserName found
+2025-05-01T18:42:26.540417200-->User TestUserName updated
+2025-05-01T18:42:26.540417200-->User with Username TestUserName found
+2025-05-01T18:42:26.541423700-->User with Username TestUserName found
+2025-05-01T18:42:26.541423700-->User with Username TestUserName found
+2025-05-01T18:42:26.543761800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:26.544771500-->UserDAO: Loaded 2 users
+2025-05-01T18:42:26.545771200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:26.546770300-->Password Hashed
+2025-05-01T18:42:26.546770300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:26.547770300-->UserDAO: Added user with UID 1
+2025-05-01T18:42:26.547770300-->User with Username TestUserName found
+2025-05-01T18:42:26.547770300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:42:26.548771200-->User TestUserName' password is false
+2025-05-01T18:42:26.548771200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:42:26.560137900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:26.561138600-->UserDAO: Loaded 3 users
+2025-05-01T18:42:26.562617900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:26.562617900-->Password Hashed
+2025-05-01T18:42:26.562617900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:26.563627900-->UserDAO: Added user with UID 1
+2025-05-01T18:42:26.563627900-->User with Username TestUserName found
+2025-05-01T18:42:26.563627900-->User TestUserName updated
+2025-05-01T18:42:26.563627900-->User with ID 1 found
+2025-05-01T18:42:54.392657500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:54.432523900-->UserDAO: Loaded 0 users
+2025-05-01T18:42:54.444550200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:54.444550200-->Password Hashed
+2025-05-01T18:42:54.446551500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:54.462664800-->UserDAO: Added user with UID 1
+2025-05-01T18:42:54.463668800-->User with Username TestUserName found
+2025-05-01T18:42:54.465004600-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:42:54.474523500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:54.476009300-->UserDAO: Loaded 0 users
+2025-05-01T18:42:54.476009300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:54.477015900-->Password Hashed
+2025-05-01T18:42:54.477015900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:54.477015900-->UserDAO: Added user with UID 1
+2025-05-01T18:42:54.478016300-->User with Username TestUserName found
+2025-05-01T18:42:54.478016300-->User TestUserName found
+2025-05-01T18:42:54.478016300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:42:54.478016300-->User TestUserName's hash matched
+2025-05-01T18:42:54.481402900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:54.486805-->UserDAO: Loaded 1 users
+2025-05-01T18:42:54.487803500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:54.487803500-->Password Hashed
+2025-05-01T18:42:54.487803500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:54.489132500-->UserDAO: Added user with UID 1
+2025-05-01T18:42:54.489132500-->User with Username TestUserName found
+2025-05-01T18:42:54.489132500-->User TestUserName updated
+2025-05-01T18:42:54.489132500-->User with Username TestUserName found
+2025-05-01T18:42:54.490138900-->User with Username TestUserName found
+2025-05-01T18:42:54.490138900-->User with Username TestUserName found
+2025-05-01T18:42:54.492636-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:54.494060100-->UserDAO: Loaded 2 users
+2025-05-01T18:42:54.495487200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:54.495487200-->Password Hashed
+2025-05-01T18:42:54.495487200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:54.496495700-->UserDAO: Added user with UID 1
+2025-05-01T18:42:54.496495700-->User with Username TestUserName found
+2025-05-01T18:42:54.497495500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:42:54.497495500-->User TestUserName' password is false
+2025-05-01T18:42:54.497495500-->User with Username TestUserName found
+2025-05-01T18:42:54.497495500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:42:54.507418500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:42:54.508480400-->UserDAO: Loaded 3 users
+2025-05-01T18:42:54.509662300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:42:54.509662300-->Password Hashed
+2025-05-01T18:42:54.509662300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:42:54.510820800-->UserDAO: Added user with UID 1
+2025-05-01T18:42:54.510820800-->User with Username TestUserName found
+2025-05-01T18:42:54.510820800-->User TestUserName updated
+2025-05-01T18:42:54.510820800-->User with ID 1 found
+2025-05-01T18:44:00.116777500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:00.157662600-->UserDAO: Loaded 0 users
+2025-05-01T18:44:00.169117200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:00.170115900-->Password Hashed
+2025-05-01T18:44:00.171116700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:00.176421200-->UserDAO: Added user with UID 1
+2025-05-01T18:44:00.177907100-->User with Username TestUserName found
+2025-05-01T18:44:00.178920800-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:44:00.189148300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:00.190606200-->UserDAO: Loaded 0 users
+2025-05-01T18:44:00.191613400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:00.191613400-->Password Hashed
+2025-05-01T18:44:00.191613400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:00.192613700-->UserDAO: Added user with UID 1
+2025-05-01T18:44:00.192613700-->User with Username TestUserName found
+2025-05-01T18:44:00.193613400-->User TestUserName found
+2025-05-01T18:44:00.193613400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:00.193613400-->User TestUserName's hash matched
+2025-05-01T18:44:00.197097-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:00.203512100-->UserDAO: Loaded 1 users
+2025-05-01T18:44:00.204798100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:00.204798100-->Password Hashed
+2025-05-01T18:44:00.204798100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:00.204798100-->UserDAO: Added user with UID 1
+2025-05-01T18:44:00.206255900-->User with Username TestUserName found
+2025-05-01T18:44:00.206255900-->User TestUserName updated
+2025-05-01T18:44:00.206255900-->User with Username TestUserName found
+2025-05-01T18:44:00.207264300-->User with Username TestUserName found
+2025-05-01T18:44:00.207264300-->User with Username TestUserName found
+2025-05-01T18:44:00.210172500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:00.210172500-->UserDAO: Loaded 2 users
+2025-05-01T18:44:00.211274900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:00.212272800-->Password Hashed
+2025-05-01T18:44:00.212272800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:00.212272800-->UserDAO: Added user with UID 1
+2025-05-01T18:44:00.213272800-->User with Username TestUserName found
+2025-05-01T18:44:00.213272800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:00.213272800-->User TestUserName' password updated
+2025-05-01T18:44:00.214395800-->User with Username TestUserName found
+2025-05-01T18:44:00.214395800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:00.217726700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:00.218737300-->UserDAO: Loaded 3 users
+2025-05-01T18:44:00.220041300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:00.220041300-->Password Hashed
+2025-05-01T18:44:00.221048600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:00.221048600-->UserDAO: Added user with UID 1
+2025-05-01T18:44:00.222052800-->User with Username TestUserName found
+2025-05-01T18:44:00.222052800-->User TestUserName updated
+2025-05-01T18:44:00.222052800-->User with ID 1 found
+2025-05-01T18:44:09.882061500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:09.923577100-->UserDAO: Loaded 0 users
+2025-05-01T18:44:09.934579300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:09.934579300-->Password Hashed
+2025-05-01T18:44:09.936580-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:09.942579500-->UserDAO: Added user with UID 1
+2025-05-01T18:44:09.943579-->User with Username TestUserName found
+2025-05-01T18:44:09.949868800-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:44:09.958935900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:09.960348700-->UserDAO: Loaded 0 users
+2025-05-01T18:44:09.961357200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:09.961357200-->Password Hashed
+2025-05-01T18:44:09.962358900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:09.962358900-->UserDAO: Added user with UID 1
+2025-05-01T18:44:09.963356900-->User with Username TestUserName found
+2025-05-01T18:44:09.963356900-->User TestUserName found
+2025-05-01T18:44:09.963356900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:09.964357-->User TestUserName's hash matched
+2025-05-01T18:44:09.967742-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:09.973757-->UserDAO: Loaded 1 users
+2025-05-01T18:44:09.974758200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:09.974758200-->Password Hashed
+2025-05-01T18:44:09.975767800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:09.975767800-->UserDAO: Added user with UID 1
+2025-05-01T18:44:09.976767400-->User with Username TestUserName found
+2025-05-01T18:44:09.976767400-->User TestUserName updated
+2025-05-01T18:44:09.976767400-->User with Username TestUserName found
+2025-05-01T18:44:09.977765200-->User with Username TestUserName found
+2025-05-01T18:44:09.978765700-->User with Username TestUserName found
+2025-05-01T18:44:09.980911900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:09.982490800-->UserDAO: Loaded 2 users
+2025-05-01T18:44:09.983918600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:09.983918600-->Password Hashed
+2025-05-01T18:44:09.983918600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:09.983918600-->UserDAO: Added user with UID 1
+2025-05-01T18:44:09.985246800-->User with Username TestUserName found
+2025-05-01T18:44:09.985246800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:09.985246800-->User TestUserName' password is false
+2025-05-01T18:44:09.985246800-->User with Username TestUserName found
+2025-05-01T18:44:09.985246800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:09.997455200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:09.998457400-->UserDAO: Loaded 3 users
+2025-05-01T18:44:09.999455500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:09.999455500-->Password Hashed
+2025-05-01T18:44:09.999455500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:10.000955800-->UserDAO: Added user with UID 1
+2025-05-01T18:44:10.000955800-->User with Username TestUserName found
+2025-05-01T18:44:10.000955800-->User TestUserName updated
+2025-05-01T18:44:10.002009500-->User with ID 1 found
+2025-05-01T18:44:18.644762400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:18.688678600-->UserDAO: Loaded 0 users
+2025-05-01T18:44:18.716670200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:18.716670200-->Password Hashed
+2025-05-01T18:44:18.719669400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:18.724671400-->UserDAO: Added user with UID 1
+2025-05-01T18:44:18.726938600-->User with Username TestUserName found
+2025-05-01T18:44:18.728050500-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:44:18.737256200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:18.738219-->UserDAO: Loaded 0 users
+2025-05-01T18:44:18.738780400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:18.739791900-->Password Hashed
+2025-05-01T18:44:18.739791900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:18.739791900-->UserDAO: Added user with UID 1
+2025-05-01T18:44:18.739791900-->User with Username TestUserName found
+2025-05-01T18:44:18.740841-->User TestUserName found
+2025-05-01T18:44:18.740841-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:44:18.740841-->User TestUserName's hash matched
+2025-05-01T18:44:18.743914300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:18.748919900-->UserDAO: Loaded 1 users
+2025-05-01T18:44:18.750919600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:18.750919600-->Password Hashed
+2025-05-01T18:44:18.750919600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:18.751918200-->UserDAO: Added user with UID 1
+2025-05-01T18:44:18.751918200-->User with Username TestUserName found
+2025-05-01T18:44:18.751918200-->User TestUserName updated
+2025-05-01T18:44:18.751918200-->User with Username TestUserName found
+2025-05-01T18:44:18.752998-->User with Username TestUserName found
+2025-05-01T18:44:18.752998-->User with Username TestUserName found
+2025-05-01T18:44:18.757140800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:44:18.758147700-->UserDAO: Loaded 2 users
+2025-05-01T18:44:18.759208600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:44:18.759208600-->Password Hashed
+2025-05-01T18:44:18.759208600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:44:18.760269600-->UserDAO: Added user with UID 1
+2025-05-01T18:44:34.912643500-->User with Username TestUserName found
+2025-05-01T18:44:51.449826100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:45:19.780885800-->User TestUserName' password is false
+2025-05-01T18:45:24.681364700-->User with Username TestUserName found
+2025-05-01T18:45:24.682754400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:45:24.695959600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:24.696955500-->UserDAO: Loaded 3 users
+2025-05-01T18:45:24.698006100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:24.698006100-->Password Hashed
+2025-05-01T18:45:24.698006100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:24.699253700-->UserDAO: Added user with UID 1
+2025-05-01T18:45:24.699253700-->User with Username TestUserName found
+2025-05-01T18:45:24.699253700-->User TestUserName updated
+2025-05-01T18:45:24.700265800-->User with ID 1 found
+2025-05-01T18:45:53.703992900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:53.745134400-->UserDAO: Loaded 0 users
+2025-05-01T18:45:53.756108500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:53.757299400-->Password Hashed
+2025-05-01T18:45:53.758305600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:53.764146600-->UserDAO: Added user with UID 1
+2025-05-01T18:45:53.765190-->User with Username TestUserName found
+2025-05-01T18:45:53.766191700-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:45:53.777267700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:53.778270100-->UserDAO: Loaded 0 users
+2025-05-01T18:45:53.779267-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:53.779267-->Password Hashed
+2025-05-01T18:45:53.780265600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:53.780265600-->UserDAO: Added user with UID 1
+2025-05-01T18:45:53.781264-->User with Username TestUserName found
+2025-05-01T18:45:53.781264-->User TestUserName found
+2025-05-01T18:45:53.781264-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:45:53.781264-->User TestUserName's hash matched
+2025-05-01T18:45:53.786762-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:53.793266700-->UserDAO: Loaded 1 users
+2025-05-01T18:45:53.794263800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:53.794263800-->Password Hashed
+2025-05-01T18:45:53.794263800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:53.795632400-->UserDAO: Added user with UID 1
+2025-05-01T18:45:53.795632400-->User with Username TestUserName found
+2025-05-01T18:45:53.795632400-->User TestUserName updated
+2025-05-01T18:45:53.795632400-->User with Username TestUserName found
+2025-05-01T18:45:53.797082900-->User with Username TestUserName found
+2025-05-01T18:45:53.797082900-->User with Username TestUserName found
+2025-05-01T18:45:53.801134100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:53.802626400-->UserDAO: Loaded 2 users
+2025-05-01T18:45:53.803637900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:53.803637900-->Password Hashed
+2025-05-01T18:45:53.804636200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:53.804636200-->UserDAO: Added user with UID 1
+2025-05-01T18:45:53.805637400-->User with Username TestUserName found
+2025-05-01T18:45:53.805637400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:45:53.806143800-->User TestUserName' password is false
+2025-05-01T18:45:53.806143800-->User with Username TestUserName found
+2025-05-01T18:45:53.806143800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:45:53.818085200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:53.819585100-->UserDAO: Loaded 3 users
+2025-05-01T18:45:53.820596500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:53.820596500-->Password Hashed
+2025-05-01T18:45:53.821592900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:53.821592900-->UserDAO: Added user with UID 1
+2025-05-01T18:45:53.821592900-->User with Username TestUserName found
+2025-05-01T18:45:53.822770600-->User TestUserName updated
+2025-05-01T18:45:53.822770600-->User with ID 1 found
+2025-05-01T18:45:56.446393800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:56.490833100-->UserDAO: Loaded 0 users
+2025-05-01T18:45:56.518563600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:56.518563600-->Password Hashed
+2025-05-01T18:45:56.520564-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:56.524761600-->UserDAO: Added user with UID 1
+2025-05-01T18:45:56.528717200-->User with Username TestUserName found
+2025-05-01T18:45:56.529892900-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:45:56.539938600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:56.539938600-->UserDAO: Loaded 0 users
+2025-05-01T18:45:56.541443600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:56.541443600-->Password Hashed
+2025-05-01T18:45:56.541443600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:56.542447200-->UserDAO: Added user with UID 1
+2025-05-01T18:45:56.542447200-->User with Username TestUserName found
+2025-05-01T18:45:56.542447200-->User TestUserName found
+2025-05-01T18:45:56.543539400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:45:56.543539400-->User TestUserName's hash matched
+2025-05-01T18:45:56.545654900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:56.551100900-->UserDAO: Loaded 1 users
+2025-05-01T18:45:56.552548200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:56.552548200-->Password Hashed
+2025-05-01T18:45:56.553554700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:56.553554700-->UserDAO: Added user with UID 1
+2025-05-01T18:45:56.553554700-->User with Username TestUserName found
+2025-05-01T18:45:56.553554700-->User TestUserName updated
+2025-05-01T18:45:56.553554700-->User with Username TestUserName found
+2025-05-01T18:45:56.555013300-->User with Username TestUserName found
+2025-05-01T18:45:56.555013300-->User with Username TestUserName found
+2025-05-01T18:45:56.558023300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:45:56.559074700-->UserDAO: Loaded 2 users
+2025-05-01T18:45:56.560157500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:45:56.560157500-->Password Hashed
+2025-05-01T18:45:56.560157500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:45:56.561163400-->UserDAO: Added user with UID 1
+2025-05-01T18:45:56.561163400-->User with Username TestUserName found
+2025-05-01T18:45:56.561163400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:47:29.837580300-->User TestUserName' password is false
+2025-05-01T18:47:29.837580300-->User with Username TestUserName found
+2025-05-01T18:47:29.837580300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:47:29.852521100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:47:29.854008800-->UserDAO: Loaded 3 users
+2025-05-01T18:47:29.855229900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:47:29.856222-->Password Hashed
+2025-05-01T18:47:29.856222-->User namedTestUserNamecreated, UID1
+2025-05-01T18:47:29.856222-->UserDAO: Added user with UID 1
+2025-05-01T18:47:29.857225700-->User with Username TestUserName found
+2025-05-01T18:47:29.857225700-->User TestUserName updated
+2025-05-01T18:47:29.857225700-->User with ID 1 found
+2025-05-01T18:47:30.921639400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:47:30.968262800-->UserDAO: Loaded 0 users
+2025-05-01T18:47:30.996656600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:47:30.996656600-->Password Hashed
+2025-05-01T18:47:30.999109100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:47:31.004927500-->UserDAO: Added user with UID 1
+2025-05-01T18:47:31.010384500-->User with Username TestUserName found
+2025-05-01T18:47:31.011391200-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:47:31.021731900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:47:31.021731900-->UserDAO: Loaded 0 users
+2025-05-01T18:47:31.023836-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:47:31.023836-->Password Hashed
+2025-05-01T18:47:31.023836-->User namedTestUserNamecreated, UID1
+2025-05-01T18:47:31.024833-->UserDAO: Added user with UID 1
+2025-05-01T18:47:31.024833-->User with Username TestUserName found
+2025-05-01T18:47:31.024833-->User TestUserName found
+2025-05-01T18:47:31.025832500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:47:31.025832500-->User TestUserName's hash matched
+2025-05-01T18:47:31.028837200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:47:31.034154700-->UserDAO: Loaded 1 users
+2025-05-01T18:47:31.035625200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:47:31.035625200-->Password Hashed
+2025-05-01T18:47:31.035625200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:47:31.036640700-->UserDAO: Added user with UID 1
+2025-05-01T18:47:31.036640700-->User with Username TestUserName found
+2025-05-01T18:47:31.036640700-->User TestUserName updated
+2025-05-01T18:47:31.037652400-->User with Username TestUserName found
+2025-05-01T18:47:31.037652400-->User with Username TestUserName found
+2025-05-01T18:47:31.037652400-->User with Username TestUserName found
+2025-05-01T18:47:31.041070900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:47:31.042452700-->UserDAO: Loaded 2 users
+2025-05-01T18:47:31.043473900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:47:31.043473900-->Password Hashed
+2025-05-01T18:47:31.043473900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:47:31.044594100-->UserDAO: Added user with UID 1
+2025-05-01T18:47:31.044594100-->User with Username TestUserName found
+2025-05-01T18:47:53.853679100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:48:51.510358700-->User TestUserName' password updated
+2025-05-01T18:48:51.510358700-->User with Username TestUserName found
+2025-05-01T18:48:51.511811700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:48:51.514326900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:48:51.515724300-->UserDAO: Loaded 3 users
+2025-05-01T18:48:51.516947400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:48:51.516947400-->Password Hashed
+2025-05-01T18:48:51.516947400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:48:51.521894600-->UserDAO: Added user with UID 1
+2025-05-01T18:48:51.522909600-->User with Username TestUserName found
+2025-05-01T18:48:51.522909600-->User TestUserName updated
+2025-05-01T18:48:51.522909600-->User with ID 1 found
+2025-05-01T18:48:52.618884600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:48:52.669464700-->UserDAO: Loaded 0 users
+2025-05-01T18:48:52.700391800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:48:52.701391400-->Password Hashed
+2025-05-01T18:48:52.703852100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:48:52.709156700-->UserDAO: Added user with UID 1
+2025-05-01T18:48:52.711835400-->User with Username TestUserName found
+2025-05-01T18:48:52.713160300-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:48:52.723571600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:48:52.723571600-->UserDAO: Loaded 0 users
+2025-05-01T18:48:52.724566600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:48:52.725739600-->Password Hashed
+2025-05-01T18:48:52.725739600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:48:52.725739600-->UserDAO: Added user with UID 1
+2025-05-01T18:48:52.726747-->User with Username TestUserName found
+2025-05-01T18:48:52.726747-->User TestUserName found
+2025-05-01T18:48:52.726747-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:48:52.726747-->User TestUserName's hash matched
+2025-05-01T18:48:52.730372600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:48:52.736379900-->UserDAO: Loaded 1 users
+2025-05-01T18:48:52.737525100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:48:52.737525100-->Password Hashed
+2025-05-01T18:48:52.737525100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:48:52.738543-->UserDAO: Added user with UID 1
+2025-05-01T18:48:52.739537200-->User with Username TestUserName found
+2025-05-01T18:48:52.739537200-->User TestUserName updated
+2025-05-01T18:48:52.739537200-->User with Username TestUserName found
+2025-05-01T18:48:52.740821100-->User with Username TestUserName found
+2025-05-01T18:48:52.740821100-->User with Username TestUserName found
+2025-05-01T18:48:52.743192200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:48:52.744465300-->UserDAO: Loaded 2 users
+2025-05-01T18:50:06.836915700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:50:09.239149300-->Password Hashed
+2025-05-01T18:50:09.821697-->User namedTestUserNamecreated, UID1
+2025-05-01T18:50:14.285535-->UserDAO: Added user with UID 1
+2025-05-01T18:50:38.638877-->User with Username TestUserName found
+2025-05-01T18:50:57.079865600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:51:22.306127100-->User TestUserName' password updated
+2025-05-01T18:51:27.337673800-->User with Username TestUserName found
+2025-05-01T18:51:27.339979100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:51:29.058070700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:51:29.061072700-->UserDAO: Loaded 3 users
+2025-05-01T18:51:29.063352600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:51:29.064352-->Password Hashed
+2025-05-01T18:51:29.065351700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:51:29.066351300-->UserDAO: Added user with UID 1
+2025-05-01T18:51:29.067352-->User with Username TestUserName found
+2025-05-01T18:51:29.068351700-->User TestUserName updated
+2025-05-01T18:51:29.069351400-->User with ID 1 found
+2025-05-01T18:51:36.594262700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:51:36.636355600-->UserDAO: Loaded 0 users
+2025-05-01T18:51:36.648949700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:51:36.648949700-->Password Hashed
+2025-05-01T18:51:36.650945400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:51:36.656586-->UserDAO: Added user with UID 1
+2025-05-01T18:51:36.657594600-->User with Username TestUserName found
+2025-05-01T18:51:36.657594600-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:51:36.669011600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:51:36.669011600-->UserDAO: Loaded 0 users
+2025-05-01T18:51:36.670011500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:51:36.671011900-->Password Hashed
+2025-05-01T18:51:36.671011900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:51:36.671011900-->UserDAO: Added user with UID 1
+2025-05-01T18:51:36.672010900-->User with Username TestUserName found
+2025-05-01T18:51:36.672010900-->User TestUserName found
+2025-05-01T18:51:36.672010900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:51:36.673012200-->User TestUserName's hash matched
+2025-05-01T18:51:36.675515500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:51:36.681008200-->UserDAO: Loaded 1 users
+2025-05-01T18:51:36.683165-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:51:36.683165-->Password Hashed
+2025-05-01T18:51:36.683165-->User namedTestUserNamecreated, UID1
+2025-05-01T18:51:36.684165600-->UserDAO: Added user with UID 1
+2025-05-01T18:51:36.684165600-->User with Username TestUserName found
+2025-05-01T18:51:36.684165600-->User TestUserName updated
+2025-05-01T18:51:36.685166200-->User with Username TestUserName found
+2025-05-01T18:51:36.686165300-->User with Username TestUserName found
+2025-05-01T18:51:36.686165300-->User with Username TestUserName found
+2025-05-01T18:51:36.689168900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:51:36.690165700-->UserDAO: Loaded 2 users
+2025-05-01T18:51:36.691166400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:51:36.692165800-->Password Hashed
+2025-05-01T18:51:36.692165800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:51:36.692165800-->UserDAO: Added user with UID 1
+2025-05-01T18:51:36.693165400-->User with Username TestUserName found
+2025-05-01T18:51:36.693165400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:51:36.693165400-->User TestUserName' password is false
+2025-05-01T18:51:36.693165400-->User with Username TestUserName found
+2025-05-01T18:51:36.694167300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:51:36.705995800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:51:36.707497900-->UserDAO: Loaded 3 users
+2025-05-01T18:51:36.708505300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:51:36.708505300-->Password Hashed
+2025-05-01T18:51:36.709506200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:51:36.709506200-->UserDAO: Added user with UID 1
+2025-05-01T18:51:36.709506200-->User with Username TestUserName found
+2025-05-01T18:51:36.710507200-->User TestUserName updated
+2025-05-01T18:51:36.710507200-->User with ID 1 found
+2025-05-01T18:53:09.234448100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:09.269015700-->UserDAO: Loaded 0 users
+2025-05-01T18:53:09.279010100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:09.279010100-->Password Hashed
+2025-05-01T18:53:09.281490500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:09.285965-->UserDAO: Added user with UID 1
+2025-05-01T18:53:09.287081200-->User with Username TestUserName found
+2025-05-01T18:53:09.288341400-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:09.298351400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:09.299351500-->UserDAO: Loaded 0 users
+2025-05-01T18:53:09.300348900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:09.300348900-->Password Hashed
+2025-05-01T18:53:09.301349600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:09.301349600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:09.301349600-->User with Username TestUserName found
+2025-05-01T18:53:09.302349400-->User TestUserName found
+2025-05-01T18:53:09.302349400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:09.302349400-->User TestUserName's hash matched
+2025-05-01T18:53:09.305350100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:09.309346600-->UserDAO: Loaded 1 users
+2025-05-01T18:53:09.310348200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:09.310348200-->Password Hashed
+2025-05-01T18:53:09.311347600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:09.311347600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:09.312348-->User with Username TestUserName found
+2025-05-01T18:53:09.312348-->User TestUserName updated
+2025-05-01T18:53:09.312348-->User with Username TestUserName found
+2025-05-01T18:53:09.313347900-->User with Username TestUserName found
+2025-05-01T18:53:09.313347900-->User with Username TestUserName found
+2025-05-01T18:53:09.317347400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:09.318346200-->UserDAO: Loaded 2 users
+2025-05-01T18:53:09.319347500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:09.319347500-->Password Hashed
+2025-05-01T18:53:09.320346400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:09.320346400-->UserDAO: Added user with UID 1
+2025-05-01T18:53:09.320346400-->User with Username TestUserName found
+2025-05-01T18:53:09.321347800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:09.321347800-->User TestUserName' password updated
+2025-05-01T18:53:09.321347800-->User with ID 1 found
+2025-05-01T18:53:09.322347500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:09.324351900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:09.325354200-->UserDAO: Loaded 3 users
+2025-05-01T18:53:09.326354200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:09.327354500-->Password Hashed
+2025-05-01T18:53:09.327354500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:09.327354500-->UserDAO: Added user with UID 1
+2025-05-01T18:53:09.328354800-->User with Username TestUserName found
+2025-05-01T18:53:09.328354800-->User TestUserName updated
+2025-05-01T18:53:09.328354800-->User with ID 1 found
+2025-05-01T18:53:11.478660-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:11.517830700-->UserDAO: Loaded 0 users
+2025-05-01T18:53:11.529735500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:11.530732500-->Password Hashed
+2025-05-01T18:53:11.531734-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:11.538204200-->UserDAO: Added user with UID 1
+2025-05-01T18:53:11.538204200-->User with Username TestUserName found
+2025-05-01T18:53:11.539213800-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:11.549283600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:11.550623800-->UserDAO: Loaded 0 users
+2025-05-01T18:53:11.551631700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:11.551631700-->Password Hashed
+2025-05-01T18:53:11.551631700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:11.551631700-->UserDAO: Added user with UID 1
+2025-05-01T18:53:11.552934900-->User with Username TestUserName found
+2025-05-01T18:53:11.552934900-->User TestUserName found
+2025-05-01T18:53:11.552934900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:11.553944800-->User TestUserName's hash matched
+2025-05-01T18:53:11.557251900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:11.562384-->UserDAO: Loaded 1 users
+2025-05-01T18:53:11.563391-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:11.564389900-->Password Hashed
+2025-05-01T18:53:11.564389900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:11.565392900-->UserDAO: Added user with UID 1
+2025-05-01T18:53:11.565392900-->User with Username TestUserName found
+2025-05-01T18:53:11.565392900-->User TestUserName updated
+2025-05-01T18:53:11.565392900-->User with Username TestUserName found
+2025-05-01T18:53:11.566769300-->User with Username TestUserName found
+2025-05-01T18:53:11.566769300-->User with Username TestUserName found
+2025-05-01T18:53:11.570694900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:11.571701500-->UserDAO: Loaded 2 users
+2025-05-01T18:53:11.572703300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:11.572703300-->Password Hashed
+2025-05-01T18:53:11.572703300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:11.574002500-->UserDAO: Added user with UID 1
+2025-05-01T18:53:11.574002500-->User with Username TestUserName found
+2025-05-01T18:53:11.574002500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:11.574002500-->User TestUserName' password is false
+2025-05-01T18:53:11.575435300-->User with ID 1 found
+2025-05-01T18:53:11.575435300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:11.587948200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:11.588951600-->UserDAO: Loaded 3 users
+2025-05-01T18:53:11.589949300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:11.589949300-->Password Hashed
+2025-05-01T18:53:11.589949300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:11.589949300-->UserDAO: Added user with UID 1
+2025-05-01T18:53:11.591249800-->User with Username TestUserName found
+2025-05-01T18:53:11.591249800-->User TestUserName updated
+2025-05-01T18:53:11.591249800-->User with ID 1 found
+2025-05-01T18:53:19.329137100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:19.367104800-->UserDAO: Loaded 0 users
+2025-05-01T18:53:19.378143900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:19.378143900-->Password Hashed
+2025-05-01T18:53:19.380741300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:19.385389100-->UserDAO: Added user with UID 1
+2025-05-01T18:53:19.386396400-->User with Username TestUserName found
+2025-05-01T18:53:19.387396400-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:19.397214600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:19.398627400-->UserDAO: Loaded 0 users
+2025-05-01T18:53:19.400113300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:19.400113300-->Password Hashed
+2025-05-01T18:53:19.400113300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:19.401285600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:19.401285600-->User with Username TestUserName found
+2025-05-01T18:53:19.401285600-->User TestUserName found
+2025-05-01T18:53:19.401285600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:19.402680-->User TestUserName's hash matched
+2025-05-01T18:53:19.406353-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:19.412021700-->UserDAO: Loaded 1 users
+2025-05-01T18:53:19.413026100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:19.413026100-->Password Hashed
+2025-05-01T18:53:19.413026100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:19.414269600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:19.414269600-->User with Username TestUserName found
+2025-05-01T18:53:19.414269600-->User TestUserName updated
+2025-05-01T18:53:19.415276600-->User with Username TestUserName found
+2025-05-01T18:53:19.415276600-->User with Username TestUserName found
+2025-05-01T18:53:19.416277800-->User with Username TestUserName found
+2025-05-01T18:53:19.419763300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:19.420762500-->UserDAO: Loaded 2 users
+2025-05-01T18:53:19.420762500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:19.422039900-->Password Hashed
+2025-05-01T18:53:19.422039900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:19.423048400-->UserDAO: Added user with UID 1
+2025-05-01T18:53:19.423048400-->User with Username TestUserName found
+2025-05-01T18:53:19.423048400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:19.424047600-->User TestUserName' password updated
+2025-05-01T18:53:19.424047600-->User with ID 1 found
+2025-05-01T18:53:19.424047600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:19.427203200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:19.428204100-->UserDAO: Loaded 3 users
+2025-05-01T18:53:19.430203800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:19.430203800-->Password Hashed
+2025-05-01T18:53:19.430203800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:19.431203900-->UserDAO: Added user with UID 1
+2025-05-01T18:53:19.431203900-->User with Username TestUserName found
+2025-05-01T18:53:19.431203900-->User TestUserName updated
+2025-05-01T18:53:19.432203100-->User with ID 1 found
+2025-05-01T18:53:21.648647300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:21.688323-->UserDAO: Loaded 0 users
+2025-05-01T18:53:21.700870800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:21.701869200-->Password Hashed
+2025-05-01T18:53:21.703868200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:21.709500100-->UserDAO: Added user with UID 1
+2025-05-01T18:53:21.709500100-->User with Username TestUserName found
+2025-05-01T18:53:21.711002400-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:21.722904700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:21.724064100-->UserDAO: Loaded 0 users
+2025-05-01T18:53:21.725101900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:21.725101900-->Password Hashed
+2025-05-01T18:53:21.725101900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:21.726560200-->UserDAO: Added user with UID 1
+2025-05-01T18:53:21.726560200-->User with Username TestUserName found
+2025-05-01T18:53:21.726560200-->User TestUserName found
+2025-05-01T18:53:21.726560200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:21.727840700-->User TestUserName's hash matched
+2025-05-01T18:53:21.730886500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:21.736103100-->UserDAO: Loaded 1 users
+2025-05-01T18:53:21.737100200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:21.737100200-->Password Hashed
+2025-05-01T18:53:21.737100200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:21.738569800-->UserDAO: Added user with UID 1
+2025-05-01T18:53:21.738569800-->User with Username TestUserName found
+2025-05-01T18:53:21.738569800-->User TestUserName updated
+2025-05-01T18:53:21.738569800-->User with Username TestUserName found
+2025-05-01T18:53:21.740020100-->User with Username TestUserName found
+2025-05-01T18:53:21.740020100-->User with Username TestUserName found
+2025-05-01T18:53:21.743218700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:21.744217500-->UserDAO: Loaded 2 users
+2025-05-01T18:53:21.745223900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:21.745223900-->Password Hashed
+2025-05-01T18:53:21.745223900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:21.746230500-->UserDAO: Added user with UID 1
+2025-05-01T18:53:21.746230500-->User with Username TestUserName found
+2025-05-01T18:53:21.746230500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:21.747530400-->User TestUserName' password updated
+2025-05-01T18:53:21.747530400-->User with ID 1 found
+2025-05-01T18:53:21.747530400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:21.751040300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:21.752042300-->UserDAO: Loaded 3 users
+2025-05-01T18:53:21.753177100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:21.753177100-->Password Hashed
+2025-05-01T18:53:21.753177100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:21.754183700-->UserDAO: Added user with UID 1
+2025-05-01T18:53:21.754183700-->User with Username TestUserName found
+2025-05-01T18:53:21.754183700-->User TestUserName updated
+2025-05-01T18:53:21.755183700-->User with ID 1 found
+2025-05-01T18:53:23.600400900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:23.639224300-->UserDAO: Loaded 0 users
+2025-05-01T18:53:23.650278200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:23.650278200-->Password Hashed
+2025-05-01T18:53:23.652275100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:23.657532300-->UserDAO: Added user with UID 1
+2025-05-01T18:53:23.658541-->User with Username TestUserName found
+2025-05-01T18:53:23.659540300-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:23.669892600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:23.671167600-->UserDAO: Loaded 0 users
+2025-05-01T18:53:23.671167600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:23.671167600-->Password Hashed
+2025-05-01T18:53:23.672563900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:23.672563900-->UserDAO: Added user with UID 1
+2025-05-01T18:53:23.672563900-->User with Username TestUserName found
+2025-05-01T18:53:23.673676800-->User TestUserName found
+2025-05-01T18:53:23.673676800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:23.673676800-->User TestUserName's hash matched
+2025-05-01T18:53:23.677410-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:23.682695400-->UserDAO: Loaded 1 users
+2025-05-01T18:53:23.683695300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:23.683695300-->Password Hashed
+2025-05-01T18:53:23.683695300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:23.684695400-->UserDAO: Added user with UID 1
+2025-05-01T18:53:23.684695400-->User with Username TestUserName found
+2025-05-01T18:53:23.685696400-->User TestUserName updated
+2025-05-01T18:53:23.685696400-->User with Username TestUserName found
+2025-05-01T18:53:23.685696400-->User with Username TestUserName found
+2025-05-01T18:53:23.686696500-->User with Username TestUserName found
+2025-05-01T18:53:23.689695300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:23.691054100-->UserDAO: Loaded 2 users
+2025-05-01T18:53:23.692061800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:23.692061800-->Password Hashed
+2025-05-01T18:53:23.692061800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:23.693062500-->UserDAO: Added user with UID 1
+2025-05-01T18:53:23.693062500-->User with Username TestUserName found
+2025-05-01T18:53:23.694061600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:23.694061600-->User TestUserName' password is false
+2025-05-01T18:53:23.694061600-->User with ID 1 found
+2025-05-01T18:53:23.695061600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:23.705262-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:23.706270800-->UserDAO: Loaded 3 users
+2025-05-01T18:53:23.707269800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:23.707269800-->Password Hashed
+2025-05-01T18:53:23.707269800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:23.708735300-->UserDAO: Added user with UID 1
+2025-05-01T18:53:23.708735300-->User with Username TestUserName found
+2025-05-01T18:53:23.708735300-->User TestUserName updated
+2025-05-01T18:53:23.709741-->User with ID 1 found
+2025-05-01T18:53:28.244315600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:28.282094900-->UserDAO: Loaded 0 users
+2025-05-01T18:53:28.293092900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:28.294092500-->Password Hashed
+2025-05-01T18:53:28.296092100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:28.300094300-->UserDAO: Added user with UID 1
+2025-05-01T18:53:28.301096900-->User with Username TestUserName found
+2025-05-01T18:53:28.301096900-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:28.320494800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:28.321864800-->UserDAO: Loaded 0 users
+2025-05-01T18:53:28.322399900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:28.322399900-->Password Hashed
+2025-05-01T18:53:28.323404600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:28.323404600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:28.323404600-->User with Username TestUserName found
+2025-05-01T18:53:28.324752500-->User TestUserName found
+2025-05-01T18:53:28.324752500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:28.324752500-->User TestUserName's hash matched
+2025-05-01T18:53:28.328869300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:28.334062500-->UserDAO: Loaded 1 users
+2025-05-01T18:53:28.335061400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:28.335061400-->Password Hashed
+2025-05-01T18:53:28.335061400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:28.336448800-->UserDAO: Added user with UID 1
+2025-05-01T18:53:28.336448800-->User with Username TestUserName found
+2025-05-01T18:53:28.337455-->User TestUserName updated
+2025-05-01T18:53:28.337455-->User with Username TestUserName found
+2025-05-01T18:53:28.338536500-->User with Username TestUserName found
+2025-05-01T18:53:28.338536500-->User with Username TestUserName found
+2025-05-01T18:53:28.341895-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:28.342901500-->UserDAO: Loaded 2 users
+2025-05-01T18:53:28.343903600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:28.343903600-->Password Hashed
+2025-05-01T18:53:28.344902600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:28.344902600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:28.345903-->User with Username TestUserName found
+2025-05-01T18:53:28.345903-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:28.346901500-->User TestUserName' password is false
+2025-05-01T18:53:28.346901500-->User with ID 1 found
+2025-05-01T18:53:28.346901500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:28.357646700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:28.358975400-->UserDAO: Loaded 3 users
+2025-05-01T18:53:28.360020400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:28.360020400-->Password Hashed
+2025-05-01T18:53:28.361463700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:28.361463700-->UserDAO: Added user with UID 1
+2025-05-01T18:53:28.361463700-->User with Username TestUserName found
+2025-05-01T18:53:28.361463700-->User TestUserName updated
+2025-05-01T18:53:28.361463700-->User with ID 1 found
+2025-05-01T18:53:30.632908100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:30.675640800-->UserDAO: Loaded 0 users
+2025-05-01T18:53:30.686656200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:30.686656200-->Password Hashed
+2025-05-01T18:53:30.689667100-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:30.694663400-->UserDAO: Added user with UID 1
+2025-05-01T18:53:30.695913100-->User with Username TestUserName found
+2025-05-01T18:53:30.697483700-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:30.708099800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:30.708099800-->UserDAO: Loaded 0 users
+2025-05-01T18:53:30.710093900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:30.710093900-->Password Hashed
+2025-05-01T18:53:30.710093900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:30.711100900-->UserDAO: Added user with UID 1
+2025-05-01T18:53:30.711100900-->User with Username TestUserName found
+2025-05-01T18:53:30.711100900-->User TestUserName found
+2025-05-01T18:53:30.712101500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:30.712101500-->User TestUserName's hash matched
+2025-05-01T18:53:30.716066-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:30.721659300-->UserDAO: Loaded 1 users
+2025-05-01T18:53:30.722693700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:30.722693700-->Password Hashed
+2025-05-01T18:53:30.722693700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:30.723727300-->UserDAO: Added user with UID 1
+2025-05-01T18:53:30.723727300-->User with Username TestUserName found
+2025-05-01T18:53:30.724771400-->User TestUserName updated
+2025-05-01T18:53:30.724771400-->User with Username TestUserName found
+2025-05-01T18:53:30.724771400-->User with Username TestUserName found
+2025-05-01T18:53:30.724771400-->User with Username TestUserName found
+2025-05-01T18:53:30.729170600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:30.730171900-->UserDAO: Loaded 2 users
+2025-05-01T18:53:30.731173700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:30.732173500-->Password Hashed
+2025-05-01T18:53:30.732173500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:30.733170500-->UserDAO: Added user with UID 1
+2025-05-01T18:53:30.733170500-->User with Username TestUserName found
+2025-05-01T18:53:30.733170500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:30.734171600-->User TestUserName' password is false
+2025-05-01T18:53:30.734171600-->User with ID 1 found
+2025-05-01T18:53:30.735169100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:30.746322400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:30.748385500-->UserDAO: Loaded 3 users
+2025-05-01T18:53:30.749394400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:30.749394400-->Password Hashed
+2025-05-01T18:53:30.750384500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:30.750384500-->UserDAO: Added user with UID 1
+2025-05-01T18:53:30.751391200-->User with Username TestUserName found
+2025-05-01T18:53:30.751391200-->User TestUserName updated
+2025-05-01T18:53:30.751391200-->User with ID 1 found
+2025-05-01T18:53:32.458027-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:32.496427300-->UserDAO: Loaded 0 users
+2025-05-01T18:53:32.508894900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:32.509892600-->Password Hashed
+2025-05-01T18:53:32.510893800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:32.516716900-->UserDAO: Added user with UID 1
+2025-05-01T18:53:32.517724600-->User with Username TestUserName found
+2025-05-01T18:53:32.518722300-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:32.529759200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:32.529759200-->UserDAO: Loaded 0 users
+2025-05-01T18:53:32.530763600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:32.530763600-->Password Hashed
+2025-05-01T18:53:32.531763-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:32.531763-->UserDAO: Added user with UID 1
+2025-05-01T18:53:32.531763-->User with Username TestUserName found
+2025-05-01T18:53:32.532762800-->User TestUserName found
+2025-05-01T18:53:32.532762800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:32.532762800-->User TestUserName's hash matched
+2025-05-01T18:53:32.536173300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:32.541041800-->UserDAO: Loaded 1 users
+2025-05-01T18:53:32.543049900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:32.543049900-->Password Hashed
+2025-05-01T18:53:32.543049900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:32.544143400-->UserDAO: Added user with UID 1
+2025-05-01T18:53:32.544143400-->User with Username TestUserName found
+2025-05-01T18:53:32.544143400-->User TestUserName updated
+2025-05-01T18:53:32.544143400-->User with Username TestUserName found
+2025-05-01T18:53:32.545152500-->User with Username TestUserName found
+2025-05-01T18:53:32.545152500-->User with Username TestUserName found
+2025-05-01T18:53:32.547634800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:32.549086100-->UserDAO: Loaded 2 users
+2025-05-01T18:53:32.550096200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:32.551095700-->Password Hashed
+2025-05-01T18:53:32.551095700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:32.551095700-->UserDAO: Added user with UID 1
+2025-05-01T18:53:32.552197800-->User with Username TestUserName found
+2025-05-01T18:53:32.552197800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:32.552197800-->User TestUserName' password is false
+2025-05-01T18:53:32.553585800-->User with ID 1 found
+2025-05-01T18:53:32.553585800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:32.564496600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:32.565897500-->UserDAO: Loaded 3 users
+2025-05-01T18:53:32.566914300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:32.566914300-->Password Hashed
+2025-05-01T18:53:32.568229700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:32.568229700-->UserDAO: Added user with UID 1
+2025-05-01T18:53:32.568229700-->User with Username TestUserName found
+2025-05-01T18:53:32.569517600-->User TestUserName updated
+2025-05-01T18:53:32.569517600-->User with ID 1 found
+2025-05-01T18:53:55.601878400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:55.645360400-->UserDAO: Loaded 0 users
+2025-05-01T18:53:55.673230100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:55.674237600-->Password Hashed
+2025-05-01T18:53:55.676237600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:55.680869-->UserDAO: Added user with UID 1
+2025-05-01T18:53:55.682868800-->User with Username TestUserName found
+2025-05-01T18:53:55.683872-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:53:55.692548800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:55.694002400-->UserDAO: Loaded 0 users
+2025-05-01T18:53:55.695012200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:55.695012200-->Password Hashed
+2025-05-01T18:53:55.695012200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:55.696356600-->UserDAO: Added user with UID 1
+2025-05-01T18:53:55.696356600-->User with Username TestUserName found
+2025-05-01T18:53:55.696356600-->User TestUserName found
+2025-05-01T18:53:55.696356600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:53:55.697408600-->User TestUserName's hash matched
+2025-05-01T18:53:55.700207800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:55.705103700-->UserDAO: Loaded 1 users
+2025-05-01T18:53:55.706566900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:55.706566900-->Password Hashed
+2025-05-01T18:53:55.706566900-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:55.707573100-->UserDAO: Added user with UID 1
+2025-05-01T18:53:55.707573100-->User with Username TestUserName found
+2025-05-01T18:53:55.707573100-->User TestUserName updated
+2025-05-01T18:53:55.707573100-->User with Username TestUserName found
+2025-05-01T18:53:55.708574400-->User with Username TestUserName found
+2025-05-01T18:53:55.708574400-->User with Username TestUserName found
+2025-05-01T18:53:55.711693900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:53:55.711693900-->UserDAO: Loaded 2 users
+2025-05-01T18:53:55.712694400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:53:55.713691400-->Password Hashed
+2025-05-01T18:53:55.713691400-->User namedTestUserNamecreated, UID1
+2025-05-01T18:53:55.713691400-->UserDAO: Added user with UID 1
+2025-05-01T18:54:16.663479100-->User with Username TestUserName found
+2025-05-01T18:54:27.274705700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:54:27.275822200-->User TestUserName' password is false
+2025-05-01T18:54:27.277257100-->User with ID 1 found
+2025-05-01T18:54:27.278268700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:54:27.290340500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:54:27.291347400-->UserDAO: Loaded 3 users
+2025-05-01T18:54:27.292506-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:54:27.293511800-->Password Hashed
+2025-05-01T18:54:27.293511800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:55:55.777232500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:55:55.824437700-->UserDAO: Loaded 0 users
+2025-05-01T18:55:55.851282100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:55:55.852786200-->Password Hashed
+2025-05-01T18:55:55.854863800-->User namedTestUserNamecreated, UID1
+2025-05-01T18:55:55.859232100-->UserDAO: Added user with UID 1
+2025-05-01T18:55:55.861231600-->User with Username TestUserName found
+2025-05-01T18:55:55.862292500-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:55:55.871835300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:55:55.871835300-->UserDAO: Loaded 0 users
+2025-05-01T18:55:55.872844300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:55:55.872844300-->Password Hashed
+2025-05-01T18:55:55.872844300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:55:55.872844300-->UserDAO: Added user with UID 1
+2025-05-01T18:55:55.874175400-->User with Username TestUserName found
+2025-05-01T18:55:55.874175400-->User TestUserName found
+2025-05-01T18:55:55.874175400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:55:55.874175400-->User TestUserName's hash matched
+2025-05-01T18:55:55.877263-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:55:55.882507600-->UserDAO: Loaded 1 users
+2025-05-01T18:55:55.883506800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:55:55.884802700-->Password Hashed
+2025-05-01T18:55:55.884802700-->User namedTestUserNamecreated, UID1
+2025-05-01T18:55:55.884802700-->UserDAO: Added user with UID 1
+2025-05-01T18:55:55.885808700-->User with Username TestUserName found
+2025-05-01T18:55:55.885808700-->User TestUserName updated
+2025-05-01T18:55:55.885808700-->User with Username TestUserName found
+2025-05-01T18:55:55.886811100-->User with Username TestUserName found
+2025-05-01T18:55:55.886811100-->User with Username TestUserName found
+2025-05-01T18:55:55.888811-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:55:55.890211900-->UserDAO: Loaded 2 users
+2025-05-01T18:55:55.891273500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:55:55.891273500-->Password Hashed
+2025-05-01T18:55:55.891273500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:55:55.891273500-->UserDAO: Added user with UID 1
+2025-05-01T18:55:58.979888200-->User with Username TestUserName found
+2025-05-01T18:55:58.980937800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:55:58.982236-->User TestUserName' password is false
+2025-05-01T18:56:01.233604900-->User with ID 1 found
+2025-05-01T18:56:01.235009600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:56:01.247820800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:56:01.248829700-->UserDAO: Loaded 3 users
+2025-05-01T18:56:01.249826200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:56:01.249826200-->Password Hashed
+2025-05-01T18:56:01.249826200-->User namedTestUserNamecreated, UID1
+2025-05-01T18:56:01.250959400-->UserDAO: Added user with UID 1
+2025-05-01T18:56:01.250959400-->User with Username TestUserName found
+2025-05-01T18:56:01.250959400-->User TestUserName updated
+2025-05-01T18:56:01.251967700-->User with ID 1 found
+2025-05-01T18:56:03.802820700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:56:03.851280800-->UserDAO: Loaded 0 users
+2025-05-01T18:56:03.881689200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:56:03.881689200-->Password Hashed
+2025-05-01T18:56:03.883686500-->User namedTestUserNamecreated, UID1
+2025-05-01T18:56:03.889189100-->UserDAO: Added user with UID 1
+2025-05-01T18:56:03.891657700-->User with Username TestUserName found
+2025-05-01T18:56:03.892749700-->UserDAO: User with UID 1 successfully removed
+2025-05-01T18:56:03.901892400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:56:03.902898600-->UserDAO: Loaded 0 users
+2025-05-01T18:56:03.903899300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:56:03.903899300-->Password Hashed
+2025-05-01T18:56:03.903899300-->User namedTestUserNamecreated, UID1
+2025-05-01T18:56:03.904903100-->UserDAO: Added user with UID 1
+2025-05-01T18:56:03.904903100-->User with Username TestUserName found
+2025-05-01T18:56:03.904903100-->User TestUserName found
+2025-05-01T18:56:03.904903100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:56:03.905900800-->User TestUserName's hash matched
+2025-05-01T18:56:03.907898700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:56:03.912899600-->UserDAO: Loaded 1 users
+2025-05-01T18:56:03.914899-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:56:03.914899-->Password Hashed
+2025-05-01T18:56:03.914899-->User namedTestUserNamecreated, UID1
+2025-05-01T18:56:03.915902-->UserDAO: Added user with UID 1
+2025-05-01T18:56:03.915902-->User with Username TestUserName found
+2025-05-01T18:56:03.916898400-->User TestUserName updated
+2025-05-01T18:56:03.916898400-->User with Username TestUserName found
+2025-05-01T18:56:03.917899800-->User with Username TestUserName found
+2025-05-01T18:56:03.917899800-->User with Username TestUserName found
+2025-05-01T18:56:03.920900900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:56:03.920900900-->UserDAO: Loaded 2 users
+2025-05-01T18:56:03.921899200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T18:56:03.922900600-->Password Hashed
+2025-05-01T18:56:03.922900600-->User namedTestUserNamecreated, UID1
+2025-05-01T18:56:03.923898300-->UserDAO: Added user with UID 1
+2025-05-01T18:56:28.905866400-->User with Username TestUserName found
+2025-05-01T18:56:28.908101400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:56:28.909101600-->User TestUserName' password is false
+2025-05-01T18:56:28.910097900-->User with ID 1 found
+2025-05-01T18:56:28.910097900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T18:56:28.923591500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T18:56:28.923591500-->UserDAO: Loaded 3 users
+2025-05-01T18:56:28.924886200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:49.034611300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:49.074368200-->UserDAO: Loaded 0 users
+2025-05-01T19:07:49.086430200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:49.086430200-->Password Hashed
+2025-05-01T19:07:49.088698800-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:49.093867300-->UserDAO: Added user with UID 1
+2025-05-01T19:07:49.094868400-->User with Username TestUserName found
+2025-05-01T19:07:49.094868400-->UserDAO: User with UID 1 successfully removed
+2025-05-01T19:07:49.106126100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:49.106126100-->UserDAO: Loaded 0 users
+2025-05-01T19:07:49.107461700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:49.107461700-->Password Hashed
+2025-05-01T19:07:49.108471600-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:49.108471600-->UserDAO: Added user with UID 1
+2025-05-01T19:07:49.108471600-->User with Username TestUserName found
+2025-05-01T19:07:49.109855-->User TestUserName found
+2025-05-01T19:07:49.109855-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:49.109855-->User TestUserName's hash matched
+2025-05-01T19:07:49.113064700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:49.114073900-->UserDAO: Loaded 0 users
+2025-05-01T19:07:49.115077100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:49.115077100-->Password Hashed
+2025-05-01T19:07:49.115077100-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:49.116072600-->UserDAO: Added user with UID 1
+2025-05-01T19:07:49.116072600-->User with Username TestUserName found
+2025-05-01T19:07:49.116072600-->User TestUserName updated
+2025-05-01T19:07:49.116072600-->User with Username TestUserName found
+2025-05-01T19:07:49.117072700-->User with Username TestUserName found
+2025-05-01T19:07:49.117072700-->User with Username TestUserName found
+2025-05-01T19:07:49.119556700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:49.120926900-->UserDAO: Loaded 0 users
+2025-05-01T19:07:49.120926900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:49.121935300-->Password Hashed
+2025-05-01T19:07:49.121935300-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:49.121935300-->UserDAO: Added user with UID 1
+2025-05-01T19:07:49.121935300-->User with Username TestUserName found
+2025-05-01T19:07:49.123374800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:49.123374800-->User TestUserName' password updated
+2025-05-01T19:07:49.123374800-->User with ID 1 found
+2025-05-01T19:07:49.123374800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:49.126150400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:49.126150400-->UserDAO: Loaded 0 users
+2025-05-01T19:07:49.127151200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:49.128152700-->Password Hashed
+2025-05-01T19:07:49.128152700-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:49.128152700-->UserDAO: Added user with UID 1
+2025-05-01T19:07:49.129151800-->User with Username TestUserName found
+2025-05-01T19:07:49.129151800-->User TestUserName updated
+2025-05-01T19:07:49.129151800-->User with ID 1 found
+2025-05-01T19:07:52.576907900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:52.616119700-->UserDAO: Loaded 0 users
+2025-05-01T19:07:52.628257900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:52.629259-->Password Hashed
+2025-05-01T19:07:52.630259900-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:52.635684300-->UserDAO: Added user with UID 1
+2025-05-01T19:07:52.635684300-->User with Username TestUserName found
+2025-05-01T19:07:52.638134100-->UserDAO: User with UID 1 successfully removed
+2025-05-01T19:07:52.649186300-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:52.649186300-->UserDAO: Loaded 0 users
+2025-05-01T19:07:52.650186800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:52.650186800-->Password Hashed
+2025-05-01T19:07:52.651187500-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:52.651187500-->UserDAO: Added user with UID 1
+2025-05-01T19:07:52.651187500-->User with Username TestUserName found
+2025-05-01T19:07:52.652186700-->User TestUserName found
+2025-05-01T19:07:52.652186700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:52.652186700-->User TestUserName's hash matched
+2025-05-01T19:07:52.655188400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:52.655188400-->UserDAO: Loaded 0 users
+2025-05-01T19:07:52.656187-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:52.656187-->Password Hashed
+2025-05-01T19:07:52.657187200-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:52.657187200-->UserDAO: Added user with UID 1
+2025-05-01T19:07:52.657187200-->User with Username TestUserName found
+2025-05-01T19:07:52.658187400-->User TestUserName updated
+2025-05-01T19:07:52.658187400-->User with Username TestUserName found
+2025-05-01T19:07:52.658187400-->User with Username TestUserName found
+2025-05-01T19:07:52.659188400-->User with Username TestUserName found
+2025-05-01T19:07:52.661595100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:52.661595100-->UserDAO: Loaded 0 users
+2025-05-01T19:07:52.662605400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:52.662605400-->Password Hashed
+2025-05-01T19:07:52.663606-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:52.663606-->UserDAO: Added user with UID 1
+2025-05-01T19:07:52.663606-->User with Username TestUserName found
+2025-05-01T19:07:52.663606-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:52.663606-->User TestUserName' password updated
+2025-05-01T19:07:52.665108400-->User with ID 1 found
+2025-05-01T19:07:52.665108400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:52.667249800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:52.668665100-->UserDAO: Loaded 0 users
+2025-05-01T19:07:52.669729300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:52.669729300-->Password Hashed
+2025-05-01T19:07:52.669729300-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:52.671133700-->UserDAO: Added user with UID 1
+2025-05-01T19:07:52.671133700-->User with Username TestUserName found
+2025-05-01T19:07:52.671133700-->User TestUserName updated
+2025-05-01T19:07:52.671133700-->User with ID 1 found
+2025-05-01T19:07:55.951787500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:55.990329300-->UserDAO: Loaded 0 users
+2025-05-01T19:07:56.002924500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:56.002924500-->Password Hashed
+2025-05-01T19:07:56.006298800-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:56.010687600-->UserDAO: Added user with UID 1
+2025-05-01T19:07:56.012054200-->User with Username TestUserName found
+2025-05-01T19:07:56.013062700-->UserDAO: User with UID 1 successfully removed
+2025-05-01T19:07:56.022629100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:56.024096600-->UserDAO: Loaded 0 users
+2025-05-01T19:07:56.025555300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:56.025555300-->Password Hashed
+2025-05-01T19:07:56.025555300-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:56.026993-->UserDAO: Added user with UID 1
+2025-05-01T19:07:56.026993-->User with Username TestUserName found
+2025-05-01T19:07:56.026993-->User TestUserName found
+2025-05-01T19:07:56.026993-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:56.026993-->User TestUserName's hash matched
+2025-05-01T19:07:56.031109100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:56.031109100-->UserDAO: Loaded 0 users
+2025-05-01T19:07:56.032236400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:56.032236400-->Password Hashed
+2025-05-01T19:07:56.033711400-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:56.033711400-->UserDAO: Added user with UID 1
+2025-05-01T19:07:56.033711400-->User with Username TestUserName found
+2025-05-01T19:07:56.034718700-->User TestUserName updated
+2025-05-01T19:07:56.034718700-->User with Username TestUserName found
+2025-05-01T19:07:56.035916100-->User with Username TestUserName found
+2025-05-01T19:07:56.035916100-->User with Username TestUserName found
+2025-05-01T19:07:56.038872600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:56.038872600-->UserDAO: Loaded 0 users
+2025-05-01T19:07:56.040019100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:56.040019100-->Password Hashed
+2025-05-01T19:07:56.041368600-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:56.041368600-->UserDAO: Added user with UID 1
+2025-05-01T19:07:56.042373400-->User with Username TestUserName found
+2025-05-01T19:07:56.042373400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:56.042373400-->User TestUserName' password updated
+2025-05-01T19:07:56.042373400-->User with ID 1 found
+2025-05-01T19:07:56.043675500-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:07:56.047008500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:07:56.047008500-->UserDAO: Loaded 0 users
+2025-05-01T19:07:56.048017200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:07:56.049018300-->Password Hashed
+2025-05-01T19:07:56.049018300-->User namedTestUserNamecreated, UID1
+2025-05-01T19:07:56.050015200-->UserDAO: Added user with UID 1
+2025-05-01T19:07:56.050015200-->User with Username TestUserName found
+2025-05-01T19:07:56.050015200-->User TestUserName updated
+2025-05-01T19:07:56.050015200-->User with ID 1 found
+2025-05-01T19:08:00.742820200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:08:00.781079500-->UserDAO: Loaded 0 users
+2025-05-01T19:08:00.792329300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:08:00.793329300-->Password Hashed
+2025-05-01T19:08:00.795329100-->User namedTestUserNamecreated, UID1
+2025-05-01T19:08:00.800315900-->UserDAO: Added user with UID 1
+2025-05-01T19:08:00.811368400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:08:00.812367100-->UserDAO: Loaded 0 users
+2025-05-01T19:08:00.813367800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:08:00.813367800-->Password Hashed
+2025-05-01T19:08:00.813367800-->User namedTestUserNamecreated, UID1
+2025-05-01T19:08:00.814367900-->UserDAO: Added user with UID 1
+2025-05-01T19:08:00.814367900-->User with Username TestUserName found
+2025-05-01T19:08:00.818372-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:08:00.819368500-->UserDAO: Loaded 0 users
+2025-05-01T19:08:00.820367100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:08:00.821370700-->Password Hashed
+2025-05-01T19:08:00.821370700-->User namedTestUserNamecreated, UID1
+2025-05-01T19:08:00.822366200-->UserDAO: Added user with UID 1
+2025-05-01T19:08:00.822366200-->User with ID 1 found
+2025-05-01T19:08:00.825923500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:08:00.825923500-->UserDAO: Loaded 0 users
+2025-05-01T19:08:00.828368500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:08:00.828368500-->Password Hashed
+2025-05-01T19:08:00.828368500-->User namedTestUserNamecreated, UID1
+2025-05-01T19:08:00.829377900-->UserDAO: Added user with UID 1
+2025-05-01T19:08:00.830377800-->UserDAO: User with UID 1 successfully removed
+2025-05-01T19:13:59.172784900-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:13:59.212544800-->UserDAO: Loaded 0 users
+2025-05-01T19:13:59.225625700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:13:59.226626700-->Password Hashed
+2025-05-01T19:13:59.228394400-->User namedTestUserNamecreated, UID1
+2025-05-01T19:13:59.232955700-->UserDAO: Added user with UID 1
+2025-05-01T19:13:59.235444200-->User with Username TestUserName found
+2025-05-01T19:13:59.235444200-->User TestUserName found
+2025-05-01T19:13:59.235444200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:13:59.236444200-->User TestUserName's hash matched
+2025-05-01T19:13:59.245455700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:13:59.246466600-->UserDAO: Loaded 0 users
+2025-05-01T19:13:59.247466800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:13:59.247466800-->Password Hashed
+2025-05-01T19:13:59.248465500-->User namedTestUserNamecreated, UID1
+2025-05-01T19:13:59.248465500-->UserDAO: Added user with UID 1
+2025-05-01T19:13:59.249466300-->User with Username TestUserName found
+2025-05-01T19:13:59.249466300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:13:59.249466300-->User TestUserName' password updated
+2025-05-01T19:13:59.249466300-->User with Username TestUserName found
+2025-05-01T19:13:59.250466300-->User TestUserName found
+2025-05-01T19:13:59.250466300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:13:59.250466300-->User TestUserName's hash matched
+2025-05-01T19:15:08.794322600-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:08.833556600-->UserDAO: Loaded 0 users
+2025-05-01T19:15:08.844571600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:08.844571600-->Password Hashed
+2025-05-01T19:15:08.846618100-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:08.852030200-->UserDAO: Added user with UID 1
+2025-05-01T19:15:08.865296-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:08.865296-->UserDAO: Loaded 0 users
+2025-05-01T19:15:08.866705900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:08.866705900-->Password Hashed
+2025-05-01T19:15:08.866705900-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:08.867711500-->UserDAO: Added user with UID 1
+2025-05-01T19:15:08.867711500-->User with Username TestUserName found
+2025-05-01T19:15:08.871218700-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:08.871218700-->UserDAO: Loaded 0 users
+2025-05-01T19:15:08.872408-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:08.872408-->Password Hashed
+2025-05-01T19:15:08.872408-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:08.873875900-->UserDAO: Added user with UID 1
+2025-05-01T19:15:08.874882900-->User with ID 1 found
+2025-05-01T19:15:08.877213-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:08.878207700-->UserDAO: Loaded 0 users
+2025-05-01T19:15:08.878207700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:08.879369-->Password Hashed
+2025-05-01T19:15:08.879369-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:08.880376900-->UserDAO: Added user with UID 1
+2025-05-01T19:15:08.880376900-->UserDAO: User with UID 1 successfully removed
+2025-05-01T19:15:12.264149200-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:12.304976800-->UserDAO: Loaded 0 users
+2025-05-01T19:15:12.316936800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:12.316936800-->Password Hashed
+2025-05-01T19:15:12.319404700-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:12.324704200-->UserDAO: Added user with UID 1
+2025-05-01T19:15:12.325705-->User with Username TestUserName found
+2025-05-01T19:15:12.325705-->User TestUserName found
+2025-05-01T19:15:12.326704200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:15:12.326704200-->User TestUserName's hash matched
+2025-05-01T19:15:12.337055400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:12.338380500-->UserDAO: Loaded 0 users
+2025-05-01T19:15:12.338380500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:12.339621600-->Password Hashed
+2025-05-01T19:15:12.339621600-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:12.339621600-->UserDAO: Added user with UID 1
+2025-05-01T19:15:12.340980400-->User with Username TestUserName found
+2025-05-01T19:15:12.340980400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:15:12.340980400-->User TestUserName' password updated
+2025-05-01T19:15:12.340980400-->User with Username TestUserName found
+2025-05-01T19:15:12.342486600-->User TestUserName found
+2025-05-01T19:15:12.342486600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:15:12.342486600-->User TestUserName's hash matched
+2025-05-01T19:15:16.038227400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:16.079486500-->UserDAO: Loaded 0 users
+2025-05-01T19:15:16.091336400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:16.091336400-->Password Hashed
+2025-05-01T19:15:16.093334500-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:16.098516-->UserDAO: Added user with UID 1
+2025-05-01T19:15:16.099526300-->User with Username TestUserName found
+2025-05-01T19:15:16.099526300-->UserDAO: User with UID 1 successfully removed
+2025-05-01T19:15:16.111339800-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:16.111339800-->UserDAO: Loaded 0 users
+2025-05-01T19:15:16.112345400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:16.112345400-->Password Hashed
+2025-05-01T19:15:16.113350700-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:16.113350700-->UserDAO: Added user with UID 1
+2025-05-01T19:15:16.114350-->User with Username TestUserName found
+2025-05-01T19:15:16.114350-->User TestUserName found
+2025-05-01T19:15:16.114350-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:15:16.114350-->User TestUserName's hash matched
+2025-05-01T19:15:16.118214400-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:16.118214400-->UserDAO: Loaded 0 users
+2025-05-01T19:15:16.119364900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:16.120245900-->Password Hashed
+2025-05-01T19:15:16.120245900-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:16.121254500-->UserDAO: Added user with UID 1
+2025-05-01T19:15:16.121254500-->User with Username TestUserName found
+2025-05-01T19:15:16.121254500-->User TestUserName updated
+2025-05-01T19:15:16.121254500-->User with Username TestUserName found
+2025-05-01T19:15:16.122642600-->User with Username TestUserName found
+2025-05-01T19:15:16.122642600-->User with Username TestUserName found
+2025-05-01T19:15:16.125173100-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:16.125173100-->UserDAO: Loaded 0 users
+2025-05-01T19:15:16.126386100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:16.127580700-->Password Hashed
+2025-05-01T19:15:16.127580700-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:16.127580700-->UserDAO: Added user with UID 1
+2025-05-01T19:15:16.128982700-->User with Username TestUserName found
+2025-05-01T19:15:16.128982700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:15:16.128982700-->User TestUserName' password updated
+2025-05-01T19:15:16.128982700-->User with ID 1 found
+2025-05-01T19:15:16.130457400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:15:16.132634-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T19:15:16.133808200-->UserDAO: Loaded 0 users
+2025-05-01T19:15:16.135156100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:15:16.135156100-->Password Hashed
+2025-05-01T19:15:16.135156100-->User namedTestUserNamecreated, UID1
+2025-05-01T19:15:16.136412600-->UserDAO: Added user with UID 1
+2025-05-01T19:15:16.136412600-->User with Username TestUserName found
+2025-05-01T19:15:16.136412600-->User TestUserName updated
+2025-05-01T19:15:16.136412600-->User with ID 1 found

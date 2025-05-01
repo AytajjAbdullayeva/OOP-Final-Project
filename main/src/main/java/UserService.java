@@ -31,7 +31,7 @@ public class UserService {
         return UserDAO.addUser(user);
     }
 
-    public static boolean updateUserDetails(String name, String surname, int age, boolean gender, String username) {
+    public static boolean updateUserDetails(String name, String surname, int age, boolean gender, String username) { // Username is not being changed
         User user = UserDAO.findUserByUsername(username);
         if (user == null) {
             Logger.DebugLog(String.format("User %s not found", username));
