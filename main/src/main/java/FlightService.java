@@ -76,7 +76,7 @@ public class FlightService {
             return false;
         }
         flight.setAvailableSeats(flight.getAvailableSeats() - seats);
-        flightDAO.saveFlightsToFile();// Fayla yazma
+        flightDAO.saveFlightsToFile();
         Logger.DebugLog(String.format(
                 "Successfully decreased seats. New availability: %d/%d",
                 flight.getAvailableSeats(), flight.getTotalSeats()));
