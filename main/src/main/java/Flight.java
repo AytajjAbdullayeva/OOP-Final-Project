@@ -20,14 +20,14 @@ public class Flight {
         this.availableSeats = availableSeats;
     }
 
-    // Getters
+    
     public String getId() { return id; }
     public String getDestination() { return destination; }
     public LocalDateTime getDepartureTime() { return departureTime; }
     public int getTotalSeats() { return totalSeats; }
     public int getAvailableSeats() { return availableSeats; }
 
-    // Setters
+    
     public void setAvailableSeats(int availableSeats) {
         if (availableSeats < 0 || availableSeats > this.totalSeats) {
             throw new IllegalArgumentException("Invalid seat count");
