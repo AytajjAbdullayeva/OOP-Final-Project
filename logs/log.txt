@@ -164,3 +164,81 @@
 2025-05-01T19:46:34.517141-->Session created
 2025-05-01T19:46:34.517141-->User with Username alice found
 2025-05-01T19:46:34.518635500-->UserDAO: User with UID 3 successfully removed
+2025-05-01T21:47:31.078947600-->Initializing FlightDAO
+2025-05-01T21:47:31.089757500-->Flight data file not found or empty, generating sample flights
+2025-05-01T21:47:31.089757500-->Generating 200 sample flights for next 30 days
+2025-05-01T21:47:31.095399-->Saving flights to file: flights.txt
+2025-05-01T21:47:31.100000200-->Successfully saved 200 flights to file
+2025-05-01T21:47:31.101201500-->Generated 200 sample flights
+2025-05-01T21:47:31.101201500-->FlightDAO initialized with 200 flights
+2025-05-01T21:47:31.102670-->FlightService initialized with FlightDAO
+2025-05-01T21:47:31.103676800-->FlightController initialized with FlightService
+2025-05-01T21:47:31.103676800-->Initializing BookingDao...
+2025-05-01T21:47:31.103676800-->Loading bookings from file...
+2025-05-01T21:47:31.106631400-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-01T21:47:31.107630700-->Creating Passenger: John Doe
+2025-05-01T21:47:31.107630700-->Creating Passenger: Jane Smith
+2025-05-01T21:47:31.107630700-->Creating Passenger: Alice Johnson
+2025-05-01T21:47:31.107630700-->Creating Passenger: Bob Brown
+2025-05-01T21:47:31.108965600-->Getting upcoming flights (next 24 hours)
+2025-05-01T21:47:31.108965600-->Getting all flights (count: 200)
+2025-05-01T21:47:31.110007800-->Total flights in system: 200
+2025-05-01T21:47:31.116462100-->Included flight: F1001 | Time: 2025-05-02T02:02:31.0897575 | Seats: 151/151
+2025-05-01T21:47:31.116462100-->Included flight: F1016 | Time: 2025-05-02T08:02:31.0897575 | Seats: 166/166
+2025-05-01T21:47:31.117859100-->Included flight: F1056 | Time: 2025-05-02T18:17:31.0897575 | Seats: 156/156
+2025-05-01T21:47:31.117859100-->Included flight: F1131 | Time: 2025-05-01T22:17:31.0897575 | Seats: 181/181
+2025-05-01T21:47:31.117859100-->Included flight: F1182 | Time: 2025-05-02T01:02:31.0897575 | Seats: 182/182
+2025-05-01T21:47:31.117859100-->Found 5 flights in next 24 hours
+2025-05-01T21:47:31.117859100-->Returning 5 upcoming flights
+2025-05-01T21:47:31.124022200-->Handling new booking request for flight: F1001
+2025-05-01T21:47:31.124022200-->Attempting to create booking for flight F1001
+2025-05-01T21:47:31.125040500-->Checking available seats: FlightID=F1001, RequestedSeats=2
+2025-05-01T21:47:31.125040500-->Looking up flight by ID: F1001
+2025-05-01T21:47:31.126029300-->Available seats check result: OK (151 available)
+2025-05-01T21:47:31.158748100-->Generated booking ID: 43a0c8e3-15f7-4687-965a-250b98f99272
+2025-05-01T21:47:31.159749700-->Creating Booking: 43a0c8e3-15f7-4687-965a-250b98f99272, Flight: F1001
+2025-05-01T21:47:31.159749700-->Increasing seats: FlightID=F1001, Seats=2
+2025-05-01T21:47:31.160752300-->Looking up flight by ID: F1001
+2025-05-01T21:47:31.160752300-->Booking failed: Invalid seat count
+2025-05-01T21:47:31.160752300-->Handling new booking request for flight: F1001
+2025-05-01T21:47:31.160752300-->Attempting to create booking for flight F1001
+2025-05-01T21:47:31.160752300-->Checking available seats: FlightID=F1001, RequestedSeats=1
+2025-05-01T21:47:31.161794400-->Looking up flight by ID: F1001
+2025-05-01T21:47:31.161794400-->Available seats check result: OK (151 available)
+2025-05-01T21:47:31.161794400-->Generated booking ID: b5a71e68-7572-4063-be65-f870a6f616dd
+2025-05-01T21:47:31.161794400-->Creating Booking: b5a71e68-7572-4063-be65-f870a6f616dd, Flight: F1001
+2025-05-01T21:47:31.161794400-->Increasing seats: FlightID=F1001, Seats=1
+2025-05-01T21:47:31.161794400-->Looking up flight by ID: F1001
+2025-05-01T21:47:31.161794400-->Booking failed: Invalid seat count
+2025-05-01T21:47:31.163274400-->Handling new booking request for flight: F1001
+2025-05-01T21:47:31.163274400-->Attempting to create booking for flight F1001
+2025-05-01T21:47:31.163274400-->Checking available seats: FlightID=F1001, RequestedSeats=3
+2025-05-01T21:47:31.163274400-->Looking up flight by ID: F1001
+2025-05-01T21:47:31.163274400-->Available seats check result: OK (151 available)
+2025-05-01T21:47:31.164281900-->Generated booking ID: 2847a592-d07c-42be-8d34-d89edf0c9c2e
+2025-05-01T21:47:31.164281900-->Creating Booking: 2847a592-d07c-42be-8d34-d89edf0c9c2e, Flight: F1001
+2025-05-01T21:47:31.164281900-->Increasing seats: FlightID=F1001, Seats=3
+2025-05-01T21:47:31.164281900-->Looking up flight by ID: F1001
+2025-05-01T21:47:31.164281900-->Booking failed: Invalid seat count
+2025-05-01T21:47:31.165280100-->Showing bookings for passenger: John Doe
+2025-05-01T21:47:31.165280100-->Fetching bookings for passenger: John Doe
+2025-05-01T21:47:31.165280100-->Retrieving bookings for passenger: John Doe
+2025-05-01T21:47:31.165280100-->No bookings found for: John Doe
+2025-05-01T21:47:31.166613200-->Showing bookings for passenger: Alice Johnson
+2025-05-01T21:47:31.166613200-->Fetching bookings for passenger: Alice Johnson
+2025-05-01T21:47:31.166613200-->Retrieving bookings for passenger: Alice Johnson
+2025-05-01T21:47:31.166613200-->No bookings found for: Alice Johnson
+2025-05-01T21:47:31.166613200-->Showing bookings for passenger: Unknown Person
+2025-05-01T21:47:31.167999200-->Fetching bookings for passenger: Unknown Person
+2025-05-01T21:47:31.167999200-->Retrieving bookings for passenger: Unknown Person
+2025-05-01T21:47:31.167999200-->No bookings found for: Unknown Person
+2025-05-01T21:47:31.167999200-->Retrieving bookings for passenger: John Doe
+2025-05-01T21:47:31.167999200-->Searching flights: Destination=Paris, Date=2025-05-04, People=2
+2025-05-01T21:47:31.169282500-->Searching flights: Destination=Paris, Date=2025-05-04, Passengers=2
+2025-05-01T21:47:31.169282500-->Getting all flights (count: 200)
+2025-05-01T21:47:31.170514900-->Found 0 matching flights
+2025-05-01T21:47:31.170514900-->Found 0 matching flights
+2025-05-01T21:47:31.170514900-->Adding new flight: FX123
+2025-05-01T21:47:31.171972300-->Saving flights to file: flights.txt
+2025-05-01T21:47:31.173367500-->Successfully saved 201 flights to file
+2025-05-01T21:47:31.173367500-->Retrieving bookings for passenger: Alice Johnson
