@@ -1,0 +1,166 @@
+2025-04-30T19:37:17.935390100-->Hello World!
+2025-04-30T19:37:25.270692800-->Hello World!
+2025-05-01T16:39:25.733948500-->HoneyIndexDAO: Database deleted successfully
+2025-05-01T16:39:25.789818700-->UserDAO: Loaded 0 users
+2025-05-01T16:39:25.792610800-->HoneyIndexDAO: Database loaded successfully
+2025-05-01T16:39:25.833428800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T16:39:25.834437700-->Password Hashed
+2025-05-01T16:39:25.837113200-->User namedalicecreated, UID1
+2025-05-01T16:39:25.843261200-->UserDAO: Added user with UID 1
+2025-05-01T16:39:25.844638100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T16:39:25.844638100-->Password Hashed
+2025-05-01T16:39:25.845654600-->User namedbobcreated, UID3
+2025-05-01T16:39:25.846648500-->UserDAO: Added user with UID 3
+2025-05-01T16:39:25.847650900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T16:39:25.847650900-->Password Hashed
+2025-05-01T16:39:25.848652700-->User namedcharliecreated, UID5
+2025-05-01T16:39:25.849648100-->UserDAO: Added user with UID 5
+2025-05-01T16:39:25.849648100-->User with Username alice found
+2025-05-01T16:39:25.849648100-->User alice found
+2025-05-01T16:39:25.850787700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.850787700-->User alice's hash matched
+2025-05-01T16:39:25.851791400-->User with Username bob found
+2025-05-01T16:39:25.851791400-->User bob found
+2025-05-01T16:39:25.851791400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.852951200-->User with Username charlie found
+2025-05-01T16:39:25.857232400-->User charlie's details is shared
+2025-05-01T16:39:25.858301300-->User with Username alice found
+2025-05-01T16:39:25.858301300-->User alice updated
+2025-05-01T16:39:25.858301300-->User with Username alice found
+2025-05-01T16:39:25.858301300-->User alice's details is shared
+2025-05-01T16:39:25.858301300-->User with Username charlie found
+2025-05-01T16:39:25.860014400-->User charlie updated
+2025-05-01T16:39:25.860014400-->User with Username charles found
+2025-05-01T16:39:25.860014400-->User charles's details is shared
+2025-05-01T16:39:25.861015800-->User with Username bob found
+2025-05-01T16:39:25.861015800-->User bob found
+2025-05-01T16:39:25.861015800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.861015800-->User bob's hash matched
+2025-05-01T16:39:25.862015700-->User with Username bob found
+2025-05-01T16:39:25.862015700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.862015700-->User bob' password updated
+2025-05-01T16:39:25.862015700-->User with Username bob found
+2025-05-01T16:39:25.862015700-->User bob found
+2025-05-01T16:39:25.862015700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.863421800-->User bob's hash matched
+2025-05-01T16:39:25.863421800-->User with Username bob found
+2025-05-01T16:39:25.863421800-->User bob found
+2025-05-01T16:39:25.863421800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.864497300-->User with Username alice found
+2025-05-01T16:39:25.864497300-->User alice found
+2025-05-01T16:39:25.864497300-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.864497300-->User with Username alice found
+2025-05-01T16:39:25.864497300-->User alice found
+2025-05-01T16:39:25.865641100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:39:25.865641100-->User alice's hash matched
+2025-05-01T16:39:25.865641100-->User with Username alice found
+2025-05-01T16:39:25.866641200-->UserDAO: User with UID 1 successfully removed
+<<<<<<< Updated upstream
+2025-05-01T16:49:24.409922200-->UserDAO: Loaded 2 users
+2025-05-01T16:49:24.420923900-->HoneyIndexDAO: Database loaded successfully
+2025-05-01T16:49:24.431616400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T16:49:24.432739200-->Password Hashed
+2025-05-01T16:49:24.434474700-->User namedalicecreated, UID3
+2025-05-01T16:49:24.440348900-->UserDAO: Added user with UID 3
+2025-05-01T16:49:24.440348900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T16:49:24.441350-->Password Hashed
+2025-05-01T16:49:24.441350-->User namedbobcreated, UID5
+2025-05-01T16:49:24.441350-->UserDAO: Added user with UID 5
+2025-05-01T16:49:24.442361400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T16:49:24.442361400-->Password Hashed
+2025-05-01T16:49:24.442361400-->User namedcharliecreated, UID7
+2025-05-01T16:49:24.443775600-->UserDAO: Added user with UID 7
+2025-05-01T16:49:24.443775600-->User with Username alice found
+2025-05-01T16:49:24.443775600-->User alice found
+2025-05-01T16:49:24.443775600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.443775600-->User alice's hash matched
+2025-05-01T16:49:24.444969-->User with Username bob found
+2025-05-01T16:49:24.444969-->User bob found
+2025-05-01T16:49:24.444969-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.444969-->User with Username charlie found
+2025-05-01T16:49:24.448253400-->User charlie's details is shared
+2025-05-01T16:49:24.449755500-->User with Username alice found
+2025-05-01T16:49:24.449755500-->User alice updated
+2025-05-01T16:49:24.449755500-->User with Username alice found
+2025-05-01T16:49:24.450899-->User alice's details is shared
+2025-05-01T16:49:24.450899-->User with Username charlie found
+2025-05-01T16:49:24.450899-->User charlie updated
+2025-05-01T16:49:24.450899-->User with Username charles found
+2025-05-01T16:49:24.450899-->User charles's details is shared
+2025-05-01T16:49:24.450899-->User with Username bob found
+2025-05-01T16:49:24.452256600-->User bob found
+2025-05-01T16:49:24.452256600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.452256600-->User with Username bob found
+2025-05-01T16:49:24.452256600-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.453367400-->User bob' password is false
+2025-05-01T16:49:24.453367400-->User with Username bob found
+2025-05-01T16:49:24.453367400-->User bob found
+2025-05-01T16:49:24.453367400-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.454375800-->User with Username bob found
+2025-05-01T16:49:24.454375800-->User bob found
+2025-05-01T16:49:24.454375800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.455373700-->User with Username alice found
+2025-05-01T16:49:24.455373700-->User alice found
+2025-05-01T16:49:24.455373700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.455373700-->User with Username alice found
+2025-05-01T16:49:24.456373900-->User alice found
+2025-05-01T16:49:24.456373900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T16:49:24.456373900-->User alice's hash matched
+2025-05-01T16:49:24.456373900-->User with Username alice found
+2025-05-01T16:49:24.457498500-->UserDAO: User with UID 3 successfully removed
+=======
+>>>>>>> Stashed changes
+2025-05-01T19:46:34.468187300-->UserDAO: Loaded 2 users
+2025-05-01T19:46:34.474546900-->HoneyIndexDAO: Database couldn't be loaded failed
+2025-05-01T19:46:34.491635600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:46:34.491635600-->Password Hashed
+2025-05-01T19:46:34.494218200-->User namedalicecreated, UID3
+2025-05-01T19:46:34.499537600-->UserDAO: Added user with UID 3
+2025-05-01T19:46:34.500799900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:46:34.502087800-->Password Hashed
+2025-05-01T19:46:34.502087800-->User namedbobcreated, UID4
+2025-05-01T19:46:34.502087800-->UserDAO: Added user with UID 4
+2025-05-01T19:46:34.503592700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T19:46:34.503592700-->Password Hashed
+2025-05-01T19:46:34.503592700-->User namedcharliecreated, UID5
+2025-05-01T19:46:34.504600100-->UserDAO: Added user with UID 5
+2025-05-01T19:46:34.504600100-->User with Username alice found
+2025-05-01T19:46:34.504600100-->User alice found
+2025-05-01T19:46:34.504600100-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.505599400-->User alice's hash matched
+2025-05-01T19:46:34.506604800-->Session created
+2025-05-01T19:46:34.506604800-->User with Username bob found
+2025-05-01T19:46:34.506604800-->User bob found
+2025-05-01T19:46:34.507606-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.507606-->User with Username charlie found
+2025-05-01T19:46:34.510317600-->User charlie's details is shared
+2025-05-01T19:46:34.511325300-->User with Username alice found
+2025-05-01T19:46:34.511325300-->User alice updated
+2025-05-01T19:46:34.511325300-->User with Username alice found
+2025-05-01T19:46:34.511325300-->User alice's details is shared
+2025-05-01T19:46:34.511325300-->User with Username charlie found
+2025-05-01T19:46:34.512683500-->User charlie updated
+2025-05-01T19:46:34.512683500-->User with Username charles found
+2025-05-01T19:46:34.512683500-->User charles's details is shared
+2025-05-01T19:46:34.512683500-->User with Username bob found
+2025-05-01T19:46:34.512683500-->User bob found
+2025-05-01T19:46:34.513690800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.513690800-->User with Username bob found
+2025-05-01T19:46:34.513690800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.513690800-->User bob' password is false
+2025-05-01T19:46:34.513690800-->User with Username bob found
+2025-05-01T19:46:34.513690800-->User bob found
+2025-05-01T19:46:34.515085800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.515085800-->User with Username bob found
+2025-05-01T19:46:34.515085800-->User bob found
+2025-05-01T19:46:34.516092200-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.516092200-->User with Username alice found
+2025-05-01T19:46:34.516092200-->User alice found
+2025-05-01T19:46:34.517141-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.517141-->User with Username alice found
+2025-05-01T19:46:34.517141-->User alice found
+2025-05-01T19:46:34.517141-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T19:46:34.517141-->User alice's hash matched
+2025-05-01T19:46:34.517141-->Session created
+2025-05-01T19:46:34.517141-->User with Username alice found
+2025-05-01T19:46:34.518635500-->UserDAO: User with UID 3 successfully removed
