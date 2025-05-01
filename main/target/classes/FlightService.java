@@ -91,7 +91,7 @@ public class FlightService {
         return true;
     }
 
-    // Rollback üçün
+    
     public void increaseAvailableSeats(String flightId, int seats) {
         Logger.DebugLog(String.format(
                 "Increasing seats: FlightID=%s, Seats=%d",
