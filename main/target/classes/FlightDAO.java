@@ -32,22 +32,30 @@ public class FlightDAO {
     }
 
     private void generateSampleFlights() {
-        Logger.DebugLog("Generating 50 sample flights");
+        Logger.DebugLog("Generating 200 sample flights for next 30 days");
         flights.clear();
-        List<String> destinations = List.of("London", "Paris", "Berlin", "Baku","New York");
+        List<String> destinations = List.of("London", "Paris", "Berlin", "Baku", "New York", "Rome", "Dubai", "Istanbul");
         LocalDateTime now = LocalDateTime.now();
-        for (int i = 0; i < 50; i++) {
+
+        for (int i = 0; i < 200; i++) {
             String id = "F" + (1000 + i);
             String dest = destinations.get(i % destinations.size());
 
-            LocalDateTime date = now.plusHours(1 + (i % 24))
-                    .plusMinutes((i % 10) * 15);
-            int seats = 150 + (i % 50);
-            flights.add(new Flight(id, dest, date, seats, seats));
+            // Random tarix: bu gündən 1–30 gün sonrasına təsadüfi vaxt
+            int plusDays = (int) (Math.random() * 30); // 0-29 gün
+            int plusHours = (int) (Math.random() * 24); // 0-23 saat
+            int plusMinutes = ((int) (Math.random() * 4)) * 15; // 0, 15, 30, 45 dəqiqə
+
+            LocalDateTime departureTime = now.plusDays(plusDays).plusHours(plusHours).plusMinutes(plusMinutes);
+
+            int totalSeats = 150 + (i % 50);
+            flights.add(new Flight(id, dest, departureTime, totalSeats, totalSeats));
         }
+
         saveFlightsToFile();
-        Logger.DebugLog("Generated 50 sample flights");
+        Logger.DebugLog("Generated 200 sample flights");
     }
+
 
     public List<Flight> getAllFlights() {
         Logger.DebugLog("Getting all flights (count: " + flights.size() + ")");
