@@ -35,7 +35,7 @@ public class FlightService {
         List<Flight> result = allFlights.stream()
                 .filter(f -> f.getDepartureTime().isAfter(now))
                 .filter(f -> f.getDepartureTime().isBefore(end))
-                .peek(f -> System.out.println("Included flight: " + f.getId() +
+                .peek(f -> Logger.DebugLog("Included flight: " + f.getId() +
                         " | Time: " + f.getDepartureTime().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME) +
                         " | Seats: " + f.getAvailableSeats() + "/" + f.getTotalSeats()))
                 .collect(Collectors.toList());
@@ -107,5 +107,22 @@ public class FlightService {
             Logger.DebugLog("Flight not found - could not increase seats");
         }
     }
+
+    public boolean hasAvailableSeats(String flightId, int requestedSeats) {
+        Logger.DebugLog(String.format(
+                "Checking available seats: FlightID=%s, RequestedSeats=%d",
+                flightId, requestedSeats));
+        Flight flight = flightDAO.getFlightById(flightId);
+        if (flight == null) {
+            Logger.DebugLog("Flight not found");
+            return false;
+        }
+        boolean result = flight.getAvailableSeats() >= requestedSeats;
+        Logger.DebugLog(String.format(
+                "Available seats check result: %s (%d available)",
+                result ? "OK" : "NOT ENOUGH", flight.getAvailableSeats()));
+        return result;
+    }
+
 }
 
