@@ -1,12 +1,18 @@
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.time.LocalDateTime;
 
 public class UserController {
     public static boolean Login(String username, String password) {
         try {
             MessageDigest md = MessageDigest.getInstance("SHA-256");
 
-            return UserService.checkHash(username, md.digest(password.getBytes()));
+            if (UserService.checkHash(username, md.digest(password.getBytes())))
+            {
+                SessionManager.addSession(username);
+                return true;
+            }
+            return false;
         } catch (NoSuchAlgorithmException e) {
             e.printStackTrace();
             Logger.DebugLog("Error while checking hash");
@@ -44,5 +50,13 @@ public class UserController {
 
     public static String GetUserDetails(String username) {
         return UserService.getUserDetails(username);
+    }
+
+    public static boolean Logout(String username) {
+        return SessionManager.removeSession(username);
+    }
+
+    public static LocalDateTime GetSessionCreationTime(String username) {
+        return SessionManager.StartTime(username);
     }
 }
