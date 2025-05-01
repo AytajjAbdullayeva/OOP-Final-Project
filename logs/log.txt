@@ -348,3 +348,37 @@
 2025-05-01T23:10:52.011375600-->For input string: ""
 2025-05-01T23:10:55.311832700-->Logging out...
 2025-05-01T23:10:55.312883800-->Session removed with sessionid: 9925
+2025-05-01T23:40:59.345262400-->Initializing FlightDAO
+2025-05-01T23:40:59.360192500-->Loading flights from existing file
+2025-05-01T23:40:59.360328300-->Loading flights from file: Databases/flights.txt
+2025-05-01T23:40:59.373793900-->Loaded 200 flights, skipped 0 entries
+2025-05-01T23:40:59.376282700-->FlightDAO initialized with 200 flights
+2025-05-01T23:40:59.378719900-->FlightService initialized with FlightDAO
+2025-05-01T23:40:59.379724600-->FlightController initialized with FlightService
+2025-05-01T23:40:59.379853200-->Initializing BookingDao...
+2025-05-01T23:40:59.379853200-->Loading bookings from file...
+2025-05-01T23:40:59.382454300-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-01T23:41:23.084600400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T23:41:23.084600400-->Password Hashed
+2025-05-01T23:41:23.086613800-->User namedFerid1created, UID1
+2025-05-01T23:41:23.092117600-->UserDAO: Added user with UID 1
+2025-05-01T23:41:39.889270700-->Initializing FlightDAO
+2025-05-01T23:41:39.900829300-->Loading flights from existing file
+2025-05-01T23:41:39.900829300-->Loading flights from file: Databases/flights.txt
+2025-05-01T23:41:39.914880900-->Loaded 200 flights, skipped 0 entries
+2025-05-01T23:41:39.917739800-->FlightDAO initialized with 200 flights
+2025-05-01T23:41:39.919178200-->FlightService initialized with FlightDAO
+2025-05-01T23:41:39.919178200-->FlightController initialized with FlightService
+2025-05-01T23:41:39.919178200-->Initializing BookingDao...
+2025-05-01T23:41:39.920626200-->Loading bookings from file...
+2025-05-01T23:41:39.922013600-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-01T23:42:04.521620400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T23:42:04.521620400-->Password Hashed
+2025-05-01T23:42:04.524130300-->User namedFeridm1created, UID1
+2025-05-01T23:42:04.528130500-->UserDAO: Added user with UID 1
+2025-05-01T23:42:12.414512500-->User with Username Feridm1 found
+2025-05-01T23:42:12.415021800-->User Feridm1 found
+2025-05-01T23:42:12.415021800-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T23:42:12.415021800-->User Feridm1's hash matched
+2025-05-01T23:42:12.428810900-->Session created
+2025-05-01T23:42:12.429990-->For input string: ""
