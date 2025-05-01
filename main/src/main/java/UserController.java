@@ -3,6 +3,7 @@ import java.security.NoSuchAlgorithmException;
 import java.time.LocalDateTime;
 
 public class UserController {
+
     public static boolean Login(String username, String password) {
         try {
             MessageDigest md = MessageDigest.getInstance("SHA-256");
