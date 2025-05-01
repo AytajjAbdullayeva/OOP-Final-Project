@@ -242,3 +242,109 @@
 2025-05-01T21:47:31.171972300-->Saving flights to file: flights.txt
 2025-05-01T21:47:31.173367500-->Successfully saved 201 flights to file
 2025-05-01T21:47:31.173367500-->Retrieving bookings for passenger: Alice Johnson
+2025-05-01T22:20:46.370239500-->Initializing FlightDAO
+2025-05-01T22:20:46.380141400-->Loading flights from existing file
+2025-05-01T22:20:46.381149200-->Loading flights from file: flights.txt
+2025-05-01T22:20:46.394563700-->Loaded 199 flights, skipped 2 entries
+2025-05-01T22:20:46.396576400-->FlightDAO initialized with 199 flights
+2025-05-01T22:20:46.399222900-->FlightService initialized with FlightDAO
+2025-05-01T22:20:46.399222900-->FlightController initialized with FlightService
+2025-05-01T22:20:46.400429900-->Initializing BookingDao...
+2025-05-01T22:20:46.400429900-->Loading bookings from file...
+2025-05-01T22:20:46.402836800-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-01T22:20:50.673838800-->Getting upcoming flights (next 24 hours)
+2025-05-01T22:20:50.674856300-->Getting all flights (count: 199)
+2025-05-01T22:20:50.674856300-->Total flights in system: 199
+2025-05-01T22:20:50.678412100-->Included flight: F1001 | Time: 2025-05-02T02:02:31.0897575 | Seats: 151/151
+2025-05-01T22:20:50.679409800-->Included flight: F1016 | Time: 2025-05-02T08:02:31.0897575 | Seats: 166/166
+2025-05-01T22:20:50.679409800-->Included flight: F1056 | Time: 2025-05-02T18:17:31.0897575 | Seats: 156/156
+2025-05-01T22:20:50.679409800-->Included flight: F1182 | Time: 2025-05-02T01:02:31.0897575 | Seats: 182/182
+2025-05-01T22:20:50.680415400-->Found 4 flights in next 24 hours
+2025-05-01T22:20:50.680415400-->Returning 4 upcoming flights
+2025-05-01T22:21:02.628773600-->Getting flight info for ID: 13546
+2025-05-01T22:21:02.630493100-->Attempting to get flight by ID: 13546
+2025-05-01T22:21:02.630493100-->Looking up flight by ID: 13546
+2025-05-01T22:21:02.631505200-->Flight not found with ID: 13546
+2025-05-01T22:21:02.631505200-->Failed to get flight info: Flight with ID 13546 not found
+2025-05-01T22:21:02.632506100-->Flight not found.
+2025-05-01T22:21:06.652839100-->Getting upcoming flights (next 24 hours)
+2025-05-01T22:21:06.653840500-->Getting all flights (count: 199)
+2025-05-01T22:21:06.653840500-->Total flights in system: 199
+2025-05-01T22:21:06.654841900-->Included flight: F1001 | Time: 2025-05-02T02:02:31.0897575 | Seats: 151/151
+2025-05-01T22:21:06.654841900-->Included flight: F1016 | Time: 2025-05-02T08:02:31.0897575 | Seats: 166/166
+2025-05-01T22:21:06.654841900-->Included flight: F1056 | Time: 2025-05-02T18:17:31.0897575 | Seats: 156/156
+2025-05-01T22:21:06.654841900-->Included flight: F1182 | Time: 2025-05-02T01:02:31.0897575 | Seats: 182/182
+2025-05-01T22:21:06.655856700-->Found 4 flights in next 24 hours
+2025-05-01T22:21:06.655856700-->Returning 4 upcoming flights
+2025-05-01T22:21:18.919078500-->For input string: "F1182"
+2025-05-01T22:21:26.303111900-->Getting upcoming flights (next 24 hours)
+2025-05-01T22:21:26.304111800-->Getting all flights (count: 199)
+2025-05-01T22:21:26.304111800-->Total flights in system: 199
+2025-05-01T22:21:26.305089200-->Included flight: F1001 | Time: 2025-05-02T02:02:31.0897575 | Seats: 151/151
+2025-05-01T22:21:26.305089200-->Included flight: F1016 | Time: 2025-05-02T08:02:31.0897575 | Seats: 166/166
+2025-05-01T22:21:26.305089200-->Included flight: F1056 | Time: 2025-05-02T18:17:31.0897575 | Seats: 156/156
+2025-05-01T22:21:26.305089200-->Included flight: F1182 | Time: 2025-05-02T01:02:31.0897575 | Seats: 182/182
+2025-05-01T22:21:26.306090300-->Found 4 flights in next 24 hours
+2025-05-01T22:21:26.306090300-->Returning 4 upcoming flights
+2025-05-01T22:21:32.662729900-->Getting flight info for ID: F1182
+2025-05-01T22:21:32.663731100-->Attempting to get flight by ID: F1182
+2025-05-01T22:21:32.663731100-->Looking up flight by ID: F1182
+2025-05-01T22:21:32.664728800-->Successfully retrieved flight: F1182
+2025-05-01T22:21:32.664728800-->Successfully retrieved flight: F1182
+2025-05-01T22:22:37.922168100-->Searching flights: Destination=Dubai, Date=2025-07-23, People=4
+2025-05-01T22:22:37.923491-->Searching flights: Destination=Dubai, Date=2025-07-23, Passengers=4
+2025-05-01T22:22:37.923491-->Getting all flights (count: 199)
+2025-05-01T22:22:37.925031100-->Found 0 matching flights
+2025-05-01T22:22:37.925031100-->Found 0 matching flights
+2025-05-01T23:08:47.250147700-->Initializing FlightDAO
+2025-05-01T23:08:47.262152300-->Flight data file not found or empty, generating sample flights
+2025-05-01T23:08:47.263153700-->Generating 200 sample flights for next 30 days
+2025-05-01T23:08:47.267351800-->Saving flights to file: Databases/flights.txt
+2025-05-01T23:08:47.272613600-->Successfully saved 200 flights to file
+2025-05-01T23:08:47.273786800-->Generated 200 sample flights
+2025-05-01T23:08:47.273786800-->FlightDAO initialized with 200 flights
+2025-05-01T23:08:47.274792900-->FlightService initialized with FlightDAO
+2025-05-01T23:08:47.274792900-->FlightController initialized with FlightService
+2025-05-01T23:08:47.276187800-->Initializing BookingDao...
+2025-05-01T23:08:47.276187800-->Loading bookings from file...
+2025-05-01T23:08:47.278253600-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-01T23:09:01.168114900-->User with Username Feridudd not found
+2025-05-01T23:09:01.168114900-->User Feridudd not found
+2025-05-01T23:09:38.952612900-->Initializing FlightDAO
+2025-05-01T23:09:38.963227-->Loading flights from existing file
+2025-05-01T23:09:38.963227-->Loading flights from file: Databases/flights.txt
+2025-05-01T23:09:38.977795400-->Loaded 200 flights, skipped 0 entries
+2025-05-01T23:09:38.979797500-->FlightDAO initialized with 200 flights
+2025-05-01T23:09:38.980971700-->FlightService initialized with FlightDAO
+2025-05-01T23:09:38.981980400-->FlightController initialized with FlightService
+2025-05-01T23:09:38.981980400-->Initializing BookingDao...
+2025-05-01T23:09:38.981980400-->Loading bookings from file...
+2025-05-01T23:09:38.984983200-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-01T23:09:46.054220300-->User with Username Ferid not found
+2025-05-01T23:09:46.055220300-->User Ferid not found
+2025-05-01T23:10:07.514509-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-01T23:10:07.515516700-->Password Hashed
+2025-05-01T23:10:07.517533600-->User namedFeridmcreated, UID1
+2025-05-01T23:10:07.521951900-->UserDAO: Added user with UID 1
+2025-05-01T23:10:15.533037600-->User with Username Feridm found
+2025-05-01T23:10:15.534264-->User Feridm found
+2025-05-01T23:10:15.534264-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T23:10:22.454400600-->User with Username Feridm found
+2025-05-01T23:10:22.455401-->User Feridm found
+2025-05-01T23:10:22.456402900-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T23:10:22.456402900-->User Feridm's hash matched
+2025-05-01T23:10:22.457402200-->Session created
+2025-05-01T23:10:22.459505100-->For input string: ""
+2025-05-01T23:10:40.950226300-->User with Username Feridm found
+2025-05-01T23:10:40.951223200-->User Feridm updated
+2025-05-01T23:10:40.952226200-->For input string: ""
+2025-05-01T23:10:44.023188800-->Logging out...
+2025-05-01T23:10:44.024195100-->Session removed with sessionid: 5870
+2025-05-01T23:10:52.009396800-->User with Username Feridm found
+2025-05-01T23:10:52.010374700-->User Feridm found
+2025-05-01T23:10:52.010374700-->HoneyIndexDAO: HoneyIndex found
+2025-05-01T23:10:52.010374700-->User Feridm's hash matched
+2025-05-01T23:10:52.010374700-->Session created
+2025-05-01T23:10:52.011375600-->For input string: ""
+2025-05-01T23:10:55.311832700-->Logging out...
+2025-05-01T23:10:55.312883800-->Session removed with sessionid: 9925
