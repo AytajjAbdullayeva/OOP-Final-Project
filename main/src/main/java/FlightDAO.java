@@ -34,10 +34,10 @@ public class FlightDAO {
             String id = "F" + (1000 + i);
             String dest = destinations.get(i % destinations.size());
 
-            // Random tarix: bu gündən 1–30 gün sonrasına təsadüfi vaxt
-            int plusDays = (int) (Math.random() * 30); // 0-29 gün
-            int plusHours = (int) (Math.random() * 24); // 0-23 saat
-            int plusMinutes = ((int) (Math.random() * 4)) * 15; // 0, 15, 30, 45 dəqiqə
+           
+            int plusDays = (int) (Math.random() * 30); 
+            int plusHours = (int) (Math.random() * 24); 
+            int plusMinutes = ((int) (Math.random() * 4)) * 15; 
 
             LocalDateTime departureTime = now.plusDays(plusDays).plusHours(plusHours).plusMinutes(plusMinutes);
 
@@ -52,7 +52,7 @@ public class FlightDAO {
 
     public List<Flight> getAllFlights() {
         Logger.DebugLog("Getting all flights (count: " + flights.size() + ")");
-        return new ArrayList<>(flights); // Return copy for immutability
+        return new ArrayList<>(flights); 
     }
 
     public Flight getFlightById(String id) {
