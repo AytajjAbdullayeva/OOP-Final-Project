@@ -1,4 +1,9 @@
+package fin.service;
 
+import fin.Logger;
+import fin.dao.FlightDAO;
+import fin.model.Flight;
+import fin.FlightNotFoundException;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -14,12 +19,9 @@ public class FlightService {
         this.flightDAO = flightDAO;
     }
 
-
-
     public List<Flight> getFlightsInNext24Hours() {
         LocalDateTime now = LocalDateTime.now();
         LocalDateTime end = now.plusHours(24);
-
 
         List<Flight> allFlights = flightDAO.getAllFlights();
         Logger.DebugLog("Total flights in system: " + allFlights.size());
@@ -32,11 +34,9 @@ public class FlightService {
                         " | Seats: " + f.getAvailableSeats() + "/" + f.getTotalSeats()))
                 .collect(Collectors.toList());
 
-
         Logger.DebugLog("Found " + result.size() + " flights in next 24 hours");
         return result;
     }
-
 
     public Flight getFlightById(String id) {
         Logger.DebugLog("Attempting to get flight by ID: " + id);
@@ -48,7 +48,6 @@ public class FlightService {
         Logger.DebugLog("Successfully retrieved flight: " + flight.getId());
         return flight;
     }
-
 
     public List<Flight> searchFlights(String destination, LocalDate date, int passengerCount) {
         Logger.DebugLog(String.format(
@@ -65,39 +64,51 @@ public class FlightService {
         return results;
     }
 
-    public boolean decreaseAvailableSeats(String flightId, int seats) {
+    private boolean updateAvailableSeats(String flightId, int delta) {
         Logger.DebugLog(String.format(
-                "Attempting to decrease seats: FlightID=%s, Seats=%d",
-                flightId, seats));
+                "Updating seats: FlightID=%s, Delta=%d",
+                flightId, delta));
+
         Flight flight = flightDAO.getFlightById(flightId);
-        if (flight == null || flight.getAvailableSeats() < seats) {
-            Logger.DebugLog("Failed to decrease seats - " +
-                    (flight == null ? "Flight not found" : "Not enough available seats"));
+        if (flight == null) {
+            Logger.DebugLog("Flight not found");
             return false;
         }
-        flight.setAvailableSeats(flight.getAvailableSeats() - seats);
+
+        int current = flight.getAvailableSeats();
+        int total = flight.getTotalSeats();
+        int updated = current + delta;
+
+        if (updated < 0 || updated > total) {
+            Logger.DebugLog(String.format(
+                    "Invalid seat update. Attempted: %d, Available: %d, Total: %d",
+                    updated, current, total));
+            return false;
+        }
+
+        flight.setAvailableSeats(updated);
         flightDAO.saveFlightsToFile();
+
         Logger.DebugLog(String.format(
-                "Successfully decreased seats. New availability: %d/%d",
-                flight.getAvailableSeats(), flight.getTotalSeats()));
+                "Seat update successful. New availability: %d/%d",
+                updated, total));
         return true;
     }
 
-    
-    public void increaseAvailableSeats(String flightId, int seats) {
-        Logger.DebugLog(String.format(
-                "Increasing seats: FlightID=%s, Seats=%d",
-                flightId, seats));
-        Flight flight = flightDAO.getFlightById(flightId);
-        if (flight != null) {
-            flight.setAvailableSeats(flight.getAvailableSeats() + seats);
-            flightDAO.saveFlightsToFile();
-            Logger.DebugLog(String.format(
-                    "Successfully increased seats. New availability: %d/%d",
-                    flight.getAvailableSeats(), flight.getTotalSeats()));
-        } else {
-            Logger.DebugLog("Flight not found - could not increase seats");
+    public boolean decreaseAvailableSeats(String flightId, int seats) {
+        if (seats <= 0) {
+            Logger.DebugLog("Invalid number of seats to decrease");
+            return false;
         }
+        return updateAvailableSeats(flightId, -seats);
+    }
+
+    public void increaseAvailableSeats(String flightId, int seats) {
+        if (seats <= 0) {
+            Logger.DebugLog("Invalid number of seats to increase");
+            return;
+        }
+        updateAvailableSeats(flightId, seats);
     }
 
     public boolean hasAvailableSeats(String flightId, int requestedSeats) {
@@ -115,6 +126,4 @@ public class FlightService {
                 result ? "OK" : "NOT ENOUGH", flight.getAvailableSeats()));
         return result;
     }
-
 }
-
