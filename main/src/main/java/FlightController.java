@@ -1,4 +1,8 @@
+package fin;
 
+import fin.Logger;
+import fin.model.Flight;
+import fin.service.FlightService;
 
 import java.time.LocalDate;
 import java.util.List;
@@ -14,7 +18,7 @@ public class FlightController {
     public List<Flight> getUpcomingFlights() {
         Logger.DebugLog("Getting upcoming flights (next 24 hours)");
         List<Flight> flights = flightService.getFlightsInNext24Hours();
-        Logger.DebugLog("Returning " + flights.size() + " upcoming flights");
+        Logger.DebugLog("Found " + flights.size() + " upcoming flights");
         return flights;
     }
 
@@ -24,7 +28,7 @@ public class FlightController {
             Flight flight = flightService.getFlightById(id);
             Logger.DebugLog("Successfully retrieved flight: " + flight.getId());
             return flight;
-        } catch (Exception e) {
+        } catch (FlightNotFoundException e) {
             Logger.DebugLog("Failed to get flight info: " + e.getMessage());
             throw e;
         }
