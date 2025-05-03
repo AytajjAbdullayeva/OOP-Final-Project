@@ -1,13 +1,7 @@
-package fin.dao;
-
-
-import fin.Logger;
-import java.time.format.DateTimeParseException;
-import fin.InvalidFlightDataException;
-import fin.model.Flight;
 
 import java.io.*;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 import java.util.List;
 import  java.time.format.DateTimeFormatter;
@@ -56,6 +50,20 @@ public class FlightDAO {
 
         saveFlightsToFile();
         Logger.DebugLog("Generated 200 sample flights");
+    }
+
+    public boolean deleteFlightById(String id) {
+        Logger.DebugLog("Attempting to delete flight with ID: " + id);
+        boolean removed = flights.removeIf(flight -> flight.getId().equalsIgnoreCase(id));
+
+        if (removed) {
+            Logger.DebugLog("Flight " + id + " removed from memory, saving to file...");
+            saveFlightsToFile();
+        } else {
+            Logger.DebugLog("Flight " + id + " not found");
+        }
+
+        return removed;
     }
 
 
@@ -161,6 +169,4 @@ public class FlightDAO {
             generateSampleFlights();
         }
     }
-
-
 }
