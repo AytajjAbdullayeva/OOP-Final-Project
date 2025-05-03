@@ -1,9 +1,3 @@
-package fin;
-
-import fin.Logger;
-import fin.model.Flight;
-import fin.service.FlightService;
-
 import java.time.LocalDate;
 import java.util.List;
 
