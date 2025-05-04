@@ -62,7 +62,7 @@ OOP-Final-Project/
 │       ├── DAO/                   
 │       ├── controller/           
 │       └── service/               
-├── target/                        # Compiled classes (Maven/Gradle output)  
+├── target/                        # Compiled classes (Maven output)  
 ├── pom.xml                        # Maven configuration  
 └── README.md                      
 
