@@ -18,7 +18,7 @@ public class HoneyIndexDAO {
 
     public static boolean loadHoneyDatabase()
     {
-        Path path = Paths.get("main/Databases/");
+        Path path = Paths.get("Databases/");
         Path filePath = path.resolve("HoneyIndex.json");
 
         try {
@@ -43,7 +43,7 @@ public class HoneyIndexDAO {
         honeyIndexList.add(honeyIndex);
         try {
 
-            mapper.writeValue(new File("main/Databases/HoneyIndex.json"),honeyIndexList);
+            mapper.writeValue(new File("Databases/HoneyIndex.json"),honeyIndexList);
             Logger.DebugLog("HoneyIndexDAO: HoneyIndex added successfully");
         } catch (IOException e) {
             e.printStackTrace();
@@ -74,7 +74,7 @@ public class HoneyIndexDAO {
         honeyIndexList.remove(index);
 
         try {
-            mapper.writeValue(new File("main/Databases/HoneyIndex.json"),honeyIndexList);
+            mapper.writeValue(new File("Databases/HoneyIndex.json"),honeyIndexList);
         } catch (IOException e) {
             e.printStackTrace();
             Logger.DebugLog("HoneyIndexDAO: HoneyIndex arraylist couldn't be added after deletion");
@@ -102,7 +102,7 @@ public class HoneyIndexDAO {
         honeyIndexList.clear();
         try {
 
-            mapper.writeValue(new File("main/Databases/HoneyIndex.json"),honeyIndexList);
+            mapper.writeValue(new File("Databases/HoneyIndex.json"),honeyIndexList);
             Logger.DebugLog("HoneyIndexDAO: Database deleted successfully");
         } catch (IOException e) {
             e.printStackTrace();
