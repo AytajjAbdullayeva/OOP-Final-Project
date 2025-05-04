@@ -4,16 +4,18 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 import  java.time.format.DateTimeFormatter;
+import exception.InvalidFlightDataException;
 
 public class FlightDAO {
     private static final DateTimeFormatter DATE_TIME_FORMATTER =
             DateTimeFormatter.ISO_LOCAL_DATE_TIME;
     private List<Flight> flights = new ArrayList<>();
-    private final String filePath = "Databases/flights.txt";
+    private final String filePath = "src/flights.txt";
 
     public FlightDAO() {
         Logger.DebugLog("Initializing FlightDAO");
         File file = new File(filePath);
+
         if (!file.exists() || file.length() == 0) {
             Logger.DebugLog("Flight data file not found or empty, generating sample flights");
             generateSampleFlights();
@@ -24,8 +26,9 @@ public class FlightDAO {
         Logger.DebugLog("FlightDAO initialized with " + flights.size() + " flights");
     }
 
-    private void generateSampleFlights() {
-        Logger.DebugLog("Generating 200 sample flights for next 30 days");
+   private void generateSampleFlights() {
+        Logger.DebugLog("Generating sample flights for next 30 days");
+
         flights.clear();
         List<String> destinations = List.of("London", "Paris", "Berlin", "Baku", "New York", "Rome", "Dubai", "Istanbul");
         LocalDateTime now = LocalDateTime.now();
@@ -34,10 +37,9 @@ public class FlightDAO {
             String id = "F" + (1000 + i);
             String dest = destinations.get(i % destinations.size());
 
-            // Random tarix: bu gündən 1–30 gün sonrasına təsadüfi vaxt
-            int plusDays = (int) (Math.random() * 30); // 0-29 gün
-            int plusHours = (int) (Math.random() * 24); // 0-23 saat
-            int plusMinutes = ((int) (Math.random() * 4)) * 15; // 0, 15, 30, 45 dəqiqə
+            int plusDays = (int) (Math.random() * 30); 
+            int plusHours = (int) (Math.random() * 24); 
+            int plusMinutes = ((int) (Math.random() * 4)) * 15; 
 
             LocalDateTime departureTime = now.plusDays(plusDays).plusHours(plusHours).plusMinutes(plusMinutes);
 
@@ -50,9 +52,10 @@ public class FlightDAO {
     }
 
 
+
     public List<Flight> getAllFlights() {
         Logger.DebugLog("Getting all flights (count: " + flights.size() + ")");
-        return new ArrayList<>(flights); // Return copy for immutability
+        return new ArrayList<>(flights); 
     }
 
     public Flight getFlightById(String id) {
@@ -89,6 +92,21 @@ public class FlightDAO {
         }
     }
 
+    public boolean deleteFlightById(String id) {
+        Logger.DebugLog("Attempting to delete flight with ID: " + id);
+        boolean removed = flights.removeIf(flight -> flight.getId().equalsIgnoreCase(id));
+
+        if (removed) {
+            Logger.DebugLog("Flight " + id + " removed from memory, saving to file...");
+            saveFlightsToFile();
+        } else {
+            Logger.DebugLog("Flight " + id + " not found");
+        }
+
+        return removed;
+    }
+
+
     private void loadFlightsFromFile() {
         Logger.DebugLog("Loading flights from file: " + filePath);
         flights.clear();
@@ -113,21 +131,21 @@ public class FlightDAO {
                         throw new InvalidFlightDataException("Malformed flight entry: " + line);
                     }
 
-                        LocalDateTime dateTime = LocalDateTime.parse(parts[2]);
+                    LocalDateTime dateTime = LocalDateTime.parse(parts[2]);
 
-                        if (dateTime.isAfter(LocalDateTime.now()))
+                    if (dateTime.isAfter(LocalDateTime.now()))
                     {
-                            flights.add(new Flight(
-                                    parts[0],
-                                    parts[1],
-                                    dateTime,
-                                    Integer.parseInt(parts[3]),
-                                    Integer.parseInt(parts[4])
-                            ));
-                            loadedCount++;
-                        } else {
-                            skippedCount++;
-                        }
+                        flights.add(new Flight(
+                                parts[0],
+                                parts[1],
+                                dateTime,
+                                Integer.parseInt(parts[3]),
+                                Integer.parseInt(parts[4])
+                        ));
+                        loadedCount++;
+                    } else {
+                        skippedCount++;
+                    }
 
                 } catch (InvalidFlightDataException | DateTimeParseException | NumberFormatException e) {
                     Logger.DebugLog("Skipping invalid flight data: " + line + " | Error: " + e.getMessage());
