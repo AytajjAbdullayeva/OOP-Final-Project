@@ -23,7 +23,7 @@ This is a Java console application for booking and managing plane tickets. Users
 
 
 
-  Technologies & Structure
+##  *Technologies & Structure*
   
   
 •	Java 8+ (Streams, Optional, Lambda expressions)
@@ -38,7 +38,7 @@ This is a Java console application for booking and managing plane tickets. Users
 
 
 
-   Project Structure
+##   *Project Structure*
 
 
 OOP-Final-Project/  
