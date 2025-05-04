@@ -2,15 +2,17 @@
 //import util.Logger;
 package DAO;
 import java.io.*;
+import java.time.LocalDateTime;
 import java.util.*;
 import java.util.stream.Collectors;
 import entity.Booking;
+import entity.Passenger;
 import logging.Logger;
 
 
 public class BookingDao {
     private List<Booking> bookings = new ArrayList<>();
-    private final String FILE_PATH = "Databases/bookings.dat";
+    private final String FILE_PATH = "Databases/bookings.txt";
 
     public BookingDao() {
         Logger.DebugLog("Initializing BookingDao...");
@@ -46,19 +48,54 @@ public class BookingDao {
 
     private void loadBookingsFromFile() {
         Logger.DebugLog("Loading bookings from file...");
-        try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(FILE_PATH))) {
-            bookings = (List<Booking>) ois.readObject();
+        bookings = new ArrayList<>();
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(FILE_PATH))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                Booking booking = parseBookingFromString(line);
+                if (booking != null) {
+                    bookings.add(booking);
+                }
+            }
             Logger.DebugLog("Loaded " + bookings.size() + " bookings.");
-        } catch (IOException | ClassNotFoundException e) {
+        } catch (IOException e) {
             Logger.DebugLog("No existing bookings found or error reading file: " + e.getMessage());
-            bookings = new ArrayList<>();
+        }
+    }
+
+    private Booking parseBookingFromString(String line) {
+        try {
+            String[] parts = line.split(",", 4); // limit to 4 parts
+            String bookingID = parts[0];
+            String flightID = parts[1];
+            String passengerStr = parts[2];
+            String bookingTimeStr = parts[3];
+
+            List<Passenger> passengers = new ArrayList<>();
+            for (String p : passengerStr.split("\\|")) {
+                String[] nameParts = p.split(" ");
+                if (nameParts.length == 2) {
+                    passengers.add(new Passenger(nameParts[0], nameParts[1]));
+                }
+            }
+
+            LocalDateTime bookingTime = LocalDateTime.parse(bookingTimeStr);
+
+            return new Booking(bookingID, flightID, passengers, bookingTime);
+        } catch (Exception e) {
+            Logger.DebugLog("Error parsing booking line: " + e.getMessage());
+            return null;
         }
     }
 
     private void saveBookingsToFile() {
         Logger.DebugLog("Saving bookings to file...");
-        try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(FILE_PATH))) {
-            oos.writeObject(bookings);
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(FILE_PATH))) {
+            for (Booking booking : bookings) {
+                writer.write(booking.toString());
+                writer.newLine();
+            }
             Logger.DebugLog("Bookings saved successfully.");
         } catch (IOException e) {
             Logger.DebugLog("Error saving bookings: " + e.getMessage());

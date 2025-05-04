@@ -4626,3 +4626,775 @@
 2025-05-04T22:22:24.288448100-->Found 7 upcoming flights
 2025-05-04T22:22:27.211521300-->Logging out...
 2025-05-04T22:22:27.212521800-->Session removed with sessionid: 1527
+2025-05-04T22:28:18.001987200-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T22:28:18.066348100-->UserDAO: Loaded 0 users
+2025-05-04T22:28:18.067345700-->Initializing FlightDAO
+2025-05-04T22:28:18.068481100-->Loading flights from existing file
+2025-05-04T22:28:18.068481100-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T22:28:18.079341200-->Loaded 198 flights, skipped 2 entries
+2025-05-04T22:28:18.080779400-->FlightDAO initialized with 198 flights
+2025-05-04T22:28:18.082201800-->FlightService initialized with FlightDAO
+2025-05-04T22:28:18.082201800-->FlightController initialized with FlightService
+2025-05-04T22:28:18.083588400-->Initializing BookingDao...
+2025-05-04T22:28:18.083588400-->Loading bookings from file...
+2025-05-04T22:28:18.085055900-->No existing bookings found or error reading file: Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T22:28:34.733861900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T22:28:34.733861900-->Password Hashed
+2025-05-04T22:28:34.735861400-->User namedebdulcreated, UID1
+2025-05-04T22:28:34.738862100-->UserDAO: Added user with UID 1
+2025-05-04T22:28:40.959866300-->User with Username ebdul found
+2025-05-04T22:28:40.960870700-->User ebdul found
+2025-05-04T22:28:40.960870700-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T22:28:40.960870700-->User ebdul's hash matched
+2025-05-04T22:28:40.961868400-->Session created
+2025-05-04T22:28:40.962865800-->For input string: ""
+2025-05-04T22:28:42.827585600-->Logging out...
+2025-05-04T22:28:42.828714700-->Session removed with sessionid: 9790
+2025-05-04T22:48:34.154058800-->UserDAO: Loaded 1 users
+2025-05-04T22:48:34.155206600-->Initializing FlightDAO
+2025-05-04T22:48:34.156573400-->Loading flights from existing file
+2025-05-04T22:48:34.156573400-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T22:48:34.167642400-->Loaded 198 flights, skipped 2 entries
+2025-05-04T22:48:34.168762300-->FlightDAO initialized with 198 flights
+2025-05-04T22:48:34.169771500-->FlightService initialized with FlightDAO
+2025-05-04T22:48:34.171184300-->FlightController initialized with FlightService
+2025-05-04T22:48:34.172613600-->Initializing BookingDao...
+2025-05-04T22:48:34.173999-->Loading bookings from file...
+2025-05-04T22:48:34.176337100-->No existing bookings found or error reading file: Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T22:48:52.401709300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T22:48:52.401709300-->Password Hashed
+2025-05-04T22:48:52.403710900-->User namedferidmcreated, UID2
+2025-05-04T22:48:52.407184600-->UserDAO: Added user with UID 2
+2025-05-04T22:48:59.079042-->User with Username feridm found
+2025-05-04T22:48:59.079547700-->User feridm found
+2025-05-04T22:48:59.079547700-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T22:48:59.079547700-->User feridm's hash matched
+2025-05-04T22:48:59.080555400-->Session created
+2025-05-04T22:48:59.081558600-->For input string: ""
+2025-05-04T22:49:05.188186200-->User with Username feridm found
+2025-05-04T22:49:05.188186200-->User feridm found
+2025-05-04T22:49:05.189188200-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T22:49:05.189188200-->User feridm's hash matched
+2025-05-04T22:49:05.189188200-->Session created
+2025-05-04T22:49:05.189188200-->User with Username feridm found
+2025-05-04T22:49:05.191142300-->UserDAO: User with UID 2 successfully removed
+2025-05-04T22:49:05.191142300-->Session removed with sessionid: 4129
+2025-05-04T22:49:05.191142300-->User with Username feridm not found
+2025-05-04T22:49:05.191142300-->User feridm not found
+2025-05-04T22:49:13.609901400-->User with Username feridm not found
+2025-05-04T22:49:13.611183500-->User feridm not found
+2025-05-04T22:49:32.054531-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T22:49:32.054531-->Password Hashed
+2025-05-04T22:49:32.055705700-->User namedferidmcreated, UID2
+2025-05-04T22:49:32.056232-->UserDAO: Added user with UID 2
+2025-05-04T22:50:00.209948500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T22:50:00.209948500-->Password Hashed
+2025-05-04T22:50:00.209948500-->User namedferidmcreated, UID3
+2025-05-04T22:52:03.242014100-->UserDAO: Loaded 2 users
+2025-05-04T22:52:03.243014-->Initializing FlightDAO
+2025-05-04T22:52:03.244014400-->Loading flights from existing file
+2025-05-04T22:52:03.244014400-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T22:52:03.256559900-->Loaded 198 flights, skipped 2 entries
+2025-05-04T22:52:03.257982100-->FlightDAO initialized with 198 flights
+2025-05-04T22:52:03.259593200-->FlightService initialized with FlightDAO
+2025-05-04T22:52:03.260597300-->FlightController initialized with FlightService
+2025-05-04T22:52:03.260597300-->Initializing BookingDao...
+2025-05-04T22:52:03.260597300-->Loading bookings from file...
+2025-05-04T22:52:03.261598-->No existing bookings found or error reading file: Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T22:52:16.187579200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T22:52:16.187579200-->Password Hashed
+2025-05-04T22:52:16.188579200-->User namedferidmcreated, UID3
+2025-05-04T23:06:39.234084600-->Initializing BookingDao...
+2025-05-04T23:06:39.236082-->Loading bookings from file...
+2025-05-04T23:06:39.236082-->No existing bookings found or error reading file: Databases\bookings.txt (The system cannot find the file specified)
+2025-05-04T23:06:39.237453100-->Initializing FlightDAO
+2025-05-04T23:06:39.237453100-->Loading flights from existing file
+2025-05-04T23:06:39.237453100-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:06:39.248308400-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:06:39.248308400-->FlightDAO initialized with 198 flights
+2025-05-04T23:06:39.249745200-->FlightService initialized with FlightDAO
+2025-05-04T23:06:39.250756200-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:06:39.250756200-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:06:39.250756200-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:06:39.251976900-->Adding new flight: TestFID
+2025-05-04T23:06:39.251976900-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:06:39.255557100-->Successfully saved 199 flights to file
+2025-05-04T23:06:39.256926500-->Handling new booking request for flight: TestFID
+2025-05-04T23:06:39.256926500-->Attempting to create booking for flight TestFID
+2025-05-04T23:06:39.256926500-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:06:39.256926500-->Looking up flight by ID: TestFID
+2025-05-04T23:06:39.258195600-->Available seats check result: OK (90 available)
+2025-05-04T23:06:39.259247100-->Generated booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80
+2025-05-04T23:06:39.260252900-->Creating Booking: 418640ba-2ae3-489e-b636-19c1cc00ff80, Flight: TestFID
+2025-05-04T23:06:39.260252900-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:06:39.260252900-->Looking up flight by ID: TestFID
+2025-05-04T23:06:39.261668900-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:06:39.262895100-->Successfully saved 199 flights to file
+2025-05-04T23:06:39.262895100-->Seat update successful. New availability: 93/100
+2025-05-04T23:06:39.264194800-->Adding booking: 418640ba-2ae3-489e-b636-19c1cc00ff80
+2025-05-04T23:06:39.264194800-->Saving bookings to file...
+2025-05-04T23:06:39.267342600-->Bookings saved successfully.
+2025-05-04T23:06:39.270346-->Booking created and saved: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:06:39.271345400-->Booking successful! Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:06:39.273344-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:06:39.274850600-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:06:39.274850600-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:06:39.275855900-->Handling cancellation for booking ID: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:06:39.275855900-->Attempting to cancel booking: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:06:39.275855900-->Retrieving booking by ID: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:06:39.277216300-->Booking not found: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:06:39.277216300-->Booking ID not found.
+2025-05-04T23:06:39.277216300-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:06:39.277216300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:06:39.278664-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:06:43.685185500-->Initializing BookingDao...
+2025-05-04T23:06:43.694313600-->Loading bookings from file...
+2025-05-04T23:06:43.725410-->Loaded 1 bookings.
+2025-05-04T23:06:43.726412100-->Initializing FlightDAO
+2025-05-04T23:06:43.726412100-->Loading flights from existing file
+2025-05-04T23:06:43.726412100-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:06:43.738438-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:06:43.739432700-->FlightDAO initialized with 198 flights
+2025-05-04T23:06:43.740433800-->FlightService initialized with FlightDAO
+2025-05-04T23:06:43.740433800-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:06:43.741432400-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:06:43.741432400-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:06:43.741432400-->Adding new flight: TestFID
+2025-05-04T23:06:43.741432400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:06:43.744916400-->Successfully saved 199 flights to file
+2025-05-04T23:06:49.493507700-->Handling new booking request for flight: TestFID
+2025-05-04T23:06:49.892402800-->Attempting to create booking for flight TestFID
+2025-05-04T23:06:49.922816800-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:06:49.923817700-->Looking up flight by ID: TestFID
+2025-05-04T23:06:49.925822-->Available seats check result: OK (90 available)
+2025-05-04T23:06:49.977328600-->Generated booking ID: 875c0814-0f7f-42ab-a17d-4d0fd4c074a1
+2025-05-04T23:06:49.979335400-->Creating Booking: 875c0814-0f7f-42ab-a17d-4d0fd4c074a1, Flight: TestFID
+2025-05-04T23:06:49.980337300-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:06:49.980337300-->Looking up flight by ID: TestFID
+2025-05-04T23:06:49.981332100-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:06:49.993838800-->Successfully saved 199 flights to file
+2025-05-04T23:06:49.994843100-->Seat update successful. New availability: 93/100
+2025-05-04T23:06:49.995843-->Adding booking: 875c0814-0f7f-42ab-a17d-4d0fd4c074a1
+2025-05-04T23:06:49.996845900-->Saving bookings to file...
+2025-05-04T23:06:50.005842-->Bookings saved successfully.
+2025-05-04T23:06:50.018788900-->Booking created and saved: Booking ID: 875c0814-0f7f-42ab-a17d-4d0fd4c074a1 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:49.978333500
+2025-05-04T23:06:54.285615900-->Booking successful! Booking ID: 875c0814-0f7f-42ab-a17d-4d0fd4c074a1 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:49.978333500
+2025-05-04T23:07:04.439102700-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:07:04.440102200-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:04.441101600-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:04.443101600-->Handling cancellation for booking ID: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:04.444100900-->Attempting to cancel booking: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:04.445101200-->Retrieving booking by ID: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:04.447101800-->Booking not found: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:04.448109500-->Booking ID not found.
+2025-05-04T23:07:04.449110600-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:07:04.449110600-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:04.450105600-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:36.501262100-->Initializing BookingDao...
+2025-05-04T23:07:36.511244200-->Loading bookings from file...
+2025-05-04T23:07:36.541240-->Loaded 2 bookings.
+2025-05-04T23:07:36.542251-->Initializing FlightDAO
+2025-05-04T23:07:36.546267100-->Loading flights from existing file
+2025-05-04T23:07:36.546267100-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:07:36.557347900-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:07:36.558353800-->FlightDAO initialized with 198 flights
+2025-05-04T23:07:36.559491500-->FlightService initialized with FlightDAO
+2025-05-04T23:07:36.560705700-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:07:36.560705700-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:07:36.560705700-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:07:36.561712800-->Adding new flight: TestFID
+2025-05-04T23:07:36.561712800-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:07:36.565778900-->Successfully saved 199 flights to file
+2025-05-04T23:07:36.566787200-->Handling new booking request for flight: TestFID
+2025-05-04T23:07:36.566787200-->Attempting to create booking for flight TestFID
+2025-05-04T23:07:36.578130900-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:07:36.579392600-->Looking up flight by ID: TestFID
+2025-05-04T23:07:36.579392600-->Available seats check result: OK (90 available)
+2025-05-04T23:07:36.596815-->Generated booking ID: 53cdf63d-4e85-4087-9018-9c892ab706d0
+2025-05-04T23:07:36.597884300-->Creating Booking: 53cdf63d-4e85-4087-9018-9c892ab706d0, Flight: TestFID
+2025-05-04T23:07:36.598815600-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:07:36.598815600-->Looking up flight by ID: TestFID
+2025-05-04T23:07:36.598815600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:07:36.600287-->Successfully saved 199 flights to file
+2025-05-04T23:07:36.601291900-->Seat update successful. New availability: 93/100
+2025-05-04T23:07:36.601291900-->Adding booking: 53cdf63d-4e85-4087-9018-9c892ab706d0
+2025-05-04T23:07:36.601291900-->Saving bookings to file...
+2025-05-04T23:07:36.620363500-->Bookings saved successfully.
+2025-05-04T23:07:36.623544100-->Booking created and saved: Booking ID: 53cdf63d-4e85-4087-9018-9c892ab706d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:07:36.597884300
+2025-05-04T23:07:36.624694-->Booking successful! Booking ID: 53cdf63d-4e85-4087-9018-9c892ab706d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:07:36.597884300
+2025-05-04T23:07:36.626808500-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:07:36.627816300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:36.627816300-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:47.717243100-->Handling cancellation for booking ID: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:47.717243100-->Attempting to cancel booking: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:47.718376100-->Retrieving booking by ID: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:47.718376100-->Booking not found: Booking ID: 418640ba-2ae3-489e-b636-19c1cc00ff80 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:06:39.260252900
+2025-05-04T23:07:47.719378300-->Booking ID not found.
+2025-05-04T23:07:47.719378300-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:07:47.719378300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:07:47.719378300-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:12:31.701130200-->Initializing BookingDao...
+2025-05-04T23:12:31.702136-->Loading bookings from file...
+2025-05-04T23:12:31.702136-->Loaded 0 bookings.
+2025-05-04T23:12:31.703446300-->Creating Passenger: Test User
+2025-05-04T23:12:31.703446300-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:12:31.704453800-->Adding booking: BOOK123
+2025-05-04T23:12:31.704453800-->Saving bookings to file...
+2025-05-04T23:12:31.707933-->Bookings saved successfully.
+2025-05-04T23:12:31.710352300-->Retrieving booking by ID: BOOK123
+2025-05-04T23:12:31.714137100-->Removing booking: BOOK123
+2025-05-04T23:12:31.715432500-->Saving bookings to file...
+2025-05-04T23:12:31.715937500-->Bookings saved successfully.
+2025-05-04T23:12:31.724133400-->Initializing BookingDao...
+2025-05-04T23:12:31.725231700-->Loading bookings from file...
+2025-05-04T23:12:31.725231700-->Loaded 0 bookings.
+2025-05-04T23:12:31.725231700-->Creating Passenger: Test User
+2025-05-04T23:12:31.725231700-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:12:31.726693700-->Adding booking: BOOK123
+2025-05-04T23:12:31.726693700-->Saving bookings to file...
+2025-05-04T23:12:31.726693700-->Bookings saved successfully.
+2025-05-04T23:12:31.727899-->Removing booking: BOOK123
+2025-05-04T23:12:31.727899-->Saving bookings to file...
+2025-05-04T23:12:31.727899-->Bookings saved successfully.
+2025-05-04T23:12:31.728907100-->Retrieving booking by ID: BOOK123
+2025-05-04T23:12:31.728907100-->Removing booking: BOOK123
+2025-05-04T23:12:31.729907100-->Saving bookings to file...
+2025-05-04T23:12:31.729907100-->Bookings saved successfully.
+2025-05-04T23:12:31.731062200-->Initializing BookingDao...
+2025-05-04T23:12:31.732474600-->Loading bookings from file...
+2025-05-04T23:12:31.732474600-->Loaded 0 bookings.
+2025-05-04T23:12:31.733485800-->Creating Passenger: Test User
+2025-05-04T23:12:31.733485800-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:12:31.733485800-->Adding booking: BOOK123
+2025-05-04T23:12:31.733485800-->Saving bookings to file...
+2025-05-04T23:12:31.734485400-->Bookings saved successfully.
+2025-05-04T23:12:31.735483200-->Retrieving bookings for passenger: Test User
+2025-05-04T23:12:31.736484-->Removing booking: BOOK123
+2025-05-04T23:12:31.736484-->Saving bookings to file...
+2025-05-04T23:12:31.736484-->Bookings saved successfully.
+2025-05-04T23:12:43.213004400-->Initializing BookingDao...
+2025-05-04T23:12:43.214356-->Loading bookings from file...
+2025-05-04T23:12:43.215610200-->Loaded 0 bookings.
+2025-05-04T23:12:43.216696-->Initializing FlightDAO
+2025-05-04T23:12:43.216696-->Loading flights from existing file
+2025-05-04T23:12:43.216696-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:12:43.226530400-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:12:43.227546100-->FlightDAO initialized with 198 flights
+2025-05-04T23:12:43.228552600-->FlightService initialized with FlightDAO
+2025-05-04T23:12:43.229554600-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:12:43.229554600-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:12:43.229554600-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:12:43.229554600-->Adding new flight: TestFID
+2025-05-04T23:12:43.229554600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:12:43.233180800-->Successfully saved 199 flights to file
+2025-05-04T23:12:43.234663200-->Handling new booking request for flight: TestFID
+2025-05-04T23:12:43.234663200-->Attempting to create booking for flight TestFID
+2025-05-04T23:12:43.235671200-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:12:43.235671200-->Looking up flight by ID: TestFID
+2025-05-04T23:12:43.236671400-->Available seats check result: OK (90 available)
+2025-05-04T23:12:43.238023700-->Generated booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da
+2025-05-04T23:12:43.239031600-->Creating Booking: 6220d3a7-082f-4626-8422-d51c511fb4da, Flight: TestFID
+2025-05-04T23:12:43.239031600-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:12:43.239031600-->Looking up flight by ID: TestFID
+2025-05-04T23:12:43.239031600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:12:43.241223900-->Successfully saved 199 flights to file
+2025-05-04T23:12:43.242221800-->Seat update successful. New availability: 93/100
+2025-05-04T23:12:43.242221800-->Adding booking: 6220d3a7-082f-4626-8422-d51c511fb4da
+2025-05-04T23:12:43.242867700-->Saving bookings to file...
+2025-05-04T23:12:43.244843800-->Bookings saved successfully.
+2025-05-04T23:12:43.245852200-->Booking created and saved: Booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:12:43.238023700
+2025-05-04T23:12:43.245852200-->Booking successful! Booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:12:43.238023700
+2025-05-04T23:12:43.247853100-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:12:43.248855100-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:12:43.248855100-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:12:43.250137700-->Handling cancellation for booking ID: Booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:12:43.238023700
+2025-05-04T23:12:43.250137700-->Attempting to cancel booking: Booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:12:43.238023700
+2025-05-04T23:12:43.250137700-->Retrieving booking by ID: Booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:12:43.238023700
+2025-05-04T23:12:43.251532-->Booking not found: Booking ID: 6220d3a7-082f-4626-8422-d51c511fb4da | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:12:43.238023700
+2025-05-04T23:12:43.251532-->Booking ID not found.
+2025-05-04T23:12:43.251532-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:12:43.251532-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:12:43.251532-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:13:07.109470900-->Initializing BookingDao...
+2025-05-04T23:13:07.119850300-->Loading bookings from file...
+2025-05-04T23:13:07.121008500-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:13:07.122388200-->Loaded 0 bookings.
+2025-05-04T23:13:07.123669500-->Initializing FlightDAO
+2025-05-04T23:13:07.123669500-->Loading flights from existing file
+2025-05-04T23:13:07.123669500-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:13:07.138176200-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:13:07.140179100-->FlightDAO initialized with 198 flights
+2025-05-04T23:13:07.141179700-->FlightService initialized with FlightDAO
+2025-05-04T23:13:07.142178-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:13:07.142178-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:13:07.142178-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:13:07.143177700-->Adding new flight: TestFID
+2025-05-04T23:13:07.143177700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:13:07.146911500-->Successfully saved 199 flights to file
+2025-05-04T23:13:07.148136100-->Handling new booking request for flight: TestFID
+2025-05-04T23:13:07.148136100-->Attempting to create booking for flight TestFID
+2025-05-04T23:13:07.158345100-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:13:07.158462600-->Looking up flight by ID: TestFID
+2025-05-04T23:13:07.159464600-->Available seats check result: OK (90 available)
+2025-05-04T23:13:07.195440600-->Generated booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3
+2025-05-04T23:13:07.196451200-->Creating Booking: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3, Flight: TestFID
+2025-05-04T23:13:07.196451200-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:13:07.196451200-->Looking up flight by ID: TestFID
+2025-05-04T23:13:07.196451200-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:13:07.198989600-->Successfully saved 199 flights to file
+2025-05-04T23:13:07.198989600-->Seat update successful. New availability: 93/100
+2025-05-04T23:13:07.198989600-->Adding booking: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3
+2025-05-04T23:13:07.199999300-->Saving bookings to file...
+2025-05-04T23:13:07.202292200-->Bookings saved successfully.
+2025-05-04T23:13:07.203545900-->Booking created and saved: Booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:13:07.195440600
+2025-05-04T23:13:07.203545900-->Booking successful! Booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:13:07.195440600
+2025-05-04T23:13:07.205713-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:13:07.206722-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:13:07.206722-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:13:19.853195300-->Handling cancellation for booking ID: Booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:13:07.195440600
+2025-05-04T23:13:19.854195900-->Attempting to cancel booking: Booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:13:07.195440600
+2025-05-04T23:13:19.855195-->Retrieving booking by ID: Booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:13:07.195440600
+2025-05-04T23:13:19.858313600-->Booking not found: Booking ID: 77d8d8b1-6235-4c0c-a47f-3cf209b9add3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:13:07.195440600
+2025-05-04T23:13:19.859313700-->Booking ID not found.
+2025-05-04T23:13:26.120615900-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:13:26.122092400-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:13:26.122092400-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:15:19.746267800-->Initializing BookingDao...
+2025-05-04T23:15:19.756614900-->Loading bookings from file...
+2025-05-04T23:15:19.759219700-->Loaded 0 bookings.
+2025-05-04T23:15:19.760246100-->Initializing FlightDAO
+2025-05-04T23:15:19.760246100-->Loading flights from existing file
+2025-05-04T23:15:19.760246100-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:15:19.774375400-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:15:19.776376200-->FlightDAO initialized with 198 flights
+2025-05-04T23:15:19.776376200-->FlightService initialized with FlightDAO
+2025-05-04T23:15:19.777376700-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:15:19.777376700-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:15:19.778492600-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:15:19.778492600-->Adding new flight: TestFID
+2025-05-04T23:15:19.778492600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:15:19.781968200-->Successfully saved 199 flights to file
+2025-05-04T23:15:19.782975500-->Handling new booking request for flight: TestFID
+2025-05-04T23:15:19.784051-->Attempting to create booking for flight TestFID
+2025-05-04T23:15:19.793718900-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:15:19.793718900-->Looking up flight by ID: TestFID
+2025-05-04T23:15:19.794720300-->Available seats check result: OK (90 available)
+2025-05-04T23:15:19.830001-->Generated booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3
+2025-05-04T23:15:19.831001400-->Creating Booking: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3, Flight: TestFID
+2025-05-04T23:15:19.831001400-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:15:19.831001400-->Looking up flight by ID: TestFID
+2025-05-04T23:15:19.832001600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:15:19.834000800-->Successfully saved 199 flights to file
+2025-05-04T23:15:19.834000800-->Seat update successful. New availability: 93/100
+2025-05-04T23:15:19.835001400-->Adding booking: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3
+2025-05-04T23:15:19.835001400-->Saving bookings to file...
+2025-05-04T23:15:19.839459500-->Bookings saved successfully.
+2025-05-04T23:15:19.840912600-->Booking created and saved: Booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:15:19.831001400
+2025-05-04T23:15:19.840912600-->Booking successful! Booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:15:19.831001400
+2025-05-04T23:15:19.843293600-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:15:19.844300500-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:15:19.844300500-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:15:26.635160800-->Handling cancellation for booking ID: Booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:15:19.831001400
+2025-05-04T23:15:26.636160500-->Attempting to cancel booking: Booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:15:19.831001400
+2025-05-04T23:15:26.637160400-->Retrieving booking by ID: Booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:15:19.831001400
+2025-05-04T23:15:26.640806600-->Booking not found: Booking ID: 4aaa6d56-2e5c-4f15-97fc-f254d7a348b3 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:15:19.831001400
+2025-05-04T23:15:26.640806600-->Booking ID not found.
+2025-05-04T23:15:34.073429800-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:15:37.611129-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:15:39.883467200-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:03.830714300-->Initializing BookingDao...
+2025-05-04T23:17:03.840486700-->Loading bookings from file...
+2025-05-04T23:17:03.841961900-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:17:03.843420800-->Loaded 0 bookings.
+2025-05-04T23:17:03.844857500-->Initializing FlightDAO
+2025-05-04T23:17:03.844857500-->Loading flights from existing file
+2025-05-04T23:17:03.844857500-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:17:03.860760200-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:17:03.862183200-->FlightDAO initialized with 198 flights
+2025-05-04T23:17:03.862183200-->FlightService initialized with FlightDAO
+2025-05-04T23:17:03.863634800-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:17:03.864925300-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:17:03.864925300-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:17:03.864925300-->Adding new flight: TestFID
+2025-05-04T23:17:03.864925300-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:03.868430-->Successfully saved 199 flights to file
+2025-05-04T23:17:03.869674800-->Handling new booking request for flight: TestFID
+2025-05-04T23:17:03.870683-->Attempting to create booking for flight TestFID
+2025-05-04T23:17:03.879051100-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:17:03.880056500-->Looking up flight by ID: TestFID
+2025-05-04T23:17:03.881060800-->Available seats check result: OK (90 available)
+2025-05-04T23:17:03.915525900-->Generated booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859
+2025-05-04T23:17:03.917011-->Creating Booking: 01b85633-e8e4-405a-b8a7-5e7a8dc31859, Flight: TestFID
+2025-05-04T23:17:03.917011-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:17:03.917011-->Looking up flight by ID: TestFID
+2025-05-04T23:17:03.917011-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:03.918419700-->Successfully saved 199 flights to file
+2025-05-04T23:17:03.919691800-->Seat update successful. New availability: 93/100
+2025-05-04T23:17:03.920697100-->Adding booking: 01b85633-e8e4-405a-b8a7-5e7a8dc31859
+2025-05-04T23:17:03.920697100-->Saving bookings to file...
+2025-05-04T23:17:03.924435700-->Bookings saved successfully.
+2025-05-04T23:17:03.924435700-->Booking created and saved: Booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:03.917011
+2025-05-04T23:17:03.924435700-->Booking successful! Booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:03.917011
+2025-05-04T23:17:03.926537400-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:03.926537400-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:03.927923200-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:03.927923200-->Handling cancellation for booking ID: Booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:03.917011
+2025-05-04T23:17:03.927923200-->Attempting to cancel booking: Booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:03.917011
+2025-05-04T23:17:03.927923200-->Retrieving booking by ID: Booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:03.917011
+2025-05-04T23:17:03.929093100-->Booking not found: Booking ID: 01b85633-e8e4-405a-b8a7-5e7a8dc31859 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:03.917011
+2025-05-04T23:17:03.929093100-->Booking ID not found.
+2025-05-04T23:17:03.929093100-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:03.929093100-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:03.929093100-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:22.125550900-->Initializing BookingDao...
+2025-05-04T23:17:22.134635600-->Loading bookings from file...
+2025-05-04T23:17:22.135633-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:17:22.137643-->Loaded 0 bookings.
+2025-05-04T23:17:22.139130800-->Initializing FlightDAO
+2025-05-04T23:17:22.139130800-->Loading flights from existing file
+2025-05-04T23:17:22.139130800-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:17:22.150048100-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:17:22.150048100-->FlightDAO initialized with 198 flights
+2025-05-04T23:17:22.151537200-->FlightService initialized with FlightDAO
+2025-05-04T23:17:22.152576300-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:17:22.152576300-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:17:22.153825900-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:17:22.158307200-->Adding new flight: TestFID
+2025-05-04T23:17:22.158307200-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:22.162322-->Successfully saved 199 flights to file
+2025-05-04T23:17:22.163772400-->Handling new booking request for flight: TestFID
+2025-05-04T23:17:22.163772400-->Attempting to create booking for flight TestFID
+2025-05-04T23:17:22.173484100-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:17:22.174492700-->Looking up flight by ID: TestFID
+2025-05-04T23:17:22.174492700-->Available seats check result: OK (90 available)
+2025-05-04T23:17:22.211077100-->Generated booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe
+2025-05-04T23:17:22.211077100-->Creating Booking: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe, Flight: TestFID
+2025-05-04T23:17:22.212083100-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:17:22.212083100-->Looking up flight by ID: TestFID
+2025-05-04T23:17:22.212083100-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:22.213451-->Successfully saved 199 flights to file
+2025-05-04T23:17:22.214459500-->Seat update successful. New availability: 93/100
+2025-05-04T23:17:22.214459500-->Adding booking: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe
+2025-05-04T23:17:22.214459500-->Saving bookings to file...
+2025-05-04T23:17:22.218402100-->Bookings saved successfully.
+2025-05-04T23:17:22.218402100-->Booking created and saved: Booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:22.211077100
+2025-05-04T23:17:22.218402100-->Booking successful! Booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:22.211077100
+2025-05-04T23:17:22.220819200-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:22.220819200-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:22.220819200-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:22.222178800-->Handling cancellation for booking ID: Booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:22.211077100
+2025-05-04T23:17:22.222178800-->Attempting to cancel booking: Booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:22.211077100
+2025-05-04T23:17:22.222178800-->Retrieving booking by ID: Booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:22.211077100
+2025-05-04T23:17:22.223188500-->Booking not found: Booking ID: 8afb68b8-6165-4a0b-a530-c7c2a4e28dfe | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:22.211077100
+2025-05-04T23:17:22.223188500-->Booking ID not found.
+2025-05-04T23:17:22.224192300-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:22.224192300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:22.224192300-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:25.312909700-->Initializing BookingDao...
+2025-05-04T23:17:25.321773-->Loading bookings from file...
+2025-05-04T23:17:25.321773-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:17:25.324972-->Loaded 0 bookings.
+2025-05-04T23:17:25.324972-->Initializing FlightDAO
+2025-05-04T23:17:25.325971600-->Loading flights from existing file
+2025-05-04T23:17:25.325971600-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:17:25.340469600-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:17:25.341475100-->FlightDAO initialized with 198 flights
+2025-05-04T23:17:25.341475100-->FlightService initialized with FlightDAO
+2025-05-04T23:17:25.342923700-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:17:25.342923700-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:17:25.342923700-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:17:25.342923700-->Adding new flight: TestFID
+2025-05-04T23:17:25.342923700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:25.345545800-->Successfully saved 199 flights to file
+2025-05-04T23:17:25.347399400-->Handling new booking request for flight: TestFID
+2025-05-04T23:17:25.348999300-->Attempting to create booking for flight TestFID
+2025-05-04T23:17:25.356852100-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:17:25.357856900-->Looking up flight by ID: TestFID
+2025-05-04T23:17:25.357856900-->Available seats check result: OK (90 available)
+2025-05-04T23:17:25.393139-->Generated booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0
+2025-05-04T23:17:25.394138300-->Creating Booking: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0, Flight: TestFID
+2025-05-04T23:17:25.394138300-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:17:25.394138300-->Looking up flight by ID: TestFID
+2025-05-04T23:17:25.394138300-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:25.396603400-->Successfully saved 199 flights to file
+2025-05-04T23:17:25.396603400-->Seat update successful. New availability: 93/100
+2025-05-04T23:17:25.397607800-->Adding booking: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0
+2025-05-04T23:17:25.397607800-->Saving bookings to file...
+2025-05-04T23:17:25.400746500-->Bookings saved successfully.
+2025-05-04T23:17:25.401740-->Booking created and saved: Booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:25.394138300
+2025-05-04T23:17:25.401740-->Booking successful! Booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:25.394138300
+2025-05-04T23:17:25.403934600-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:25.403934600-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:25.403934600-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:25.404943800-->Handling cancellation for booking ID: Booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:25.394138300
+2025-05-04T23:17:25.404943800-->Attempting to cancel booking: Booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:25.394138300
+2025-05-04T23:17:25.404943800-->Retrieving booking by ID: Booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:25.394138300
+2025-05-04T23:17:25.406289400-->Booking not found: Booking ID: 31aa77f2-3c59-4ae3-b0f3-37536d3587d0 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:25.394138300
+2025-05-04T23:17:25.406289400-->Booking ID not found.
+2025-05-04T23:17:25.406289400-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:25.407294500-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:25.407294500-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:33.068186300-->Initializing BookingDao...
+2025-05-04T23:17:33.075257400-->Loading bookings from file...
+2025-05-04T23:17:33.076627600-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:17:33.079092-->Loaded 0 bookings.
+2025-05-04T23:17:33.080226600-->Initializing FlightDAO
+2025-05-04T23:17:33.080226600-->Loading flights from existing file
+2025-05-04T23:17:33.080226600-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:17:33.094298500-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:17:33.096299800-->FlightDAO initialized with 198 flights
+2025-05-04T23:17:33.096299800-->FlightService initialized with FlightDAO
+2025-05-04T23:17:33.097299300-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:17:33.097299300-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:17:33.098621300-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:17:33.098621300-->Adding new flight: TestFID
+2025-05-04T23:17:33.098621300-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:33.102310600-->Successfully saved 199 flights to file
+2025-05-04T23:17:33.103780100-->Handling new booking request for flight: TestFID
+2025-05-04T23:17:33.103780100-->Attempting to create booking for flight TestFID
+2025-05-04T23:17:33.114298800-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:17:33.114298800-->Looking up flight by ID: TestFID
+2025-05-04T23:17:33.115310300-->Available seats check result: OK (90 available)
+2025-05-04T23:17:33.150268700-->Generated booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b
+2025-05-04T23:17:33.150268700-->Creating Booking: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b, Flight: TestFID
+2025-05-04T23:17:33.151274400-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:17:33.151274400-->Looking up flight by ID: TestFID
+2025-05-04T23:17:33.151274400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:17:33.153348-->Successfully saved 199 flights to file
+2025-05-04T23:17:33.153348-->Seat update successful. New availability: 93/100
+2025-05-04T23:17:33.153348-->Adding booking: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b
+2025-05-04T23:17:33.153348-->Saving bookings to file...
+2025-05-04T23:17:33.156622200-->Bookings saved successfully.
+2025-05-04T23:17:33.157632500-->Booking created and saved: Booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:33.150268700
+2025-05-04T23:17:33.157632500-->Booking successful! Booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:33.150268700
+2025-05-04T23:17:33.159769900-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:17:33.160770500-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:33.160770500-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:17:44.105370800-->Handling cancellation for booking ID: Booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:33.150268700
+2025-05-04T23:17:51.434953900-->Attempting to cancel booking: Booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:33.150268700
+2025-05-04T23:17:52.601861900-->Retrieving booking by ID: Booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:33.150268700
+2025-05-04T23:18:13.184589400-->Booking not found: Booking ID: ceb4b9b3-84cf-43e0-b9c0-fe2be29cd65b | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:17:33.150268700
+2025-05-04T23:18:13.185590800-->Booking ID not found.
+2025-05-04T23:18:13.187262900-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:18:13.187262900-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:18:13.188735-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:18:21.714627300-->Initializing BookingDao...
+2025-05-04T23:18:21.724352100-->Loading bookings from file...
+2025-05-04T23:18:21.725744400-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:18:21.726749300-->Loaded 0 bookings.
+2025-05-04T23:18:21.728295100-->Initializing FlightDAO
+2025-05-04T23:18:21.728295100-->Loading flights from existing file
+2025-05-04T23:18:21.728295100-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:18:21.742924200-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:18:21.743934600-->FlightDAO initialized with 198 flights
+2025-05-04T23:18:21.744438900-->FlightService initialized with FlightDAO
+2025-05-04T23:18:21.748592200-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:18:21.749594600-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:18:21.749594600-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:18:21.750678600-->Adding new flight: TestFID
+2025-05-04T23:18:21.750678600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:18:21.753686400-->Successfully saved 199 flights to file
+2025-05-04T23:18:21.755037400-->Handling new booking request for flight: TestFID
+2025-05-04T23:18:21.755037400-->Attempting to create booking for flight TestFID
+2025-05-04T23:18:21.764525700-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:18:21.764525700-->Looking up flight by ID: TestFID
+2025-05-04T23:18:21.765526100-->Available seats check result: OK (90 available)
+2025-05-04T23:18:21.800709300-->Generated booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439
+2025-05-04T23:18:21.800709300-->Creating Booking: dcad7de4-1692-44ed-8f28-d3733ac76439, Flight: TestFID
+2025-05-04T23:18:21.801709100-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:18:21.801709100-->Looking up flight by ID: TestFID
+2025-05-04T23:18:21.801709100-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:18:21.803706800-->Successfully saved 199 flights to file
+2025-05-04T23:18:21.803706800-->Seat update successful. New availability: 93/100
+2025-05-04T23:18:21.804708500-->Adding booking: dcad7de4-1692-44ed-8f28-d3733ac76439
+2025-05-04T23:18:21.804708500-->Saving bookings to file...
+2025-05-04T23:18:21.807829400-->Bookings saved successfully.
+2025-05-04T23:18:21.808868100-->Booking created and saved: Booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:18:21.800709300
+2025-05-04T23:18:21.808868100-->Booking successful! Booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:18:21.800709300
+2025-05-04T23:18:21.810873500-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:18:21.811873100-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:18:21.811873100-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:18:21.812876300-->Handling cancellation for booking ID: Booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:18:21.800709300
+2025-05-04T23:18:21.812876300-->Attempting to cancel booking: Booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:18:21.800709300
+2025-05-04T23:18:31.996166100-->Retrieving booking by ID: Booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:18:21.800709300
+2025-05-04T23:19:17.012282200-->Booking not found: Booking ID: dcad7de4-1692-44ed-8f28-d3733ac76439 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:18:21.800709300
+2025-05-04T23:19:17.013379200-->Booking ID not found.
+2025-05-04T23:19:17.014387-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:19:17.014387-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:19:17.014387-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:19:58.918970800-->Initializing BookingDao...
+2025-05-04T23:19:58.927725600-->Loading bookings from file...
+2025-05-04T23:19:58.928859600-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:19:58.930865800-->Loaded 0 bookings.
+2025-05-04T23:19:58.931913200-->Initializing FlightDAO
+2025-05-04T23:19:58.932942700-->Loading flights from existing file
+2025-05-04T23:19:58.932942700-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:19:58.946186600-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:19:58.949118500-->FlightDAO initialized with 198 flights
+2025-05-04T23:19:58.949118500-->FlightService initialized with FlightDAO
+2025-05-04T23:19:58.953120600-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:19:58.953120600-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:19:58.953120600-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:19:58.953120600-->Adding new flight: TestFID
+2025-05-04T23:19:58.954365200-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:19:58.957400200-->Successfully saved 199 flights to file
+2025-05-04T23:19:58.958979500-->Handling new booking request for flight: TestFID
+2025-05-04T23:19:58.958979500-->Attempting to create booking for flight TestFID
+2025-05-04T23:19:58.968135700-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:19:58.968135700-->Looking up flight by ID: TestFID
+2025-05-04T23:19:58.969137400-->Available seats check result: OK (90 available)
+2025-05-04T23:19:59.005351900-->Generated booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f
+2025-05-04T23:19:59.005351900-->Creating Booking: 6ac921ed-12c4-4ca0-88cd-205818f7627f, Flight: TestFID
+2025-05-04T23:19:59.006347600-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:19:59.006347600-->Looking up flight by ID: TestFID
+2025-05-04T23:19:59.006347600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:19:59.008461100-->Successfully saved 199 flights to file
+2025-05-04T23:19:59.008461100-->Seat update successful. New availability: 93/100
+2025-05-04T23:19:59.008461100-->Adding booking: 6ac921ed-12c4-4ca0-88cd-205818f7627f
+2025-05-04T23:19:59.008461100-->Saving bookings to file...
+2025-05-04T23:19:59.012279600-->Bookings saved successfully.
+2025-05-04T23:19:59.013314700-->Booking created and saved: Booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:19:59.005351900
+2025-05-04T23:19:59.013314700-->Booking successful! Booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:19:59.005351900
+2025-05-04T23:19:59.015531200-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:19:59.015531200-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:19:59.015531200-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:19:59.016536900-->Handling cancellation for booking ID: Booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:19:59.005351900
+2025-05-04T23:19:59.016536900-->Attempting to cancel booking: Booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:19:59.005351900
+2025-05-04T23:20:07.961830-->Retrieving booking by ID: Booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:19:59.005351900
+2025-05-04T23:20:41.738222-->Booking not found: Booking ID: 6ac921ed-12c4-4ca0-88cd-205818f7627f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:19:59.005351900
+2025-05-04T23:20:41.739223400-->Booking ID not found.
+2025-05-04T23:20:41.739223400-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:20:41.740223300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:20:41.740223300-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:22:35.159217400-->Initializing BookingDao...
+2025-05-04T23:22:35.171755400-->Loading bookings from file...
+2025-05-04T23:22:35.172961-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:22:35.174970800-->Loaded 0 bookings.
+2025-05-04T23:22:35.175983600-->Initializing FlightDAO
+2025-05-04T23:22:35.176998300-->Loading flights from existing file
+2025-05-04T23:22:35.176998300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:22:35.192054-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:22:35.193555500-->FlightDAO initialized with 198 flights
+2025-05-04T23:22:35.193555500-->FlightService initialized with FlightDAO
+2025-05-04T23:22:35.195065900-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:22:35.196541200-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:22:35.200829500-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:22:35.200829500-->Adding new flight: TestFID
+2025-05-04T23:22:35.202316200-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:22:35.205830500-->Successfully saved 199 flights to file
+2025-05-04T23:22:35.206834800-->Handling new booking request for flight: TestFID
+2025-05-04T23:22:35.206834800-->Attempting to create booking for flight TestFID
+2025-05-04T23:22:35.217223600-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:22:35.217223600-->Looking up flight by ID: TestFID
+2025-05-04T23:22:35.218375900-->Available seats check result: OK (90 available)
+2025-05-04T23:22:35.254453300-->Generated booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51
+2025-05-04T23:22:35.255455-->Creating Booking: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51, Flight: TestFID
+2025-05-04T23:22:35.256621300-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:22:35.256621300-->Looking up flight by ID: TestFID
+2025-05-04T23:22:35.256621300-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:22:35.259056200-->Successfully saved 199 flights to file
+2025-05-04T23:22:35.259159600-->Seat update successful. New availability: 93/100
+2025-05-04T23:22:35.259159600-->Adding booking: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51
+2025-05-04T23:22:35.259159600-->Saving bookings to file...
+2025-05-04T23:22:35.263704600-->Bookings saved successfully.
+2025-05-04T23:22:35.263704600-->Booking created and saved: Booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:22:35.255455
+2025-05-04T23:22:35.263704600-->Booking successful! Booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:22:35.255455
+2025-05-04T23:22:35.266135700-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:22:35.266135700-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:22:35.266135700-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:22:35.267456500-->Handling cancellation for booking ID: Booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:22:35.255455
+2025-05-04T23:22:35.267456500-->Attempting to cancel booking: Booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:22:35.255455
+2025-05-04T23:22:35.268513700-->Retrieving booking by ID: Booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:22:35.255455
+2025-05-04T23:22:59.481537800-->Booking not found: Booking ID: 02d8e78e-cfd6-45bc-a0bf-9ddf59737c51 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:22:35.255455
+2025-05-04T23:22:59.482730300-->Booking ID not found.
+2025-05-04T23:22:59.482730300-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:22:59.482730300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:22:59.483736900-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:30.595549600-->Initializing BookingDao...
+2025-05-04T23:23:30.596565700-->Loading bookings from file...
+2025-05-04T23:23:30.597563900-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:23:30.597563900-->Loaded 0 bookings.
+2025-05-04T23:23:30.597563900-->Initializing FlightDAO
+2025-05-04T23:23:30.598858700-->Loading flights from existing file
+2025-05-04T23:23:30.598858700-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:23:30.610722300-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:23:30.610722300-->FlightDAO initialized with 198 flights
+2025-05-04T23:23:30.611898200-->FlightService initialized with FlightDAO
+2025-05-04T23:23:30.611898200-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:23:30.611898200-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:23:30.613303-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:23:30.613303-->Adding new flight: TestFID
+2025-05-04T23:23:30.613303-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:23:30.616776700-->Successfully saved 199 flights to file
+2025-05-04T23:23:30.619002300-->Handling new booking request for flight: TestFID
+2025-05-04T23:23:30.619002300-->Attempting to create booking for flight TestFID
+2025-05-04T23:23:30.620003600-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:23:30.620003600-->Looking up flight by ID: TestFID
+2025-05-04T23:23:30.620003600-->Available seats check result: OK (90 available)
+2025-05-04T23:23:30.622390300-->Generated booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4
+2025-05-04T23:23:30.622390300-->Creating Booking: db7f3f5b-d87e-4096-9e34-668f0c5a60f4, Flight: TestFID
+2025-05-04T23:23:30.622390300-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:23:30.623389700-->Looking up flight by ID: TestFID
+2025-05-04T23:23:30.623389700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:23:30.625531100-->Successfully saved 199 flights to file
+2025-05-04T23:23:30.626539200-->Seat update successful. New availability: 93/100
+2025-05-04T23:23:30.626539200-->Adding booking: db7f3f5b-d87e-4096-9e34-668f0c5a60f4
+2025-05-04T23:23:30.626539200-->Saving bookings to file...
+2025-05-04T23:23:30.629718900-->Bookings saved successfully.
+2025-05-04T23:23:30.630964400-->Booking created and saved: Booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:30.622390300
+2025-05-04T23:23:30.630964400-->Booking successful! Booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:30.622390300
+2025-05-04T23:23:30.633795500-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:23:30.634809900-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:30.634809900-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:30.635800-->Handling cancellation for booking ID: Booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:30.622390300
+2025-05-04T23:23:30.635800-->Attempting to cancel booking: Booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:30.622390300
+2025-05-04T23:23:30.636802100-->Retrieving booking by ID: Booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:30.622390300
+2025-05-04T23:23:30.636802100-->Booking not found: Booking ID: db7f3f5b-d87e-4096-9e34-668f0c5a60f4 | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:30.622390300
+2025-05-04T23:23:30.636802100-->Booking ID not found.
+2025-05-04T23:23:30.637802900-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:23:30.637802900-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:30.637802900-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:48.017145700-->Initializing BookingDao...
+2025-05-04T23:23:48.018538800-->Loading bookings from file...
+2025-05-04T23:23:48.018538800-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:23:48.019838300-->Loaded 0 bookings.
+2025-05-04T23:23:48.019838300-->Initializing FlightDAO
+2025-05-04T23:23:48.019838300-->Loading flights from existing file
+2025-05-04T23:23:48.021166300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:23:48.030802800-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:23:48.030802800-->FlightDAO initialized with 198 flights
+2025-05-04T23:23:48.031960400-->FlightService initialized with FlightDAO
+2025-05-04T23:23:48.031960400-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:23:48.031960400-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:23:48.033299400-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:23:48.033299400-->Adding new flight: TestFID
+2025-05-04T23:23:48.033299400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:23:48.037170500-->Successfully saved 199 flights to file
+2025-05-04T23:23:48.038179400-->Handling new booking request for flight: TestFID
+2025-05-04T23:23:48.039627300-->Attempting to create booking for flight TestFID
+2025-05-04T23:23:48.039627300-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:23:48.039627300-->Looking up flight by ID: TestFID
+2025-05-04T23:23:48.040636400-->Available seats check result: OK (90 available)
+2025-05-04T23:23:48.041635600-->Generated booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd
+2025-05-04T23:23:48.041635600-->Creating Booking: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd, Flight: TestFID
+2025-05-04T23:23:48.041635600-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:23:48.042635500-->Looking up flight by ID: TestFID
+2025-05-04T23:23:48.042635500-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:23:48.044032400-->Successfully saved 199 flights to file
+2025-05-04T23:23:48.045213600-->Seat update successful. New availability: 93/100
+2025-05-04T23:23:48.045213600-->Adding booking: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd
+2025-05-04T23:23:48.045213600-->Saving bookings to file...
+2025-05-04T23:23:48.048590500-->Bookings saved successfully.
+2025-05-04T23:23:48.049591200-->Booking created and saved: Booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:48.041635600
+2025-05-04T23:23:48.049591200-->Booking successful! Booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:48.041635600
+2025-05-04T23:23:48.052068900-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:23:48.052068900-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:48.052068900-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:48.053076200-->Handling cancellation for booking ID: Booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:48.041635600
+2025-05-04T23:23:48.053076200-->Attempting to cancel booking: Booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:48.041635600
+2025-05-04T23:23:48.054505600-->Retrieving booking by ID: Booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:48.041635600
+2025-05-04T23:23:48.054505600-->Booking not found: Booking ID: 25b014eb-1f9d-4331-baa8-a86c5a98d2dd | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:23:48.041635600
+2025-05-04T23:23:48.054505600-->Booking ID not found.
+2025-05-04T23:23:48.055859-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:23:48.055859-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:23:48.055859-->Retrieving bookings for passenger: Test1name Test1surname

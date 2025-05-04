@@ -8,6 +8,7 @@ import service.*;
 import entity.Booking;
 import entity.Passenger;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class BookingController {
@@ -37,13 +38,33 @@ public class BookingController {
         }
     }
 
-    public void showBookingsByPassenger(String fullName) {
+    public String showBookingsByPassenger(String fullName) {
         Logger.DebugLog("Showing bookings for passenger: " + fullName);
         List<Booking> bookings = bookingService.getBookingsByPassengerName(fullName);
         if (bookings.isEmpty()) {
             Logger.DebugLog("No bookings found for: " + fullName);
+            return "No bookings found for: " + fullName;
         } else {
-            bookings.forEach(b -> Logger.DebugLog(b.toString()));
+            String result = "";
+            for (Booking booking : bookings) {
+                result += booking.toString() + "\n";
+            }
+            return result;
         }
     }
+
+    public List<String> showBookingIdbyPassenger(String fullName) { // for test unit
+        Logger.DebugLog("Showing booking ID for passenger: " + fullName);
+        List<Booking> bookings = bookingService.getBookingsByPassengerName(fullName);
+        if (bookings.isEmpty()) {
+            Logger.DebugLog("No bookings found for: " + fullName);
+            return new ArrayList<>();
+        }
+        List<String> result = new ArrayList<>();
+        for (Booking booking : bookings) {
+            result.add(booking.toString());
+        }
+        return result;
+    }
+
 }

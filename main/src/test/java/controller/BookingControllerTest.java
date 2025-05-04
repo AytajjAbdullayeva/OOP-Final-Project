@@ -1,6 +1,7 @@
 package controller;
 
 import controller.*;
+import org.junit.jupiter.api.Test;
 import service.*;
 import DAO.*;
 import entity.Booking;
@@ -11,6 +12,10 @@ import org.junit.jupiter.api.BeforeEach;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 public class BookingControllerTest {
     private BookingController bookingController;
@@ -29,6 +34,7 @@ public class BookingControllerTest {
 
         flightService = new FlightService(flightDao);
         bookingService = new BookingService(bookingDao,flightService);
+        bookingController = new BookingController(bookingService);
 
         LocalDateTime startTime = LocalDateTime.of(2021,1,1,1,1);
         Flight ex_flight = new Flight("TestFID","TestDestination",startTime,100,90);
@@ -45,9 +51,14 @@ public class BookingControllerTest {
         bookingController.handleBooking(ex_flight.getId(), passengers);
     }
 
-    @AfterEach
-    public void tearDown() {
-        //TODO Continue
-        //bookingController.handleCancellation();
+    @Test
+    public void TesthandleCancellation() {
+        List<String> ids = bookingController.showBookingIdbyPassenger("Test1name Test1surname");
+        String temp1 = ids.get(0);
+        bookingController.handleCancellation(ids.get(0));
+
+        ids.clear();
+        ids=bookingController.showBookingIdbyPassenger("Test1name Test1surname");
+        assertEquals(ids.size(),1);
     }
 }

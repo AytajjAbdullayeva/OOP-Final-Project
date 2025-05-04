@@ -24,6 +24,14 @@ public class ConsoleApp {
         this.bookingController = bookingController;
     }
 
+    private void printAccountMenu() {
+        System.out.println("\n==== Plane Ticket Booking System ====");
+        System.out.println("1. LogIn");
+        System.out.println("2. SignUp");
+        System.out.println("3. Exit");
+        System.out.print("Choose an option: ");
+    }
+
     public void run() {
         while (true) {
             printAccountMenu();
@@ -40,6 +48,7 @@ public class ConsoleApp {
                         System.out.println("Welcome " + username);
                         displayAppMenu(username);
                     }
+                    else System.out.println("Invalid username or password");
                     break;
                 case 2:
                     System.out.println("Enter your name:");
@@ -54,20 +63,14 @@ public class ConsoleApp {
                     username = scanner.next();
                     System.out.println("Enter your password: ");
                     password = scanner.next();
-                    UserController.SignUp(name,surname,age,gender,username,password); // if false username already used
+                    if(UserController.SignUp(name,surname,age,gender,username,password)) System.out.println("Account successfully created!");
+                    else System.out.println("Username already used");// if false username already used
                     break;
                 case 3:
+                    System.out.println("Exiting...");
                     return;
             }
         }
-    }
-
-    private void printAccountMenu() {
-        System.out.println("\n==== Plane Ticket Booking System ====");
-        System.out.println("1. LogIn");
-        System.out.println("2. SignUp");
-        System.out.println("3. Exit");
-        System.out.print("Choose an option: ");
     }
 
     private void displayAppMenu(String username) {
@@ -93,6 +96,7 @@ public class ConsoleApp {
                         break;
                     case 6:
                         AccountSettings(username);
+                        if(UserController.GetUserDetails(username) == null) { return;}
                         break;
                     case 7:
                         Logger.DebugLog("Logging out...");
@@ -119,6 +123,20 @@ public class ConsoleApp {
         System.out.print("Choose an option: ");
     }
 
+
+
+
+    private void printAccountSettings()
+    {
+        System.out.println("\n==== Account Settings ====");
+        System.out.println("1. Change User details");
+        System.out.println("2. Change Password");
+        System.out.println("3. Change Username");
+        System.out.println("4. Delete Account");
+        System.out.println("5. Exit");
+        System.out.print("Choose an option: ");
+    }
+
     private void AccountSettings(String username) {
         while (true) {
             printAccountSettings();
@@ -133,19 +151,22 @@ public class ConsoleApp {
                     int age = Integer.parseInt(scanner.next());
                     System.out.println("Enter your gender(1 for Male, 0 for Female): ");
                     boolean gender = (Integer.parseInt(scanner.next()) == 0 ? false : true);
-                    UserController.ChangeUserDetails(name,surname,age,gender,username);
+                    if(UserController.ChangeUserDetails(name,surname,age,gender,username)) System.out.println("Account successfully changed!");
+                    else System.out.println("Details could not be changed!");
                     break;
                 case 2:
                     System.out.println("Enter your old password:");
                     String oldPassword = scanner.next();
                     System.out.println("Enter your new password:");
                     String newPassword = scanner.next();
-                    UserController.ChangePassword(username,oldPassword,newPassword);
+                    if(UserController.ChangePassword(username,oldPassword,newPassword)) System.out.println("Password successfully changed!");
+                    else System.out.println("Password could not be changed!");
                     break;
                 case 3:
                     System.out.println("Enter your new username:");
                     String newUsername = scanner.next();
-                    UserController.ChangeUserName(username,newUsername);
+                    if(UserController.ChangeUserName(username,newUsername)) System.out.println("Username successfully changed!");
+                    else System.out.println("Username could not be changed!");
                     break;
                 case 4:
                     System.out.println("Enter your password to confirm:");
@@ -154,22 +175,11 @@ public class ConsoleApp {
                     {
                         UserController.Logout(username);
                     }
-                    break;
+                    return;
                 case 5:
                     return;
             }
         }
-    }
-
-    private void printAccountSettings()
-    {
-        System.out.println("\n==== Account Settings ====");
-        System.out.println("1. Change User details");
-        System.out.println("2. Change Password");
-        System.out.println("3. Change Username");
-        System.out.println("4. Delete Account");
-        System.out.println("5. Exit");
-        System.out.print("Choose an option: ");
     }
 
     private void displayOnlineBoard() {
@@ -185,6 +195,7 @@ public class ConsoleApp {
             System.out.println(flight);
         } catch (Exception e) {
             Logger.DebugLog("Flight not found.");
+            System.out.println("Flight not found.");
         }
     }
 
@@ -225,6 +236,7 @@ public class ConsoleApp {
             bookingController.handleBooking(selectedFlight.getId(), passengers);
         } catch (Exception e) {
             Logger.DebugLog("Invalid input or error occurred: " + e.getMessage());
+            System.out.println("Invalid input or error occurred: ");
         }
     }
 
@@ -237,6 +249,6 @@ public class ConsoleApp {
     private void handleMyFlights() {
         System.out.print("Enter your full name: ");
         String fullName = scanner.nextLine();
-        bookingController.showBookingsByPassenger(fullName);
+        System.out.println(bookingController.showBookingsByPassenger(fullName));
     }
 }
