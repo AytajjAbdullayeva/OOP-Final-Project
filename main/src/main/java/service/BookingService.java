@@ -2,9 +2,9 @@
 //import model.Booking;
 //import model.Passenger;
 //import util.Logger;
-package Service;
+package service;
 import DAO.BookingDao;
-import Logging.Logger;
+import logging.Logger;
 import entity.Booking;
 import entity.Passenger;
 
