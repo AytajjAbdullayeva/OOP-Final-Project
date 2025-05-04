@@ -69,7 +69,7 @@ OOP-Final-Project/
 
 
 
-## 🚀 *Getting Started
+## 🚀 *Getting Started*
 
 1. Clone the repository:
    ```bash
