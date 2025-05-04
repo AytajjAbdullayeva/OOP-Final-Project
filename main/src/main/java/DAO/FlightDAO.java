@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import  java.time.format.DateTimeFormatter;
 
-import Logging.Logger;
+import logging.Logger;
 import entity.Flight;
 import exception.InvalidFlightDataException;
 
