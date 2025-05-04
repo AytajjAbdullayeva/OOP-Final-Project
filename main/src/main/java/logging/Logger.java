@@ -1,4 +1,4 @@
-package Logging;
+package logging;
 
 import java.nio.file.*;
 import java.io.IOException;
