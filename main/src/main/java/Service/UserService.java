@@ -1,6 +1,14 @@
+package Service;
+
+import DAO.HoneyIndexDAO;
+import DAO.UserDAO;
+import Logging.Logger;
+import entity.User;
+
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
+
 
 public class UserService {
 
@@ -12,7 +20,7 @@ public class UserService {
         }
         Logger.DebugLog(String.format("User %s found", username));
 
-        int index=HoneyIndexDAO.getpassIndex(user.getUID());
+        int index= HoneyIndexDAO.getpassIndex(user.getUID());
         if(Arrays.equals(user.getHashPassw()[index],passhash))
         {
             Logger.DebugLog(String.format("User %s's hash matched", username));

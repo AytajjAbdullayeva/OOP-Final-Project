@@ -1,3 +1,5 @@
+package Logging;
+
 import java.nio.file.*;
 import java.io.IOException;
 import java.time.LocalDateTime;

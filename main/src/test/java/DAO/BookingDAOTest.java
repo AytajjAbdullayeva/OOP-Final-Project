@@ -1,3 +1,8 @@
+package DAO;
+
+import entity.Booking;
+import entity.Flight;
+import entity.Passenger;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

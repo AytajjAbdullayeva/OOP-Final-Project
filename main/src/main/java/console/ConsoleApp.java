@@ -1,4 +1,12 @@
+package console;
+
 import Controller.BookingController;
+import Controller.FlightController;
+import Controller.UserController;
+import Logging.Logger;
+import entity.Flight;
+import entity.Passenger;
+import exception.InvalidMenuOptionException;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

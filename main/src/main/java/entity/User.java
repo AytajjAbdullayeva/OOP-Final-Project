@@ -1,3 +1,9 @@
+package entity;
+
+import DAO.HoneyIndexDAO;
+import DAO.UserDAO;
+import Logging.Logger;
+
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Random;
@@ -33,7 +39,7 @@ public class User {
     public byte[][] getHashPassw() {return hashPassw;}
     public void setHashPassw(byte[][] hashPassw) {this.hashPassw = hashPassw;}
 
-    User(String name, String surname, int age, boolean gender, String username, String password) {
+    public User(String name, String surname, int age, boolean gender, String username, String password) {
         this.name = name;
         this.surname = surname;
         this.age = age;

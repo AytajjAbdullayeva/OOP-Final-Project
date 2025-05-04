@@ -1,3 +1,7 @@
+package entity;
+
+import Logging.Logger;
+
 import java.io.Serializable;
 //import util.Logger;
 

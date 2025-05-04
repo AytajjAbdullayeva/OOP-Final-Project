@@ -1,9 +1,12 @@
 //import model.Booking;
 //import util.Logger;
-
+package DAO;
 import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
+import entity.Booking;
+import Logging.Logger;
+
 
 public class BookingDao {
     private List<Booking> bookings = new ArrayList<>();

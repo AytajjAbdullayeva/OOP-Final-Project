@@ -164,3 +164,15 @@
 2025-05-01T19:46:34.517141-->Session created
 2025-05-01T19:46:34.517141-->User with Username alice found
 2025-05-01T19:46:34.518635500-->UserDAO: User with UID 3 successfully removed
+2025-05-04T16:48:44.984281100-->Initializing FlightDAO
+2025-05-04T16:48:44.994258800-->Flight data file not found or empty, generating sample flights
+2025-05-04T16:48:44.994258800-->Generating sample flights for next 30 days
+2025-05-04T16:48:44.999455600-->Saving flights to file: src/flights.txt
+2025-05-04T16:48:45.000802900-->Error writing flight data: src\flights.txt (The system cannot find the path specified)
+2025-05-04T16:48:45.001850200-->Generated 200 sample flights
+2025-05-04T16:48:45.001850200-->FlightDAO initialized with 200 flights
+2025-05-04T16:48:45.002858500-->FlightService initialized with FlightDAO
+2025-05-04T16:48:45.004195500-->FlightController initialized with FlightService
+2025-05-04T16:48:45.005305500-->Initializing BookingDao...
+2025-05-04T16:48:45.005305500-->Loading bookings from file...
+2025-05-04T16:48:45.006593100-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)

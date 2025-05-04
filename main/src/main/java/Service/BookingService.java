@@ -2,6 +2,11 @@
 //import model.Booking;
 //import model.Passenger;
 //import util.Logger;
+package Service;
+import DAO.BookingDao;
+import Logging.Logger;
+import entity.Booking;
+import entity.Passenger;
 
 import java.time.LocalDateTime;
 import java.util.List;

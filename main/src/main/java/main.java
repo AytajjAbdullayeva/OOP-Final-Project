@@ -1,3 +1,11 @@
+import Controller.BookingController;
+import Controller.FlightController;
+import DAO.BookingDao;
+import DAO.FlightDAO;
+import Service.BookingService;
+import Service.FlightService;
+import console.ConsoleApp;
+
 public class main {
     public static void main(String[] args) {
         // Initialize the controllers (you may need to adjust these constructors based on your implementation)

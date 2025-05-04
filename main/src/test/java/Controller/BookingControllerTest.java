@@ -1,3 +1,11 @@
+package Controller;
+
+import Controller.*;
+import Service.*;
+import DAO.*;
+import entity.Booking;
+import entity.Flight;
+import entity.Passenger;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 

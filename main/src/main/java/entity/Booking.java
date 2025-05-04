@@ -1,3 +1,7 @@
+package entity;
+
+import Logging.Logger;
+
 import java.io.Serializable;
 import java.time.LocalDateTime;
 import java.util.List;
