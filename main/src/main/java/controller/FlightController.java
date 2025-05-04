@@ -1,7 +1,7 @@
-package Controller;
+package controller;
 
-import Logging.Logger;
-import Service.FlightService;
+import logging.Logger;
+import service.FlightService;
 import entity.Flight;
 import exception.FlightNotFoundException;
 
