@@ -3,7 +3,7 @@
 This is a Java console application for booking and managing plane tickets. Users can search for flights, book tickets, cancel bookings, and view their flight information. The application follows a three-layer architecture (Controller-Service-DAO) and stores data in files for persistence.
 
 
-   ##*Key Features*
+   ##  📌 *Key Features*
 
    
 •	Online Flight Board – View all flights departing from Kyiv in the next 24 hours.
@@ -23,7 +23,7 @@ This is a Java console application for booking and managing plane tickets. Users
 
 
 
-  Technologies & Structure
+##  🛠️ *Technologies & Structure*
   
   
 •	Java 8+ (Streams, Optional, Lambda expressions)
@@ -38,7 +38,7 @@ This is a Java console application for booking and managing plane tickets. Users
 
 
 
-   Project Structure
+##  📂  *Project Structure*
 
 
 OOP-Final-Project/  
@@ -62,9 +62,21 @@ OOP-Final-Project/
 │       ├── DAO/                   
 │       ├── controller/           
 │       └── service/               
-├── target/                        # Compiled classes (Maven/Gradle output)  
+├── target/                        # Compiled classes (Maven output)  
 ├── pom.xml                        # Maven configuration  
 └── README.md                      
+
+
+
+
+## 🚀 *Getting Started*
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/oop-flight-booking.git
+
+2. Open in your preferred IDE (e.g., IntelliJ IDEA, VS Code, Eclipse)
+3. Run main.java to test.
 
 
 
