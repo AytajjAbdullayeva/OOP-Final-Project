@@ -5398,3 +5398,933 @@
 2025-05-04T23:23:48.055859-->Showing booking ID for passenger: Test1name Test1surname
 2025-05-04T23:23:48.055859-->Fetching bookings for passenger: Test1name Test1surname
 2025-05-04T23:23:48.055859-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:34:36.065815600-->UserDAO: Loaded 0 users
+2025-05-04T23:34:36.082391700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:36.082391700-->Password Hashed
+2025-05-04T23:34:36.083832500-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:36.089702800-->UserDAO: Added user with UID 1
+2025-05-04T23:34:36.104514200-->UserDAO: Loaded 1 users
+2025-05-04T23:34:36.106509900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:36.106509900-->Password Hashed
+2025-05-04T23:34:36.106509900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:36.107513200-->User with Username TestUserName found
+2025-05-04T23:34:36.110525700-->UserDAO: Loaded 1 users
+2025-05-04T23:34:36.111523900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:36.111523900-->Password Hashed
+2025-05-04T23:34:36.112524100-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:36.112524100-->User with ID 1 found
+2025-05-04T23:34:36.114524100-->UserDAO: Loaded 1 users
+2025-05-04T23:34:36.115975100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:36.115975100-->Password Hashed
+2025-05-04T23:34:36.116981200-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:36.118299100-->UserDAO: User with UID 1 successfully removed
+2025-05-04T23:34:52.962342600-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:34:53.001129200-->UserDAO: Loaded 0 users
+2025-05-04T23:34:53.024036400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:53.025044100-->Password Hashed
+2025-05-04T23:34:53.027550300-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:53.033489900-->UserDAO: Added user with UID 1
+2025-05-04T23:34:53.048733-->UserDAO: Loaded 1 users
+2025-05-04T23:34:53.049732600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:53.049732600-->Password Hashed
+2025-05-04T23:34:53.050733700-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:53.050733700-->User with Username TestUserName found
+2025-05-04T23:34:53.053732100-->UserDAO: Loaded 1 users
+2025-05-04T23:34:53.054817400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:53.054817400-->Password Hashed
+2025-05-04T23:34:53.054817400-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:53.055824800-->User with ID 1 found
+2025-05-04T23:34:53.057823400-->UserDAO: Loaded 1 users
+2025-05-04T23:34:53.058823-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:34:53.058823-->Password Hashed
+2025-05-04T23:34:53.058823-->User namedTestUserNamecreated, UID1
+2025-05-04T23:34:53.059823700-->UserDAO: User with UID 1 successfully removed
+2025-05-04T23:36:35.928344100-->Initializing FlightDAO
+2025-05-04T23:36:35.930447500-->Loading flights from existing file
+2025-05-04T23:36:35.930447500-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:35.941048100-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:36:35.942055500-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:35.944773-->Getting all flights (count: 198)
+2025-05-04T23:36:35.947048800-->Looking up flight by ID: F1000
+2025-05-04T23:36:35.948455400-->Looking up flight by ID: F1001
+2025-05-04T23:36:35.948455400-->Looking up flight by ID: F1002
+2025-05-04T23:36:35.948455400-->Looking up flight by ID: F1003
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1004
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1005
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1006
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1007
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1008
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1009
+2025-05-04T23:36:35.949627400-->Looking up flight by ID: F1010
+2025-05-04T23:36:35.951050600-->Looking up flight by ID: F1011
+2025-05-04T23:36:35.951050600-->Looking up flight by ID: F1012
+2025-05-04T23:36:35.951050600-->Looking up flight by ID: F1013
+2025-05-04T23:36:35.951050600-->Looking up flight by ID: F1014
+2025-05-04T23:36:35.952056100-->Looking up flight by ID: F1015
+2025-05-04T23:36:35.952056100-->Looking up flight by ID: F1016
+2025-05-04T23:36:35.952056100-->Looking up flight by ID: F1017
+2025-05-04T23:36:35.952056100-->Looking up flight by ID: F1018
+2025-05-04T23:36:35.952056100-->Looking up flight by ID: F1019
+2025-05-04T23:36:35.953056600-->Looking up flight by ID: F1020
+2025-05-04T23:36:35.953056600-->Looking up flight by ID: F1021
+2025-05-04T23:36:35.953056600-->Looking up flight by ID: F1022
+2025-05-04T23:36:35.953056600-->Looking up flight by ID: F1023
+2025-05-04T23:36:35.954057300-->Looking up flight by ID: F1024
+2025-05-04T23:36:35.954057300-->Looking up flight by ID: F1025
+2025-05-04T23:36:35.954057300-->Looking up flight by ID: F1026
+2025-05-04T23:36:35.954057300-->Looking up flight by ID: F1027
+2025-05-04T23:36:35.954057300-->Looking up flight by ID: F1028
+2025-05-04T23:36:35.954057300-->Looking up flight by ID: F1029
+2025-05-04T23:36:35.955393600-->Looking up flight by ID: F1030
+2025-05-04T23:36:35.955393600-->Looking up flight by ID: F1031
+2025-05-04T23:36:35.955393600-->Looking up flight by ID: F1032
+2025-05-04T23:36:35.955393600-->Looking up flight by ID: F1033
+2025-05-04T23:36:35.955393600-->Looking up flight by ID: F1034
+2025-05-04T23:36:35.956426800-->Looking up flight by ID: F1035
+2025-05-04T23:36:35.956426800-->Looking up flight by ID: F1036
+2025-05-04T23:36:35.956426800-->Looking up flight by ID: F1037
+2025-05-04T23:36:35.956426800-->Looking up flight by ID: F1038
+2025-05-04T23:36:35.956426800-->Looking up flight by ID: F1039
+2025-05-04T23:36:35.957826700-->Looking up flight by ID: F1040
+2025-05-04T23:36:35.957826700-->Looking up flight by ID: F1041
+2025-05-04T23:36:35.957826700-->Looking up flight by ID: F1042
+2025-05-04T23:36:35.957826700-->Looking up flight by ID: F1043
+2025-05-04T23:36:35.959292400-->Looking up flight by ID: F1044
+2025-05-04T23:36:35.959292400-->Looking up flight by ID: F1046
+2025-05-04T23:36:35.959292400-->Looking up flight by ID: F1047
+2025-05-04T23:36:35.959292400-->Looking up flight by ID: F1048
+2025-05-04T23:36:35.959292400-->Looking up flight by ID: F1049
+2025-05-04T23:36:35.959292400-->Looking up flight by ID: F1050
+2025-05-04T23:36:35.960752800-->Looking up flight by ID: F1051
+2025-05-04T23:36:35.960752800-->Looking up flight by ID: F1052
+2025-05-04T23:36:35.960752800-->Looking up flight by ID: F1053
+2025-05-04T23:36:35.960752800-->Looking up flight by ID: F1054
+2025-05-04T23:36:35.960752800-->Looking up flight by ID: F1055
+2025-05-04T23:36:35.962219-->Looking up flight by ID: F1056
+2025-05-04T23:36:35.962219-->Looking up flight by ID: F1057
+2025-05-04T23:36:35.962219-->Looking up flight by ID: F1058
+2025-05-04T23:36:35.962219-->Looking up flight by ID: F1059
+2025-05-04T23:36:35.962219-->Looking up flight by ID: F1060
+2025-05-04T23:36:35.963450300-->Looking up flight by ID: F1061
+2025-05-04T23:36:35.963450300-->Looking up flight by ID: F1062
+2025-05-04T23:36:35.963450300-->Looking up flight by ID: F1063
+2025-05-04T23:36:35.963450300-->Looking up flight by ID: F1064
+2025-05-04T23:36:35.963450300-->Looking up flight by ID: F1065
+2025-05-04T23:36:35.963450300-->Looking up flight by ID: F1066
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1067
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1068
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1069
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1070
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1071
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1072
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1073
+2025-05-04T23:36:35.964931400-->Looking up flight by ID: F1074
+2025-05-04T23:36:35.966348900-->Looking up flight by ID: F1075
+2025-05-04T23:36:35.966348900-->Looking up flight by ID: F1076
+2025-05-04T23:36:35.966348900-->Looking up flight by ID: F1077
+2025-05-04T23:36:35.966854700-->Looking up flight by ID: F1078
+2025-05-04T23:36:35.966854700-->Looking up flight by ID: F1079
+2025-05-04T23:36:35.966854700-->Looking up flight by ID: F1080
+2025-05-04T23:36:35.966854700-->Looking up flight by ID: F1081
+2025-05-04T23:36:35.966854700-->Looking up flight by ID: F1082
+2025-05-04T23:36:35.966854700-->Looking up flight by ID: F1083
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1084
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1085
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1086
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1087
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1088
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1089
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1090
+2025-05-04T23:36:35.968071800-->Looking up flight by ID: F1091
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1092
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1093
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1094
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1095
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1096
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1097
+2025-05-04T23:36:35.969443500-->Looking up flight by ID: F1098
+2025-05-04T23:36:35.970449100-->Looking up flight by ID: F1099
+2025-05-04T23:36:35.970449100-->Looking up flight by ID: F1100
+2025-05-04T23:36:35.970449100-->Looking up flight by ID: F1101
+2025-05-04T23:36:35.970449100-->Looking up flight by ID: F1102
+2025-05-04T23:36:35.970449100-->Looking up flight by ID: F1103
+2025-05-04T23:36:35.971450700-->Looking up flight by ID: F1104
+2025-05-04T23:36:35.971450700-->Looking up flight by ID: F1105
+2025-05-04T23:36:35.971450700-->Looking up flight by ID: F1106
+2025-05-04T23:36:35.971450700-->Looking up flight by ID: F1107
+2025-05-04T23:36:35.971450700-->Looking up flight by ID: F1108
+2025-05-04T23:36:35.972450300-->Looking up flight by ID: F1109
+2025-05-04T23:36:35.972450300-->Looking up flight by ID: F1110
+2025-05-04T23:36:35.972450300-->Looking up flight by ID: F1111
+2025-05-04T23:36:35.972450300-->Looking up flight by ID: F1112
+2025-05-04T23:36:35.972450300-->Looking up flight by ID: F1113
+2025-05-04T23:36:35.973729300-->Looking up flight by ID: F1114
+2025-05-04T23:36:35.973729300-->Looking up flight by ID: F1115
+2025-05-04T23:36:35.973729300-->Looking up flight by ID: F1116
+2025-05-04T23:36:35.973729300-->Looking up flight by ID: F1117
+2025-05-04T23:36:35.975037400-->Looking up flight by ID: F1118
+2025-05-04T23:36:35.975037400-->Looking up flight by ID: F1119
+2025-05-04T23:36:35.975037400-->Looking up flight by ID: F1120
+2025-05-04T23:36:35.975037400-->Looking up flight by ID: F1121
+2025-05-04T23:36:35.975037400-->Looking up flight by ID: F1122
+2025-05-04T23:36:35.976437300-->Looking up flight by ID: F1123
+2025-05-04T23:36:35.976437300-->Looking up flight by ID: F1124
+2025-05-04T23:36:35.976437300-->Looking up flight by ID: F1125
+2025-05-04T23:36:35.976437300-->Looking up flight by ID: F1126
+2025-05-04T23:36:35.977451100-->Looking up flight by ID: F1127
+2025-05-04T23:36:35.977451100-->Looking up flight by ID: F1128
+2025-05-04T23:36:35.977451100-->Looking up flight by ID: F1130
+2025-05-04T23:36:35.977451100-->Looking up flight by ID: F1131
+2025-05-04T23:36:35.977451100-->Looking up flight by ID: F1132
+2025-05-04T23:36:35.977451100-->Looking up flight by ID: F1133
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1134
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1135
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1136
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1137
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1138
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1139
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1140
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1141
+2025-05-04T23:36:35.978446500-->Looking up flight by ID: F1142
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1143
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1144
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1145
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1146
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1147
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1148
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1149
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1150
+2025-05-04T23:36:35.979951600-->Looking up flight by ID: F1151
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1152
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1153
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1154
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1155
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1156
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1157
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1158
+2025-05-04T23:36:35.981419-->Looking up flight by ID: F1159
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1160
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1161
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1162
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1163
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1164
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1165
+2025-05-04T23:36:35.982756600-->Looking up flight by ID: F1166
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1167
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1168
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1169
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1170
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1171
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1172
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1173
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1174
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1175
+2025-05-04T23:36:35.983848300-->Looking up flight by ID: F1176
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1177
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1178
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1179
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1180
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1181
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1182
+2025-05-04T23:36:35.985318900-->Looking up flight by ID: F1183
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1184
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1185
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1186
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1187
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1188
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1189
+2025-05-04T23:36:35.986326800-->Looking up flight by ID: F1190
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1191
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1192
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1193
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1194
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1195
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1196
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1197
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1198
+2025-05-04T23:36:35.987326-->Looking up flight by ID: F1199
+2025-05-04T23:36:35.998604300-->Initializing FlightDAO
+2025-05-04T23:36:35.998604300-->Loading flights from existing file
+2025-05-04T23:36:35.998604300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:36.002489700-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:36:36.002489700-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:36.003803700-->Adding new flight: TestId
+2025-05-04T23:36:36.003803700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:36.008463500-->Successfully saved 199 flights to file
+2025-05-04T23:36:36.009873-->Getting all flights (count: 199)
+2025-05-04T23:36:36.009873-->Looking up flight by ID: TestId
+2025-05-04T23:36:36.009873-->Attempting to delete flight with ID: TestId
+2025-05-04T23:36:36.011195400-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:36:36.011195400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:36.013824100-->Successfully saved 198 flights to file
+2025-05-04T23:36:36.015986500-->Initializing FlightDAO
+2025-05-04T23:36:36.015986500-->Loading flights from existing file
+2025-05-04T23:36:36.016987200-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:36.019299200-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:36:36.019299200-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:36.020801100-->Getting all flights (count: 198)
+2025-05-04T23:36:39.303761400-->Initializing BookingDao...
+2025-05-04T23:36:39.304771600-->Loading bookings from file...
+2025-05-04T23:36:39.306264-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:36:39.306264-->Loaded 0 bookings.
+2025-05-04T23:36:39.307271100-->Creating Passenger: Test User
+2025-05-04T23:36:39.308351-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:36:39.308351-->Adding booking: BOOK123
+2025-05-04T23:36:39.308351-->Saving bookings to file...
+2025-05-04T23:36:39.311006500-->Bookings saved successfully.
+2025-05-04T23:36:39.313292900-->Retrieving booking by ID: BOOK123
+2025-05-04T23:36:39.319110700-->Removing booking: BOOK123
+2025-05-04T23:36:39.320458500-->Saving bookings to file...
+2025-05-04T23:36:39.320458500-->Bookings saved successfully.
+2025-05-04T23:36:39.328333500-->Initializing BookingDao...
+2025-05-04T23:36:39.329334800-->Loading bookings from file...
+2025-05-04T23:36:39.330332900-->Loaded 0 bookings.
+2025-05-04T23:36:39.330332900-->Creating Passenger: Test User
+2025-05-04T23:36:39.330332900-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:36:39.330332900-->Adding booking: BOOK123
+2025-05-04T23:36:39.331333300-->Saving bookings to file...
+2025-05-04T23:36:39.331333300-->Bookings saved successfully.
+2025-05-04T23:36:39.332334-->Removing booking: BOOK123
+2025-05-04T23:36:39.332334-->Saving bookings to file...
+2025-05-04T23:36:39.333336-->Bookings saved successfully.
+2025-05-04T23:36:39.333336-->Retrieving booking by ID: BOOK123
+2025-05-04T23:36:39.334333900-->Removing booking: BOOK123
+2025-05-04T23:36:39.335333900-->Saving bookings to file...
+2025-05-04T23:36:39.335333900-->Bookings saved successfully.
+2025-05-04T23:36:39.337336100-->Initializing BookingDao...
+2025-05-04T23:36:39.338336100-->Loading bookings from file...
+2025-05-04T23:36:39.338336100-->Loaded 0 bookings.
+2025-05-04T23:36:39.338336100-->Creating Passenger: Test User
+2025-05-04T23:36:39.338336100-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:36:39.339335500-->Adding booking: BOOK123
+2025-05-04T23:36:39.339335500-->Saving bookings to file...
+2025-05-04T23:36:39.339335500-->Bookings saved successfully.
+2025-05-04T23:36:39.340331600-->Retrieving bookings for passenger: Test User
+2025-05-04T23:36:39.340331600-->Removing booking: BOOK123
+2025-05-04T23:36:39.341611600-->Saving bookings to file...
+2025-05-04T23:36:39.341611600-->Bookings saved successfully.
+2025-05-04T23:36:42.900460300-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:36:42.942185100-->UserDAO: Loaded 0 users
+2025-05-04T23:36:42.953199300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:36:42.953199300-->Password Hashed
+2025-05-04T23:36:42.956061900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:36:42.960450700-->UserDAO: Added user with UID 1
+2025-05-04T23:36:42.961830400-->User with Username TestUserName found
+2025-05-04T23:36:42.961830400-->User TestUserName found
+2025-05-04T23:36:42.961830400-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T23:36:42.961830400-->User TestUserName's hash matched
+2025-05-04T23:36:42.962996-->Session created
+2025-05-04T23:36:42.973015700-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:36:42.974025800-->UserDAO: Loaded 0 users
+2025-05-04T23:36:42.975026100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:36:42.975026100-->Password Hashed
+2025-05-04T23:36:42.976026500-->User namedTestUserNamecreated, UID1
+2025-05-04T23:36:42.976026500-->UserDAO: Added user with UID 1
+2025-05-04T23:36:42.977026100-->User with Username TestUserName found
+2025-05-04T23:36:42.977026100-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T23:36:42.977026100-->User TestUserName' password updated
+2025-05-04T23:36:42.977026100-->User with Username TestUserName found
+2025-05-04T23:36:42.978025900-->User TestUserName found
+2025-05-04T23:36:42.978025900-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T23:36:42.978025900-->User TestUserName's hash matched
+2025-05-04T23:36:42.978025900-->Session created
+2025-05-04T23:36:46.522341300-->Initializing FlightDAO
+2025-05-04T23:36:46.524337400-->Loading flights from existing file
+2025-05-04T23:36:46.524337400-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:46.534916200-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:36:46.534916200-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:46.535923400-->FlightService initialized with FlightDAO
+2025-05-04T23:36:46.535923400-->FlightController initialized with FlightService
+2025-05-04T23:36:46.536923800-->Adding new flight: TestId
+2025-05-04T23:36:46.536923800-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:46.540526500-->Successfully saved 199 flights to file
+2025-05-04T23:36:46.542872100-->Getting flight info for ID: TestId
+2025-05-04T23:36:46.544350100-->Attempting to get flight by ID: TestId
+2025-05-04T23:36:46.544350100-->Looking up flight by ID: TestId
+2025-05-04T23:36:46.544350100-->Successfully retrieved flight: TestId
+2025-05-04T23:36:46.545619500-->Successfully retrieved flight: TestId
+2025-05-04T23:36:46.550013400-->Attempting to delete flight with ID: TestId
+2025-05-04T23:36:46.550013400-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:36:46.551356-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:46.553486300-->Successfully saved 198 flights to file
+2025-05-04T23:36:46.561835200-->Initializing FlightDAO
+2025-05-04T23:36:46.561835200-->Loading flights from existing file
+2025-05-04T23:36:46.562843100-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:46.566774400-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:36:46.566774400-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:46.566774400-->FlightService initialized with FlightDAO
+2025-05-04T23:36:46.566774400-->FlightController initialized with FlightService
+2025-05-04T23:36:46.568212700-->Adding new flight: TestId
+2025-05-04T23:36:46.568212700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:46.569222800-->Successfully saved 199 flights to file
+2025-05-04T23:36:46.570221300-->Getting upcoming flights (next 24 hours)
+2025-05-04T23:36:46.571220300-->Getting all flights (count: 199)
+2025-05-04T23:36:46.571220300-->Total flights in system: 199
+2025-05-04T23:36:46.575611100-->Included flight: F1032 | Time: 2025-05-05T22:58:49.0396776 | Seats: 182/182
+2025-05-04T23:36:46.575611100-->Included flight: F1035 | Time: 2025-05-05T10:43:49.0396776 | Seats: 185/185
+2025-05-04T23:36:46.576610800-->Included flight: F1044 | Time: 2025-05-05T16:43:49.0396776 | Seats: 194/194
+2025-05-04T23:36:46.576610800-->Included flight: F1066 | Time: 2025-05-05T19:28:49.0396776 | Seats: 166/166
+2025-05-04T23:36:46.576610800-->Included flight: F1089 | Time: 2025-05-05T20:13:49.0396776 | Seats: 189/189
+2025-05-04T23:36:46.576610800-->Included flight: F1123 | Time: 2025-05-05T15:58:49.0396776 | Seats: 173/173
+2025-05-04T23:36:46.576610800-->Included flight: F1145 | Time: 2025-05-05T15:58:49.0396776 | Seats: 195/195
+2025-05-04T23:36:46.577609900-->Included flight: F1174 | Time: 2025-05-05T20:13:49.0396776 | Seats: 174/174
+2025-05-04T23:36:46.577609900-->Included flight: TestId | Time: 2025-05-05T11:36:46.5682127 | Seats: 90/100
+2025-05-04T23:36:46.577609900-->Found 9 flights in next 24 hours
+2025-05-04T23:36:46.577609900-->Found 9 upcoming flights
+2025-05-04T23:36:46.578615200-->Attempting to delete flight with ID: TestId
+2025-05-04T23:36:46.578615200-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:36:46.579617400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:46.581039100-->Successfully saved 198 flights to file
+2025-05-04T23:36:46.583535600-->Initializing FlightDAO
+2025-05-04T23:36:46.583535600-->Loading flights from existing file
+2025-05-04T23:36:46.583535600-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:46.586698700-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:36:46.586698700-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:46.586698700-->FlightService initialized with FlightDAO
+2025-05-04T23:36:46.587828700-->FlightController initialized with FlightService
+2025-05-04T23:36:46.587828700-->Adding new flight: TestId
+2025-05-04T23:36:46.587828700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:46.588836100-->Successfully saved 199 flights to file
+2025-05-04T23:36:46.588836100-->Searching flights: Destination=TestDest, Date=2025-05-05, People=5
+2025-05-04T23:36:46.590310100-->Searching flights: Destination=TestDest, Date=2025-05-05, Passengers=5
+2025-05-04T23:36:46.590310100-->Getting all flights (count: 199)
+2025-05-04T23:36:46.591319100-->Found 1 matching flights
+2025-05-04T23:36:46.591319100-->Found 1 matching flights
+2025-05-04T23:36:46.591319100-->Attempting to delete flight with ID: TestId
+2025-05-04T23:36:46.592825400-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:36:46.592825400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:46.594164300-->Successfully saved 198 flights to file
+2025-05-04T23:36:49.141637100-->Initializing BookingDao...
+2025-05-04T23:36:49.142922-->Loading bookings from file...
+2025-05-04T23:36:49.144313800-->Loaded 0 bookings.
+2025-05-04T23:36:49.144819-->Initializing FlightDAO
+2025-05-04T23:36:49.144819-->Loading flights from existing file
+2025-05-04T23:36:49.144819-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:36:49.156321600-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:36:49.157685300-->FlightDAO initialized with 198 flights
+2025-05-04T23:36:49.159096-->FlightService initialized with FlightDAO
+2025-05-04T23:36:49.159096-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:36:49.159096-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:36:49.159096-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:36:49.160541400-->Adding new flight: TestFID
+2025-05-04T23:36:49.160541400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:49.164364-->Successfully saved 199 flights to file
+2025-05-04T23:36:49.165791600-->Handling new booking request for flight: TestFID
+2025-05-04T23:36:49.166801600-->Attempting to create booking for flight TestFID
+2025-05-04T23:36:49.166801600-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:36:49.167799800-->Looking up flight by ID: TestFID
+2025-05-04T23:36:49.167799800-->Available seats check result: OK (90 available)
+2025-05-04T23:36:49.169803900-->Generated booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e
+2025-05-04T23:36:49.169803900-->Creating Booking: e88eda0c-5934-46bc-b426-504cb6d85f0e, Flight: TestFID
+2025-05-04T23:36:49.170801800-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:36:49.170801800-->Looking up flight by ID: TestFID
+2025-05-04T23:36:49.170801800-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:36:49.171827300-->Successfully saved 199 flights to file
+2025-05-04T23:36:49.173330400-->Seat update successful. New availability: 93/100
+2025-05-04T23:36:49.173330400-->Adding booking: e88eda0c-5934-46bc-b426-504cb6d85f0e
+2025-05-04T23:36:49.173330400-->Saving bookings to file...
+2025-05-04T23:36:49.176379800-->Bookings saved successfully.
+2025-05-04T23:36:49.177584100-->Booking created and saved: Booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:36:49.169803900
+2025-05-04T23:36:49.177584100-->Booking successful! Booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:36:49.169803900
+2025-05-04T23:36:49.179591200-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:36:49.179591200-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:36:49.181032100-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:36:49.182040900-->Handling cancellation for booking ID: Booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:36:49.169803900
+2025-05-04T23:36:49.182040900-->Attempting to cancel booking: Booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:36:49.169803900
+2025-05-04T23:36:49.182040900-->Retrieving booking by ID: Booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:36:49.169803900
+2025-05-04T23:36:49.183398900-->Booking not found: Booking ID: e88eda0c-5934-46bc-b426-504cb6d85f0e | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:36:49.169803900
+2025-05-04T23:36:49.183398900-->Booking ID not found.
+2025-05-04T23:36:49.184407400-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:36:49.184407400-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:36:49.184407400-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:36:57.062343500-->UserDAO: Loaded 1 users
+2025-05-04T23:36:57.105353100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:36:57.105353100-->Password Hashed
+2025-05-04T23:36:57.108356600-->User namedTestUserNamecreated, UID1
+2025-05-04T23:36:57.123784900-->UserDAO: Loaded 1 users
+2025-05-04T23:36:57.124790-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:36:57.125790900-->Password Hashed
+2025-05-04T23:36:57.125790900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:36:57.126792800-->User with Username TestUserName found
+2025-05-04T23:36:57.130226800-->UserDAO: Loaded 1 users
+2025-05-04T23:36:57.131589400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:36:57.131589400-->Password Hashed
+2025-05-04T23:36:57.131589400-->User namedTestUserNamecreated, UID1
+2025-05-04T23:36:57.131589400-->User with ID 1 found
+2025-05-04T23:36:57.134003200-->UserDAO: Loaded 1 users
+2025-05-04T23:36:58.806424200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:36:58.807422900-->Password Hashed
+2025-05-04T23:36:58.808422700-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:11.270016600-->UserDAO: User with UID 1 successfully removed
+2025-05-04T23:38:39.290228800-->UserDAO: Loaded 0 users
+2025-05-04T23:38:39.318681300-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:39.319679400-->Password Hashed
+2025-05-04T23:38:39.321682300-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:39.325688800-->UserDAO: Added user with UID 1
+2025-05-04T23:38:39.342090800-->UserDAO: Loaded 1 users
+2025-05-04T23:38:39.343089400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:39.344088900-->Password Hashed
+2025-05-04T23:38:39.344088900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:39.344088900-->User with Username TestUserName found
+2025-05-04T23:38:39.347490600-->UserDAO: Loaded 1 users
+2025-05-04T23:38:39.347490600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:39.348907500-->Password Hashed
+2025-05-04T23:38:39.348907500-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:39.348907500-->User with ID 1 found
+2025-05-04T23:38:39.351915-->UserDAO: Loaded 1 users
+2025-05-04T23:38:39.352914400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:39.352914400-->Password Hashed
+2025-05-04T23:38:39.352914400-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:39.353912600-->UserDAO: User with UID 1 successfully removed
+2025-05-04T23:38:57.041732500-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:38:57.074974700-->UserDAO: Loaded 0 users
+2025-05-04T23:38:57.086182500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:57.086182500-->Password Hashed
+2025-05-04T23:38:57.088692100-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:57.094115800-->UserDAO: Added user with UID 1
+2025-05-04T23:38:57.103171200-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:38:57.104582100-->UserDAO: Loaded 0 users
+2025-05-04T23:38:57.105588500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:57.105588500-->Password Hashed
+2025-05-04T23:38:57.106593200-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:57.106593200-->UserDAO: Added user with UID 1
+2025-05-04T23:38:57.107614600-->User with Username TestUserName found
+2025-05-04T23:38:57.110905700-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:38:57.111913900-->UserDAO: Loaded 0 users
+2025-05-04T23:38:57.112911800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:57.112911800-->Password Hashed
+2025-05-04T23:38:57.112911800-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:57.113913900-->UserDAO: Added user with UID 1
+2025-05-04T23:38:57.113913900-->User with ID 1 found
+2025-05-04T23:38:57.116366-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:38:57.117793900-->UserDAO: Loaded 0 users
+2025-05-04T23:38:57.118802600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:38:57.118802600-->Password Hashed
+2025-05-04T23:38:57.118802600-->User namedTestUserNamecreated, UID1
+2025-05-04T23:38:57.119801800-->UserDAO: Added user with UID 1
+2025-05-04T23:38:57.120824800-->UserDAO: User with UID 1 successfully removed
+2025-05-04T23:39:24.765375200-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:39:24.805614900-->UserDAO: Loaded 0 users
+2025-05-04T23:39:24.818882500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:39:24.818882500-->Password Hashed
+2025-05-04T23:39:24.821406-->User namedTestUserNamecreated, UID1
+2025-05-04T23:39:24.827544700-->UserDAO: Added user with UID 1
+2025-05-04T23:39:24.838448700-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:39:24.839448800-->UserDAO: Loaded 0 users
+2025-05-04T23:39:24.839448800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:39:24.840448300-->Password Hashed
+2025-05-04T23:39:24.840448300-->User namedTestUserNamecreated, UID1
+2025-05-04T23:39:24.841447300-->UserDAO: Added user with UID 1
+2025-05-04T23:39:24.841447300-->User with Username TestUserName found
+2025-05-04T23:39:24.844918800-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:39:24.845425600-->UserDAO: Loaded 0 users
+2025-05-04T23:39:24.846811900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:39:24.846811900-->Password Hashed
+2025-05-04T23:39:24.846811900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:39:24.846811900-->UserDAO: Added user with UID 1
+2025-05-04T23:39:24.848272200-->User with ID 1 found
+2025-05-04T23:39:24.850612100-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:39:24.850612100-->UserDAO: Loaded 0 users
+2025-05-04T23:39:24.852044900-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:39:24.852044900-->Password Hashed
+2025-05-04T23:39:24.852044900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:39:24.853054800-->UserDAO: Added user with UID 1
+2025-05-04T23:39:24.854053200-->UserDAO: User with UID 1 successfully removed
+2025-05-04T23:39:27.530568700-->Initializing FlightDAO
+2025-05-04T23:39:27.531568900-->Loading flights from existing file
+2025-05-04T23:39:27.533040300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:27.542306700-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:39:27.543323-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:27.547265300-->Getting all flights (count: 198)
+2025-05-04T23:39:27.548276400-->Looking up flight by ID: F1000
+2025-05-04T23:39:27.549279-->Looking up flight by ID: F1001
+2025-05-04T23:39:27.550731-->Looking up flight by ID: F1002
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1003
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1004
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1005
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1006
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1007
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1008
+2025-05-04T23:39:27.551235500-->Looking up flight by ID: F1009
+2025-05-04T23:39:27.552710900-->Looking up flight by ID: F1010
+2025-05-04T23:39:27.552710900-->Looking up flight by ID: F1011
+2025-05-04T23:39:27.552710900-->Looking up flight by ID: F1012
+2025-05-04T23:39:27.553716700-->Looking up flight by ID: F1013
+2025-05-04T23:39:27.553716700-->Looking up flight by ID: F1014
+2025-05-04T23:39:27.553716700-->Looking up flight by ID: F1015
+2025-05-04T23:39:27.553716700-->Looking up flight by ID: F1016
+2025-05-04T23:39:27.553716700-->Looking up flight by ID: F1017
+2025-05-04T23:39:27.554868900-->Looking up flight by ID: F1018
+2025-05-04T23:39:27.554868900-->Looking up flight by ID: F1019
+2025-05-04T23:39:27.554868900-->Looking up flight by ID: F1020
+2025-05-04T23:39:27.554868900-->Looking up flight by ID: F1021
+2025-05-04T23:39:27.555874700-->Looking up flight by ID: F1022
+2025-05-04T23:39:27.555874700-->Looking up flight by ID: F1023
+2025-05-04T23:39:27.555874700-->Looking up flight by ID: F1024
+2025-05-04T23:39:27.555874700-->Looking up flight by ID: F1025
+2025-05-04T23:39:27.555874700-->Looking up flight by ID: F1026
+2025-05-04T23:39:27.557189500-->Looking up flight by ID: F1027
+2025-05-04T23:39:27.557189500-->Looking up flight by ID: F1028
+2025-05-04T23:39:27.557189500-->Looking up flight by ID: F1029
+2025-05-04T23:39:27.557189500-->Looking up flight by ID: F1030
+2025-05-04T23:39:27.557189500-->Looking up flight by ID: F1031
+2025-05-04T23:39:27.557189500-->Looking up flight by ID: F1032
+2025-05-04T23:39:27.558573200-->Looking up flight by ID: F1033
+2025-05-04T23:39:27.558573200-->Looking up flight by ID: F1034
+2025-05-04T23:39:27.558573200-->Looking up flight by ID: F1035
+2025-05-04T23:39:27.558573200-->Looking up flight by ID: F1036
+2025-05-04T23:39:27.558573200-->Looking up flight by ID: F1037
+2025-05-04T23:39:27.560043100-->Looking up flight by ID: F1038
+2025-05-04T23:39:27.560043100-->Looking up flight by ID: F1039
+2025-05-04T23:39:27.560043100-->Looking up flight by ID: F1040
+2025-05-04T23:39:27.560043100-->Looking up flight by ID: F1041
+2025-05-04T23:39:27.561051200-->Looking up flight by ID: F1042
+2025-05-04T23:39:27.561051200-->Looking up flight by ID: F1043
+2025-05-04T23:39:27.561051200-->Looking up flight by ID: F1044
+2025-05-04T23:39:27.562157800-->Looking up flight by ID: F1046
+2025-05-04T23:39:27.562157800-->Looking up flight by ID: F1047
+2025-05-04T23:39:27.562157800-->Looking up flight by ID: F1048
+2025-05-04T23:39:27.562157800-->Looking up flight by ID: F1049
+2025-05-04T23:39:27.562157800-->Looking up flight by ID: F1050
+2025-05-04T23:39:27.562157800-->Looking up flight by ID: F1051
+2025-05-04T23:39:27.563537200-->Looking up flight by ID: F1052
+2025-05-04T23:39:27.563537200-->Looking up flight by ID: F1053
+2025-05-04T23:39:27.563537200-->Looking up flight by ID: F1054
+2025-05-04T23:39:27.564152200-->Looking up flight by ID: F1055
+2025-05-04T23:39:27.564152200-->Looking up flight by ID: F1056
+2025-05-04T23:39:27.564152200-->Looking up flight by ID: F1057
+2025-05-04T23:39:27.564152200-->Looking up flight by ID: F1058
+2025-05-04T23:39:27.564152200-->Looking up flight by ID: F1059
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1060
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1061
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1062
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1063
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1064
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1065
+2025-05-04T23:39:27.565159700-->Looking up flight by ID: F1066
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1067
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1068
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1069
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1070
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1071
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1072
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1073
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1074
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1075
+2025-05-04T23:39:27.566503900-->Looking up flight by ID: F1076
+2025-05-04T23:39:27.568002300-->Looking up flight by ID: F1077
+2025-05-04T23:39:27.568002300-->Looking up flight by ID: F1078
+2025-05-04T23:39:27.568002300-->Looking up flight by ID: F1079
+2025-05-04T23:39:27.568002300-->Looking up flight by ID: F1080
+2025-05-04T23:39:27.568002300-->Looking up flight by ID: F1081
+2025-05-04T23:39:27.568002300-->Looking up flight by ID: F1082
+2025-05-04T23:39:27.569007700-->Looking up flight by ID: F1083
+2025-05-04T23:39:27.569007700-->Looking up flight by ID: F1084
+2025-05-04T23:39:27.569007700-->Looking up flight by ID: F1085
+2025-05-04T23:39:27.569007700-->Looking up flight by ID: F1086
+2025-05-04T23:39:27.569007700-->Looking up flight by ID: F1087
+2025-05-04T23:39:27.570201-->Looking up flight by ID: F1088
+2025-05-04T23:39:27.570201-->Looking up flight by ID: F1089
+2025-05-04T23:39:27.570201-->Looking up flight by ID: F1090
+2025-05-04T23:39:27.570201-->Looking up flight by ID: F1091
+2025-05-04T23:39:27.570201-->Looking up flight by ID: F1092
+2025-05-04T23:39:27.570201-->Looking up flight by ID: F1093
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1094
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1095
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1096
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1097
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1098
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1099
+2025-05-04T23:39:27.571489300-->Looking up flight by ID: F1100
+2025-05-04T23:39:27.572858200-->Looking up flight by ID: F1101
+2025-05-04T23:39:27.572858200-->Looking up flight by ID: F1102
+2025-05-04T23:39:27.572858200-->Looking up flight by ID: F1103
+2025-05-04T23:39:27.572858200-->Looking up flight by ID: F1104
+2025-05-04T23:39:27.572858200-->Looking up flight by ID: F1105
+2025-05-04T23:39:27.573866500-->Looking up flight by ID: F1106
+2025-05-04T23:39:27.573866500-->Looking up flight by ID: F1107
+2025-05-04T23:39:27.573866500-->Looking up flight by ID: F1108
+2025-05-04T23:39:27.573866500-->Looking up flight by ID: F1109
+2025-05-04T23:39:27.573866500-->Looking up flight by ID: F1110
+2025-05-04T23:39:27.575260200-->Looking up flight by ID: F1111
+2025-05-04T23:39:27.575260200-->Looking up flight by ID: F1112
+2025-05-04T23:39:27.575260200-->Looking up flight by ID: F1113
+2025-05-04T23:39:27.575260200-->Looking up flight by ID: F1114
+2025-05-04T23:39:27.575260200-->Looking up flight by ID: F1115
+2025-05-04T23:39:27.576705200-->Looking up flight by ID: F1116
+2025-05-04T23:39:27.576705200-->Looking up flight by ID: F1117
+2025-05-04T23:39:27.576705200-->Looking up flight by ID: F1118
+2025-05-04T23:39:27.576705200-->Looking up flight by ID: F1119
+2025-05-04T23:39:27.576705200-->Looking up flight by ID: F1120
+2025-05-04T23:39:27.576705200-->Looking up flight by ID: F1121
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1122
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1123
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1124
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1125
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1126
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1127
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1128
+2025-05-04T23:39:27.578173600-->Looking up flight by ID: F1130
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1131
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1132
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1133
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1134
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1135
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1136
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1137
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1138
+2025-05-04T23:39:27.579628600-->Looking up flight by ID: F1139
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1140
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1141
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1142
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1143
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1144
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1145
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1146
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1147
+2025-05-04T23:39:27.581012800-->Looking up flight by ID: F1148
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1149
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1150
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1151
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1152
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1153
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1154
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1155
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1156
+2025-05-04T23:39:27.582448200-->Looking up flight by ID: F1157
+2025-05-04T23:39:27.583874-->Looking up flight by ID: F1158
+2025-05-04T23:39:27.583874-->Looking up flight by ID: F1159
+2025-05-04T23:39:27.583874-->Looking up flight by ID: F1160
+2025-05-04T23:39:27.583874-->Looking up flight by ID: F1161
+2025-05-04T23:39:27.583874-->Looking up flight by ID: F1162
+2025-05-04T23:39:27.583874-->Looking up flight by ID: F1163
+2025-05-04T23:39:27.584880400-->Looking up flight by ID: F1164
+2025-05-04T23:39:27.584880400-->Looking up flight by ID: F1165
+2025-05-04T23:39:27.584880400-->Looking up flight by ID: F1166
+2025-05-04T23:39:27.584880400-->Looking up flight by ID: F1167
+2025-05-04T23:39:27.584880400-->Looking up flight by ID: F1168
+2025-05-04T23:39:27.585878300-->Looking up flight by ID: F1169
+2025-05-04T23:39:27.585878300-->Looking up flight by ID: F1170
+2025-05-04T23:39:27.585878300-->Looking up flight by ID: F1171
+2025-05-04T23:39:27.585878300-->Looking up flight by ID: F1172
+2025-05-04T23:39:27.585878300-->Looking up flight by ID: F1173
+2025-05-04T23:39:27.585878300-->Looking up flight by ID: F1174
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1175
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1176
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1177
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1178
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1179
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1180
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1181
+2025-05-04T23:39:27.586880700-->Looking up flight by ID: F1182
+2025-05-04T23:39:27.588184100-->Looking up flight by ID: F1183
+2025-05-04T23:39:27.588184100-->Looking up flight by ID: F1184
+2025-05-04T23:39:27.588184100-->Looking up flight by ID: F1185
+2025-05-04T23:39:27.588184100-->Looking up flight by ID: F1186
+2025-05-04T23:39:27.588184100-->Looking up flight by ID: F1187
+2025-05-04T23:39:27.588184100-->Looking up flight by ID: F1188
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1189
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1190
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1191
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1192
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1193
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1194
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1195
+2025-05-04T23:39:27.589194500-->Looking up flight by ID: F1196
+2025-05-04T23:39:27.590633100-->Looking up flight by ID: F1197
+2025-05-04T23:39:27.590633100-->Looking up flight by ID: F1198
+2025-05-04T23:39:27.590633100-->Looking up flight by ID: F1199
+2025-05-04T23:39:27.599441100-->Initializing FlightDAO
+2025-05-04T23:39:27.600441700-->Loading flights from existing file
+2025-05-04T23:39:27.600441700-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:27.602720700-->Loaded 198 flights, skipped 1 entries
+2025-05-04T23:39:27.604140300-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:27.604140300-->Adding new flight: TestId
+2025-05-04T23:39:27.605149700-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:27.608707900-->Successfully saved 199 flights to file
+2025-05-04T23:39:27.610145600-->Getting all flights (count: 199)
+2025-05-04T23:39:27.610145600-->Looking up flight by ID: TestId
+2025-05-04T23:39:27.610145600-->Attempting to delete flight with ID: TestId
+2025-05-04T23:39:27.611339-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:39:27.611339-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:27.613852100-->Successfully saved 198 flights to file
+2025-05-04T23:39:27.614892-->Initializing FlightDAO
+2025-05-04T23:39:27.616246300-->Loading flights from existing file
+2025-05-04T23:39:27.616246300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:27.618266-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:39:27.618266-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:27.619748400-->Getting all flights (count: 198)
+2025-05-04T23:39:30.435465900-->Initializing BookingDao...
+2025-05-04T23:39:30.436465900-->Loading bookings from file...
+2025-05-04T23:39:30.436465900-->Error parsing booking line: Index 3 out of bounds for length 3
+2025-05-04T23:39:30.437816-->Loaded 0 bookings.
+2025-05-04T23:39:30.437816-->Creating Passenger: Test User
+2025-05-04T23:39:30.439296400-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:39:30.439296400-->Adding booking: BOOK123
+2025-05-04T23:39:30.439296400-->Saving bookings to file...
+2025-05-04T23:39:30.442303500-->Bookings saved successfully.
+2025-05-04T23:39:30.444593100-->Retrieving booking by ID: BOOK123
+2025-05-04T23:39:30.450285800-->Removing booking: BOOK123
+2025-05-04T23:39:30.450285800-->Saving bookings to file...
+2025-05-04T23:39:30.450285800-->Bookings saved successfully.
+2025-05-04T23:39:30.461591800-->Initializing BookingDao...
+2025-05-04T23:39:30.462591800-->Loading bookings from file...
+2025-05-04T23:39:30.462591800-->Loaded 0 bookings.
+2025-05-04T23:39:30.463592100-->Creating Passenger: Test User
+2025-05-04T23:39:30.463592100-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:39:30.463592100-->Adding booking: BOOK123
+2025-05-04T23:39:30.463592100-->Saving bookings to file...
+2025-05-04T23:39:30.464590600-->Bookings saved successfully.
+2025-05-04T23:39:30.464590600-->Removing booking: BOOK123
+2025-05-04T23:39:30.465591500-->Saving bookings to file...
+2025-05-04T23:39:30.465591500-->Bookings saved successfully.
+2025-05-04T23:39:30.465591500-->Retrieving booking by ID: BOOK123
+2025-05-04T23:39:30.466589800-->Removing booking: BOOK123
+2025-05-04T23:39:30.466589800-->Saving bookings to file...
+2025-05-04T23:39:30.466589800-->Bookings saved successfully.
+2025-05-04T23:39:30.469591800-->Initializing BookingDao...
+2025-05-04T23:39:30.469591800-->Loading bookings from file...
+2025-05-04T23:39:30.469591800-->Loaded 0 bookings.
+2025-05-04T23:39:30.470591800-->Creating Passenger: Test User
+2025-05-04T23:39:30.470591800-->Creating Booking: BOOK123, Flight: TST123
+2025-05-04T23:39:30.470591800-->Adding booking: BOOK123
+2025-05-04T23:39:30.470591800-->Saving bookings to file...
+2025-05-04T23:39:30.470591800-->Bookings saved successfully.
+2025-05-04T23:39:30.471910800-->Retrieving bookings for passenger: Test User
+2025-05-04T23:39:30.472921900-->Removing booking: BOOK123
+2025-05-04T23:39:30.472921900-->Saving bookings to file...
+2025-05-04T23:39:30.473920900-->Bookings saved successfully.
+2025-05-04T23:39:33.573120500-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:39:33.613719-->UserDAO: Loaded 0 users
+2025-05-04T23:39:33.625717800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:39:33.625717800-->Password Hashed
+2025-05-04T23:39:33.627212900-->User namedTestUserNamecreated, UID1
+2025-05-04T23:39:33.632730500-->UserDAO: Added user with UID 1
+2025-05-04T23:39:33.635122800-->User with Username TestUserName found
+2025-05-04T23:39:33.635122800-->User TestUserName found
+2025-05-04T23:39:33.636116800-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T23:39:33.636116800-->User TestUserName's hash matched
+2025-05-04T23:39:33.638067400-->Session created
+2025-05-04T23:39:33.648992900-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T23:39:33.648992900-->UserDAO: Loaded 0 users
+2025-05-04T23:39:33.650013100-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T23:39:33.651382700-->Password Hashed
+2025-05-04T23:39:33.651382700-->User namedTestUserNamecreated, UID1
+2025-05-04T23:39:33.651382700-->UserDAO: Added user with UID 1
+2025-05-04T23:39:33.652511100-->User with Username TestUserName found
+2025-05-04T23:39:33.652511100-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T23:39:33.652511100-->User TestUserName' password updated
+2025-05-04T23:39:33.652511100-->User with Username TestUserName found
+2025-05-04T23:39:33.652511100-->User TestUserName found
+2025-05-04T23:39:33.652511100-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T23:39:33.653799300-->User TestUserName's hash matched
+2025-05-04T23:39:33.653799300-->Session created
+2025-05-04T23:39:36.590208400-->Initializing FlightDAO
+2025-05-04T23:39:36.591651-->Loading flights from existing file
+2025-05-04T23:39:36.591651-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:36.603242200-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:39:36.604599900-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:36.604599900-->FlightService initialized with FlightDAO
+2025-05-04T23:39:36.604599900-->FlightController initialized with FlightService
+2025-05-04T23:39:36.605929100-->Adding new flight: TestId
+2025-05-04T23:39:36.605929100-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:36.609725700-->Successfully saved 199 flights to file
+2025-05-04T23:39:36.612448200-->Getting flight info for ID: TestId
+2025-05-04T23:39:36.613807100-->Attempting to get flight by ID: TestId
+2025-05-04T23:39:36.613807100-->Looking up flight by ID: TestId
+2025-05-04T23:39:36.614813300-->Successfully retrieved flight: TestId
+2025-05-04T23:39:36.614813300-->Successfully retrieved flight: TestId
+2025-05-04T23:39:36.619253300-->Attempting to delete flight with ID: TestId
+2025-05-04T23:39:36.619253300-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:39:36.620366400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:36.622726400-->Successfully saved 198 flights to file
+2025-05-04T23:39:36.630938800-->Initializing FlightDAO
+2025-05-04T23:39:36.630938800-->Loading flights from existing file
+2025-05-04T23:39:36.632424800-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:36.636122900-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:39:36.636122900-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:36.637614600-->FlightService initialized with FlightDAO
+2025-05-04T23:39:36.637614600-->FlightController initialized with FlightService
+2025-05-04T23:39:36.637614600-->Adding new flight: TestId
+2025-05-04T23:39:36.637614600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:36.640004400-->Successfully saved 199 flights to file
+2025-05-04T23:39:36.640004400-->Getting upcoming flights (next 24 hours)
+2025-05-04T23:39:36.641446200-->Getting all flights (count: 199)
+2025-05-04T23:39:36.641956400-->Total flights in system: 199
+2025-05-04T23:39:36.645462500-->Included flight: F1032 | Time: 2025-05-05T22:58:49.0396776 | Seats: 182/182
+2025-05-04T23:39:36.645462500-->Included flight: F1035 | Time: 2025-05-05T10:43:49.0396776 | Seats: 185/185
+2025-05-04T23:39:36.646902500-->Included flight: F1044 | Time: 2025-05-05T16:43:49.0396776 | Seats: 194/194
+2025-05-04T23:39:36.646902500-->Included flight: F1066 | Time: 2025-05-05T19:28:49.0396776 | Seats: 166/166
+2025-05-04T23:39:36.646902500-->Included flight: F1089 | Time: 2025-05-05T20:13:49.0396776 | Seats: 189/189
+2025-05-04T23:39:36.646902500-->Included flight: F1123 | Time: 2025-05-05T15:58:49.0396776 | Seats: 173/173
+2025-05-04T23:39:36.646902500-->Included flight: F1145 | Time: 2025-05-05T15:58:49.0396776 | Seats: 195/195
+2025-05-04T23:39:36.647916100-->Included flight: F1174 | Time: 2025-05-05T20:13:49.0396776 | Seats: 174/174
+2025-05-04T23:39:36.647916100-->Included flight: TestId | Time: 2025-05-05T11:39:36.6376146 | Seats: 90/100
+2025-05-04T23:39:36.647916100-->Found 9 flights in next 24 hours
+2025-05-04T23:39:36.648977100-->Found 9 upcoming flights
+2025-05-04T23:39:36.649975400-->Attempting to delete flight with ID: TestId
+2025-05-04T23:39:36.649975400-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:39:36.650976400-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:36.650976400-->Successfully saved 198 flights to file
+2025-05-04T23:39:36.653599500-->Initializing FlightDAO
+2025-05-04T23:39:36.654690300-->Loading flights from existing file
+2025-05-04T23:39:36.654690300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:36.658573200-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:39:36.658573200-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:36.659825600-->FlightService initialized with FlightDAO
+2025-05-04T23:39:36.659825600-->FlightController initialized with FlightService
+2025-05-04T23:39:36.659825600-->Adding new flight: TestId
+2025-05-04T23:39:36.659825600-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:36.661806700-->Successfully saved 199 flights to file
+2025-05-04T23:39:36.662313400-->Searching flights: Destination=TestDest, Date=2025-05-05, People=5
+2025-05-04T23:39:36.663623700-->Searching flights: Destination=TestDest, Date=2025-05-05, Passengers=5
+2025-05-04T23:39:36.663623700-->Getting all flights (count: 199)
+2025-05-04T23:39:36.664961-->Found 1 matching flights
+2025-05-04T23:39:36.665973800-->Found 1 matching flights
+2025-05-04T23:39:36.665973800-->Attempting to delete flight with ID: TestId
+2025-05-04T23:39:36.667169300-->Flight TestId removed from memory, saving to file...
+2025-05-04T23:39:36.667169300-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:36.668480800-->Successfully saved 198 flights to file
+2025-05-04T23:39:39.296135500-->Initializing BookingDao...
+2025-05-04T23:39:39.297629300-->Loading bookings from file...
+2025-05-04T23:39:39.297629300-->Loaded 0 bookings.
+2025-05-04T23:39:39.298891300-->Initializing FlightDAO
+2025-05-04T23:39:39.298891300-->Loading flights from existing file
+2025-05-04T23:39:39.298891300-->Loading flights from file: Databases/flights.txt
+2025-05-04T23:39:39.309786800-->Loaded 198 flights, skipped 0 entries
+2025-05-04T23:39:39.309786800-->FlightDAO initialized with 198 flights
+2025-05-04T23:39:39.311119-->FlightService initialized with FlightDAO
+2025-05-04T23:39:39.312126900-->Creating Passenger: Test1name Test1surname
+2025-05-04T23:39:39.312126900-->Creating Passenger: Test2name Test2surname
+2025-05-04T23:39:39.313125800-->Creating Passenger: Test3name Test3surname
+2025-05-04T23:39:39.313125800-->Adding new flight: TestFID
+2025-05-04T23:39:39.313125800-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:39.316900800-->Successfully saved 199 flights to file
+2025-05-04T23:39:39.318303-->Handling new booking request for flight: TestFID
+2025-05-04T23:39:39.318303-->Attempting to create booking for flight TestFID
+2025-05-04T23:39:39.319786900-->Checking available seats: FlightID=TestFID, RequestedSeats=3
+2025-05-04T23:39:39.319786900-->Looking up flight by ID: TestFID
+2025-05-04T23:39:39.319786900-->Available seats check result: OK (90 available)
+2025-05-04T23:39:39.321188100-->Generated booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f
+2025-05-04T23:39:39.322194200-->Creating Booking: d7fb5738-851a-450a-99b0-87ed2f87867f, Flight: TestFID
+2025-05-04T23:39:39.322194200-->Updating seats: FlightID=TestFID, Delta=3
+2025-05-04T23:39:39.322194200-->Looking up flight by ID: TestFID
+2025-05-04T23:39:39.323194-->Saving flights to file: Databases/flights.txt
+2025-05-04T23:39:39.324195300-->Successfully saved 199 flights to file
+2025-05-04T23:39:39.325194100-->Seat update successful. New availability: 93/100
+2025-05-04T23:39:39.325194100-->Adding booking: d7fb5738-851a-450a-99b0-87ed2f87867f
+2025-05-04T23:39:39.326195400-->Saving bookings to file...
+2025-05-04T23:39:39.329194300-->Bookings saved successfully.
+2025-05-04T23:39:39.329194300-->Booking created and saved: Booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:39:39.322194200
+2025-05-04T23:39:39.329194300-->Booking successful! Booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:39:39.322194200
+2025-05-04T23:39:39.332195300-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:39:39.332195300-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:39:39.332195300-->Retrieving bookings for passenger: Test1name Test1surname
+2025-05-04T23:39:39.333196300-->Handling cancellation for booking ID: Booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:39:39.322194200
+2025-05-04T23:39:39.334195-->Attempting to cancel booking: Booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:39:39.322194200
+2025-05-04T23:39:39.334195-->Retrieving booking by ID: Booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:39:39.322194200
+2025-05-04T23:39:39.334195-->Booking not found: Booking ID: d7fb5738-851a-450a-99b0-87ed2f87867f | Flight ID: TestFID | Passengers: [Test1name Test1surname, Test2name Test2surname, Test3name Test3surname] | Time: 2025-05-04T23:39:39.322194200
+2025-05-04T23:39:39.335201900-->Booking ID not found.
+2025-05-04T23:39:39.335201900-->Showing booking ID for passenger: Test1name Test1surname
+2025-05-04T23:39:39.335201900-->Fetching bookings for passenger: Test1name Test1surname
+2025-05-04T23:39:39.335201900-->Retrieving bookings for passenger: Test1name Test1surname

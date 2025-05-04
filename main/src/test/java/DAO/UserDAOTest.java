@@ -18,7 +18,7 @@ public class UserDAOTest {
     @BeforeEach
     public void cleanBeforeEachTest() {
         try {
-            Files.deleteIfExists(Paths.get("main/Databases/Users.json")); // fayli silir
+            Files.deleteIfExists(Paths.get("Databases/Users.json")); // fayli silir
             UserDAO.loadUserDatabase();
             UserDAO.setNumberOfUsers(0);
         } catch (IOException e) {
