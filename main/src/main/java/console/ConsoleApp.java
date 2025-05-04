@@ -243,7 +243,8 @@ public class ConsoleApp {
     private void handleBookingCancellation() {
         System.out.print("Enter booking ID to cancel: ");
         String bookingId = scanner.nextLine();
-        bookingController.handleCancellation(bookingId);
+        if(bookingController.handleCancellation(bookingId)) System.out.println("Booking cancelled.");
+        else System.out.println("Booking couldnt be cancelled.");
     }
 
     private void handleMyFlights() {

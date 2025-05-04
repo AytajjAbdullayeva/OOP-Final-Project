@@ -28,13 +28,15 @@ public class BookingController {
         }
     }
 
-    public void handleCancellation(String bookingId) {
+    public boolean handleCancellation(String bookingId) {
         Logger.DebugLog("Handling cancellation for booking ID: " + bookingId);
         boolean success = bookingService.cancelBooking(bookingId);
         if (success) {
             Logger.DebugLog("Booking cancelled successfully.");
+            return true;
         } else {
             Logger.DebugLog("Booking ID not found.");
+            return false;
         }
     }
 
