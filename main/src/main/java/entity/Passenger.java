@@ -1,6 +1,6 @@
 package entity;
 
-import Logging.Logger;
+import logging.Logger;
 
 import java.io.Serializable;
 //import util.Logger;
