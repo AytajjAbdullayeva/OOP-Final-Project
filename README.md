@@ -3,7 +3,7 @@
 This is a Java console application for booking and managing plane tickets. Users can search for flights, book tickets, cancel bookings, and view their flight information. The application follows a three-layer architecture (Controller-Service-DAO) and stores data in files for persistence.
 
 
-   Key Features
+   ##Key Features
 
    
 •	Online Flight Board – View all flights departing from Kyiv in the next 24 hours.
