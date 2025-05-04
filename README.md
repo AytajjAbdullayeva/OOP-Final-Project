@@ -35,3 +35,34 @@ This is a Java console application for booking and managing plane tickets. Users
 •	JUnit (For unit testing)
 
 •	Git & GitHub (Branching, Pull Requests, Code Review)
+
+
+   Project Structure
+
+OOP-Final-Project/  
+├── Databases/                      
+│   ├── HoneyIndex.json           
+│   ├── Users.json                
+│   └── flights.txt                
+├── logs/  
+│   └── log.txt                    
+├── src/  
+│   ├── main/java/  
+│   │   ├── DAO/                 
+│   │   ├── console/              
+│   │   ├── controller/            
+│   │   ├── entity/                
+│   │   ├── exception/            
+│   │   ├── logging/              
+│   │   ├── service/               
+│   │   └── main.java             
+│   └── test/java/                
+│       ├── DAO/                   
+│       ├── controller/           
+│       └── service/               
+├── target/                        # Compiled classes (Maven/Gradle output)  
+├── pom.xml                        # Maven configuration  
+└── README.md                      
+
+
+
