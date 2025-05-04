@@ -8,7 +8,7 @@ public class Logger
 {
     public static boolean DebugLog(String message)
     {
-        Path path = Paths.get("logs/");
+        Path path = Paths.get("main/logs/");
         Path dlog = path.resolve("log.txt");
 
         LocalDateTime now = LocalDateTime.now(); // adding time to our log message

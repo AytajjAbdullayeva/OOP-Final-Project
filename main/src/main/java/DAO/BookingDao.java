@@ -10,7 +10,7 @@ import logging.Logger;
 
 public class BookingDao {
     private List<Booking> bookings = new ArrayList<>();
-    private final String FILE_PATH = "bookings.dat";
+    private final String FILE_PATH = "main/Databases/bookings.dat";
 
     public BookingDao() {
         Logger.DebugLog("Initializing BookingDao...");

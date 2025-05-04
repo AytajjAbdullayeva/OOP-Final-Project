@@ -1,3 +1,4 @@
+import DAO.UserDAO;
 import controller.BookingController;
 import controller.FlightController;
 import DAO.BookingDao;
@@ -9,6 +10,7 @@ import console.ConsoleApp;
 public class main {
     public static void main(String[] args) {
         // Initialize the controllers (you may need to adjust these constructors based on your implementation)
+        UserDAO.loadUserDatabase();
         FlightDAO dao = new FlightDAO();
         FlightService flightService = new FlightService(dao);
         FlightController flightController = new FlightController(flightService);

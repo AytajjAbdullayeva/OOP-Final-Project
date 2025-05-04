@@ -4256,3 +4256,21 @@
 2025-05-03T22:45:48.393996500-->Flight TestId removed from memory, saving to file...
 2025-05-03T22:45:48.394994300-->Saving flights to file: src/flights.txt
 2025-05-03T22:45:48.395995900-->Successfully saved 200 flights to file
+2025-05-04T21:24:28.921161400-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T21:24:28.960671100-->UserDAO: Loaded 0 users
+2025-05-04T21:24:28.962068800-->Initializing FlightDAO
+2025-05-04T21:24:28.962068800-->Loading flights from existing file
+2025-05-04T21:24:28.962068800-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:24:28.974863400-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:24:28.975863-->FlightDAO initialized with 198 flights
+2025-05-04T21:24:28.977864800-->FlightService initialized with FlightDAO
+2025-05-04T21:24:28.977864800-->FlightController initialized with FlightService
+2025-05-04T21:24:28.979150600-->Initializing BookingDao...
+2025-05-04T21:24:28.979150600-->Loading bookings from file...
+2025-05-04T21:24:28.981156200-->No existing bookings found or error reading file: bookings.dat (The system cannot find the file specified)
+2025-05-04T21:24:35.073571700-->User with Username ferid not found
+2025-05-04T21:24:35.073571700-->User ferid not found
+2025-05-04T21:24:51.820415600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:24:51.820415600-->Password Hashed
+2025-05-04T21:24:51.823729-->User namedferidmcreated, UID1
+2025-05-04T21:24:51.824728500-->UserDAO: Error writing user with UID1to database

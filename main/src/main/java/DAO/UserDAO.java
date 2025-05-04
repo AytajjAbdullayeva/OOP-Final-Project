@@ -25,7 +25,7 @@ public class UserDAO {
     public static ArrayList<User> getUsers() {return new ArrayList<>(users);} // we are making a copy so it wouldn't affect the original one
 
     public static boolean loadUserDatabase() {
-        Path dir = Paths.get("Databases/");
+        Path dir = Paths.get("main/Databases/");
         Path file = dir.resolve("Users.json");
         users.clear();
 
@@ -54,7 +54,7 @@ public class UserDAO {
         users.add(user);
         numberOfUsers++;
         try {
-            mapper.writeValue(new File("Databases/Users.json"), users);
+            mapper.writeValue(new File("main/Databases/Users.json"), users);
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -81,10 +81,10 @@ public class UserDAO {
         users.remove(index);
         numberOfUsers--;
         try {
-            mapper.writeValue(new File("Databases/Users.json"),users);
+            mapper.writeValue(new File("main/Databases/Users.json"),users);
         } catch (IOException e) {
             e.printStackTrace();
-            Logger.DebugLog("Error writinf new users arraylist to database");
+            Logger.DebugLog("Error writing new users arraylist to database");
             return false;
         }
         if(!HoneyIndexDAO.removeHoneyIndex(u.getUID())) {
