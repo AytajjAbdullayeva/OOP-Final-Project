@@ -1,9 +1,9 @@
 package console;
 
-import Controller.BookingController;
-import Controller.FlightController;
-import Controller.UserController;
-import Logging.Logger;
+import controller.BookingController;
+import controller.FlightController;
+import controller.UserController;
+import logging.Logger;
 import entity.Flight;
 import entity.Passenger;
 import exception.InvalidMenuOptionException;
