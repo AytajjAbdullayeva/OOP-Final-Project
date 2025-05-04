@@ -1,3 +1,7 @@
+package controller;
+
+import DAO.UserDAO;
+import entity.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
