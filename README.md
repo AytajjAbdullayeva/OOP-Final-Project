@@ -3,7 +3,7 @@
 This is a Java console application for booking and managing plane tickets. Users can search for flights, book tickets, cancel bookings, and view their flight information. The application follows a three-layer architecture (Controller-Service-DAO) and stores data in files for persistence.
 
 
-   Key Features
+   ##*Key Features*
 
    
 •	Online Flight Board – View all flights departing from Kyiv in the next 24 hours.
@@ -35,3 +35,36 @@ This is a Java console application for booking and managing plane tickets. Users
 •	JUnit (For unit testing)
 
 •	Git & GitHub (Branching, Pull Requests, Code Review)
+
+
+
+   Project Structure
+
+
+OOP-Final-Project/  
+├── Databases/                      
+│   ├── HoneyIndex.json           
+│   ├── Users.json                
+│   └── flights.txt                
+├── logs/  
+│   └── log.txt                    
+├── src/  
+│   ├── main/java/  
+│   │   ├── DAO/                 
+│   │   ├── console/              
+│   │   ├── controller/            
+│   │   ├── entity/                
+│   │   ├── exception/            
+│   │   ├── logging/              
+│   │   ├── service/               
+│   │   └── main.java             
+│   └── test/java/                
+│       ├── DAO/                   
+│       ├── controller/           
+│       └── service/               
+├── target/                        # Compiled classes (Maven/Gradle output)  
+├── pom.xml                        # Maven configuration  
+└── README.md                      
+
+
+
