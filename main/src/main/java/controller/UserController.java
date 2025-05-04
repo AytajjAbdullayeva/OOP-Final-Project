@@ -27,7 +27,7 @@ public class UserController {
         }
     }
 
-    public static boolean SignUp(String name, String surname, int age, boolean gender, String username, String password) {
+    public static boolean SignUp(String name, String surname, int age, boolean gender, String username, String password) {// if false username already used
         return UserService.addUser(name, surname, age, gender, username, password);
     }
 

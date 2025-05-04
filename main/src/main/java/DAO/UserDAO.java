@@ -51,6 +51,12 @@ public class UserDAO {
     }
 
     public static boolean addUser(User user) {
+        for(User u : users) {
+            if(u.getUsername().equals(user.getUsername())) {
+                return false;
+            }
+        }
+
         users.add(user);
         numberOfUsers++;
         try {

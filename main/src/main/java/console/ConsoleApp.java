@@ -54,7 +54,7 @@ public class ConsoleApp {
                     username = scanner.next();
                     System.out.println("Enter your password: ");
                     password = scanner.next();
-                    UserController.SignUp(name,surname,age,gender,username,password);
+                    UserController.SignUp(name,surname,age,gender,username,password); // if false username already used
                     break;
                 case 3:
                     return;
@@ -140,7 +140,7 @@ public class ConsoleApp {
                     String oldPassword = scanner.next();
                     System.out.println("Enter your new password:");
                     String newPassword = scanner.next();
-                    UserController.ChangePassword(oldPassword,newPassword,username);
+                    UserController.ChangePassword(username,oldPassword,newPassword);
                     break;
                 case 3:
                     System.out.println("Enter your new username:");

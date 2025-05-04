@@ -4274,3 +4274,307 @@
 2025-05-04T21:24:51.820415600-->Password Hashed
 2025-05-04T21:24:51.823729-->User namedferidmcreated, UID1
 2025-05-04T21:24:51.824728500-->UserDAO: Error writing user with UID1to database
+2025-05-04T21:30:04.465584-->UserDAO: Loaded 0 users
+2025-05-04T21:30:04.467597600-->Initializing FlightDAO
+2025-05-04T21:30:04.467597600-->Loading flights from existing file
+2025-05-04T21:30:04.469244600-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:30:04.482974700-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:30:04.484435200-->FlightDAO initialized with 198 flights
+2025-05-04T21:30:04.486015700-->FlightService initialized with FlightDAO
+2025-05-04T21:30:04.487465900-->FlightController initialized with FlightService
+2025-05-04T21:30:04.487465900-->Initializing BookingDao...
+2025-05-04T21:30:04.487465900-->Loading bookings from file...
+2025-05-04T21:30:04.490264700-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:30:17.563352500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:30:17.563352500-->Password Hashed
+2025-05-04T21:30:17.565356200-->User namedferimdcreated, UID1
+2025-05-04T21:30:17.570358200-->UserDAO: Added user with UID 1
+2025-05-04T21:30:31.255170100-->User with Username ferimd found
+2025-05-04T21:30:31.256170800-->User ferimd found
+2025-05-04T21:30:31.256170800-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:30:31.256170800-->User ferimd's hash matched
+2025-05-04T21:30:31.257674600-->Session created
+2025-05-04T21:30:31.258681-->For input string: ""
+2025-05-04T21:30:31.259679800-->Invalid menu option. Please try again.
+2025-05-04T21:30:44.738062900-->UserDAO: Loaded 1 users
+2025-05-04T21:30:44.740389400-->Initializing FlightDAO
+2025-05-04T21:30:44.740389400-->Loading flights from existing file
+2025-05-04T21:30:44.740389400-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:30:44.752070800-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:30:44.753428800-->FlightDAO initialized with 198 flights
+2025-05-04T21:30:44.754591300-->FlightService initialized with FlightDAO
+2025-05-04T21:30:44.754591300-->FlightController initialized with FlightService
+2025-05-04T21:30:44.755598400-->Initializing BookingDao...
+2025-05-04T21:30:44.755598400-->Loading bookings from file...
+2025-05-04T21:30:44.756598500-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:31:01.044141200-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:31:01.044141200-->Password Hashed
+2025-05-04T21:31:01.046150200-->User namedferidmcreated, UID2
+2025-05-04T21:31:01.050147100-->UserDAO: Added user with UID 2
+2025-05-04T21:31:06.466784600-->User with Username feridm found
+2025-05-04T21:31:06.466784600-->User feridm found
+2025-05-04T21:31:06.467768500-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:31:06.467768500-->User feridm's hash matched
+2025-05-04T21:31:06.468828300-->Session created
+2025-05-04T21:31:06.469835400-->For input string: ""
+2025-05-04T21:31:08.861022600-->Getting upcoming flights (next 24 hours)
+2025-05-04T21:31:08.861022600-->Getting all flights (count: 198)
+2025-05-04T21:31:08.862030600-->Total flights in system: 198
+2025-05-04T21:31:08.866319500-->Included flight: F1035 | Time: 2025-05-05T10:43:49.0396776 | Seats: 185/185
+2025-05-04T21:31:08.866319500-->Included flight: F1044 | Time: 2025-05-05T16:43:49.0396776 | Seats: 194/194
+2025-05-04T21:31:08.866319500-->Included flight: F1066 | Time: 2025-05-05T19:28:49.0396776 | Seats: 166/166
+2025-05-04T21:31:08.867709-->Included flight: F1089 | Time: 2025-05-05T20:13:49.0396776 | Seats: 189/189
+2025-05-04T21:31:08.867709-->Included flight: F1123 | Time: 2025-05-05T15:58:49.0396776 | Seats: 173/173
+2025-05-04T21:31:08.867709-->Included flight: F1145 | Time: 2025-05-05T15:58:49.0396776 | Seats: 195/195
+2025-05-04T21:31:08.867709-->Included flight: F1174 | Time: 2025-05-05T20:13:49.0396776 | Seats: 174/174
+2025-05-04T21:31:08.867709-->Found 7 flights in next 24 hours
+2025-05-04T21:31:08.868908200-->Found 7 upcoming flights
+2025-05-04T21:31:25.095230900-->Getting flight info for ID: F1174
+2025-05-04T21:31:25.095230900-->Attempting to get flight by ID: F1174
+2025-05-04T21:31:25.096230600-->Looking up flight by ID: F1174
+2025-05-04T21:31:25.096230600-->Successfully retrieved flight: F1174
+2025-05-04T21:31:25.097232900-->Successfully retrieved flight: F1174
+2025-05-04T21:31:34.526756500-->Getting flight info for ID: F1732
+2025-05-04T21:31:34.526756500-->Attempting to get flight by ID: F1732
+2025-05-04T21:31:34.528250-->Looking up flight by ID: F1732
+2025-05-04T21:31:34.528250-->Flight not found with ID: F1732
+2025-05-04T21:31:34.528250-->Failed to get flight info: Flight with ID F1732 not found
+2025-05-04T21:31:34.529255500-->Flight not found.
+2025-05-04T21:32:09.849941700-->Searching flights: Destination=Dubai, Date=2025-05-10, People=3
+2025-05-04T21:32:09.850922500-->Searching flights: Destination=Dubai, Date=2025-05-10, Passengers=3
+2025-05-04T21:32:09.850922500-->Getting all flights (count: 198)
+2025-05-04T21:32:09.852941800-->Found 1 matching flights
+2025-05-04T21:32:09.852941800-->Found 1 matching flights
+2025-05-04T21:32:24.069203-->Invalid input or error occurred: Index 1 out of bounds for length 1
+2025-05-04T21:32:40.715594700-->User with Username 123 not found
+2025-05-04T21:32:40.715594700-->User 123 not found
+2025-05-04T21:32:40.716603600-->For input string: ""
+2025-05-04T21:32:45.981403200-->Logging out...
+2025-05-04T21:32:45.982404300-->Session removed with sessionid: 219
+2025-05-04T21:32:52.619784300-->User with Username feridm found
+2025-05-04T21:32:52.620768400-->User feridm found
+2025-05-04T21:32:52.620768400-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:32:59.213062800-->User with Username feridm found
+2025-05-04T21:32:59.214063400-->User feridm found
+2025-05-04T21:32:59.214063400-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:33:24.221114400-->User with Username feridm found
+2025-05-04T21:33:24.221114400-->User feridm found
+2025-05-04T21:33:24.221114400-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:33:41.261368500-->UserDAO: Loaded 2 users
+2025-05-04T21:33:41.263795100-->Initializing FlightDAO
+2025-05-04T21:33:41.263795100-->Loading flights from existing file
+2025-05-04T21:33:41.263795100-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:33:41.275275600-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:33:41.276553500-->FlightDAO initialized with 198 flights
+2025-05-04T21:33:41.277558400-->FlightService initialized with FlightDAO
+2025-05-04T21:33:41.278559300-->FlightController initialized with FlightService
+2025-05-04T21:33:41.278559300-->Initializing BookingDao...
+2025-05-04T21:33:41.279682300-->Loading bookings from file...
+2025-05-04T21:33:41.281173900-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:33:57.513418400-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:33:57.513418400-->Password Hashed
+2025-05-04T21:33:57.514568700-->User namedferidcreated, UID3
+2025-05-04T21:33:57.519357300-->UserDAO: Added user with UID 3
+2025-05-04T21:34:00.980536400-->User with Username ferid found
+2025-05-04T21:34:00.981510600-->User ferid found
+2025-05-04T21:34:00.981510600-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:34:00.981510600-->User ferid's hash matched
+2025-05-04T21:34:00.982533800-->Session created
+2025-05-04T21:34:00.983532700-->For input string: ""
+2025-05-04T21:34:11.003245900-->User with Username 123 not found
+2025-05-04T21:34:11.004673-->User 123 not found
+2025-05-04T21:34:11.004673-->For input string: ""
+2025-05-04T21:34:13.816317-->Logging out...
+2025-05-04T21:34:13.817321200-->Session removed with sessionid: 6633
+2025-05-04T21:34:19.760125600-->User with Username ferid found
+2025-05-04T21:34:19.761177-->User ferid found
+2025-05-04T21:34:19.761177-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:34:25.355358300-->User with Username ferid found
+2025-05-04T21:34:25.355358300-->User ferid found
+2025-05-04T21:34:25.356361400-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:34:25.356361400-->User ferid's hash matched
+2025-05-04T21:34:25.356361400-->Session created
+2025-05-04T21:34:25.356361400-->For input string: ""
+2025-05-04T21:34:28.149648300-->Logging out...
+2025-05-04T21:34:28.150646800-->Session removed with sessionid: 1754
+2025-05-04T21:34:48.440574-->UserDAO: Loaded 3 users
+2025-05-04T21:34:48.449879700-->Initializing FlightDAO
+2025-05-04T21:34:48.450879500-->Loading flights from existing file
+2025-05-04T21:34:48.450879500-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:34:48.463448900-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:34:48.464883300-->FlightDAO initialized with 198 flights
+2025-05-04T21:34:48.466348600-->FlightService initialized with FlightDAO
+2025-05-04T21:34:48.467740200-->FlightController initialized with FlightService
+2025-05-04T21:34:48.467740200-->Initializing BookingDao...
+2025-05-04T21:34:48.467740200-->Loading bookings from file...
+2025-05-04T21:34:48.469849400-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:34:55.602813200-->User with Username efef not found
+2025-05-04T21:34:55.605874700-->User efef not found
+2025-05-04T21:37:40.750674100-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T21:37:40.792368100-->UserDAO: Loaded 0 users
+2025-05-04T21:37:40.793366600-->Initializing FlightDAO
+2025-05-04T21:37:40.793366600-->Loading flights from existing file
+2025-05-04T21:37:40.793366600-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:37:40.802839300-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:37:40.804284-->FlightDAO initialized with 198 flights
+2025-05-04T21:37:40.806676-->FlightService initialized with FlightDAO
+2025-05-04T21:37:40.806676-->FlightController initialized with FlightService
+2025-05-04T21:37:40.808172300-->Initializing BookingDao...
+2025-05-04T21:37:40.808172300-->Loading bookings from file...
+2025-05-04T21:37:40.809179100-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:37:56.024149500-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:37:56.025147900-->Password Hashed
+2025-05-04T21:37:56.026147200-->User namedferidmcreated, UID1
+2025-05-04T21:37:56.030152300-->UserDAO: Added user with UID 1
+2025-05-04T21:38:11.429987600-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:38:11.429987600-->Password Hashed
+2025-05-04T21:38:11.430986700-->User namedferidmcreated, UID2
+2025-05-04T21:38:31.979026900-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T21:38:32.031878900-->UserDAO: Loaded 0 users
+2025-05-04T21:38:32.033122100-->Initializing FlightDAO
+2025-05-04T21:38:32.033122100-->Loading flights from existing file
+2025-05-04T21:38:32.033122100-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:38:32.044918100-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:38:32.046926600-->FlightDAO initialized with 198 flights
+2025-05-04T21:38:32.047925-->FlightService initialized with FlightDAO
+2025-05-04T21:38:32.049189600-->FlightController initialized with FlightService
+2025-05-04T21:38:32.049189600-->Initializing BookingDao...
+2025-05-04T21:38:32.049189600-->Loading bookings from file...
+2025-05-04T21:38:32.051559300-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:38:45.000031800-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:38:45.001032800-->Password Hashed
+2025-05-04T21:38:45.002031900-->User namedferidmcreated, UID1
+2025-05-04T21:38:45.006063300-->UserDAO: Added user with UID 1
+2025-05-04T21:38:49.355578100-->User with Username feridm found
+2025-05-04T21:38:49.356617-->User feridm found
+2025-05-04T21:38:49.356617-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:38:49.356617-->User feridm's hash matched
+2025-05-04T21:38:49.357625400-->Session created
+2025-05-04T21:38:49.357625400-->For input string: ""
+2025-05-04T21:38:56.261903600-->User with Username 123 not found
+2025-05-04T21:38:56.262938600-->User 123 not found
+2025-05-04T21:38:56.262938600-->For input string: ""
+2025-05-04T21:38:57.955312800-->Logging out...
+2025-05-04T21:38:57.955312800-->Session removed with sessionid: 4237
+2025-05-04T21:39:02.284209500-->User with Username feridm found
+2025-05-04T21:39:02.284209500-->User feridm found
+2025-05-04T21:39:02.284209500-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:39:10.630780800-->User with Username feridm found
+2025-05-04T21:39:10.630780800-->User feridm found
+2025-05-04T21:39:10.630780800-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:39:10.631759900-->User feridm's hash matched
+2025-05-04T21:39:10.631759900-->Session created
+2025-05-04T21:39:10.631759900-->For input string: ""
+2025-05-04T21:39:12.280695800-->Logging out...
+2025-05-04T21:39:12.280695800-->Session removed with sessionid: 6032
+2025-05-04T21:39:18.949072100-->UserDAO: Loaded 1 users
+2025-05-04T21:39:18.957630500-->Initializing FlightDAO
+2025-05-04T21:39:18.957630500-->Loading flights from existing file
+2025-05-04T21:39:18.958632800-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:39:18.969799800-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:39:18.971798500-->FlightDAO initialized with 198 flights
+2025-05-04T21:39:18.972801-->FlightService initialized with FlightDAO
+2025-05-04T21:39:18.972801-->FlightController initialized with FlightService
+2025-05-04T21:39:18.973812600-->Initializing BookingDao...
+2025-05-04T21:39:18.973812600-->Loading bookings from file...
+2025-05-04T21:39:18.975825400-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:39:53.680709700-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T21:39:53.732337700-->UserDAO: Loaded 0 users
+2025-05-04T21:39:53.733345-->Initializing FlightDAO
+2025-05-04T21:39:53.734344400-->Loading flights from existing file
+2025-05-04T21:39:53.734344400-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:39:53.746923200-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:39:53.749546800-->FlightDAO initialized with 198 flights
+2025-05-04T21:39:53.750552700-->FlightService initialized with FlightDAO
+2025-05-04T21:39:53.750552700-->FlightController initialized with FlightService
+2025-05-04T21:39:53.751951400-->Initializing BookingDao...
+2025-05-04T21:39:53.751951400-->Loading bookings from file...
+2025-05-04T21:39:53.753257500-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:40:07.829961700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:40:07.829961700-->Password Hashed
+2025-05-04T21:40:07.835516700-->User namedferidmcreated, UID1
+2025-05-04T21:40:07.845370900-->UserDAO: Added user with UID 1
+2025-05-04T21:40:14.282964200-->User with Username feridm found
+2025-05-04T21:40:14.285226900-->User feridm found
+2025-05-04T21:40:14.286225800-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:40:14.286225800-->User feridm's hash matched
+2025-05-04T21:40:14.287332-->Session created
+2025-05-04T21:40:14.290027-->For input string: ""
+2025-05-04T21:41:37.135797800-->User with Username 1234 not found
+2025-05-04T21:41:37.135797800-->User 1234 not found
+2025-05-04T21:41:37.136814200-->For input string: ""
+2025-05-04T21:42:28.006841300-->UserDAO: Loaded 1 users
+2025-05-04T21:42:28.008375700-->Initializing FlightDAO
+2025-05-04T21:42:28.009385400-->Loading flights from existing file
+2025-05-04T21:42:28.009385400-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:42:28.020284100-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:42:28.021779600-->FlightDAO initialized with 198 flights
+2025-05-04T21:42:28.024374600-->FlightService initialized with FlightDAO
+2025-05-04T21:42:28.025654100-->FlightController initialized with FlightService
+2025-05-04T21:42:28.028439600-->Initializing BookingDao...
+2025-05-04T21:42:28.028439600-->Loading bookings from file...
+2025-05-04T21:42:28.030741500-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:42:39.481582700-->HoneyIndexDAO: Database deleted successfully
+2025-05-04T21:42:39.525823-->UserDAO: Loaded 0 users
+2025-05-04T21:42:39.526829300-->Initializing FlightDAO
+2025-05-04T21:42:39.526829300-->Loading flights from existing file
+2025-05-04T21:42:39.526829300-->Loading flights from file: main/Databases/flights.txt
+2025-05-04T21:42:39.536895100-->Loaded 198 flights, skipped 2 entries
+2025-05-04T21:42:39.538487500-->FlightDAO initialized with 198 flights
+2025-05-04T21:42:39.539810400-->FlightService initialized with FlightDAO
+2025-05-04T21:42:39.539810400-->FlightController initialized with FlightService
+2025-05-04T21:42:39.540816400-->Initializing BookingDao...
+2025-05-04T21:42:39.540816400-->Loading bookings from file...
+2025-05-04T21:42:39.543208900-->No existing bookings found or error reading file: main\Databases\bookings.dat (The system cannot find the file specified)
+2025-05-04T21:44:10.490150700-->HoneyIndexDAO: HoneyIndex added successfully
+2025-05-04T21:44:10.491149200-->Password Hashed
+2025-05-04T21:44:10.492149400-->User namedferidmcreated, UID1
+2025-05-04T21:44:10.496151200-->UserDAO: Added user with UID 1
+2025-05-04T21:44:15.166725500-->User with Username feridm found
+2025-05-04T21:44:15.166725500-->User feridm found
+2025-05-04T21:44:15.167722600-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:44:15.167722600-->User feridm's hash matched
+2025-05-04T21:44:15.167722600-->Session created
+2025-05-04T21:44:15.169818-->For input string: ""
+2025-05-04T21:44:21.874734-->User with Username feridm found
+2025-05-04T21:44:21.875733500-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:44:21.875733500-->User feridm' password updated
+2025-05-04T21:44:21.875733500-->For input string: ""
+2025-05-04T21:44:23.675895800-->Logging out...
+2025-05-04T21:44:23.677332500-->Session removed with sessionid: 751
+2025-05-04T21:44:27.818938200-->User with Username feridm found
+2025-05-04T21:44:27.818938200-->User feridm found
+2025-05-04T21:44:27.819946200-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:44:27.819946200-->User feridm's hash matched
+2025-05-04T21:44:27.819946200-->Session created
+2025-05-04T21:44:27.819946200-->For input string: ""
+2025-05-04T21:44:37.142188800-->User with Username feridm found
+2025-05-04T21:44:37.143197200-->User feridm updated
+2025-05-04T21:44:37.143197200-->For input string: ""
+2025-05-04T21:44:39.268615800-->Logging out...
+2025-05-04T21:44:39.269619100-->Session removed with sessionid: 7869
+2025-05-04T21:44:44.412172200-->User with Username feridm1 found
+2025-05-04T21:44:44.412172200-->User feridm1 found
+2025-05-04T21:44:44.413173200-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:44:44.413173200-->User feridm1's hash matched
+2025-05-04T21:44:44.413173200-->Session created
+2025-05-04T21:44:44.413173200-->For input string: ""
+2025-05-04T21:48:26.424317400-->User with Username feridm1 found
+2025-05-04T21:48:26.424317400-->User feridm1 found
+2025-05-04T21:48:26.424317400-->HoneyIndexDAO: HoneyIndex found
+2025-05-04T21:48:26.425662300-->User feridm1's hash matched
+2025-05-04T21:48:26.425662300-->Session created
+2025-05-04T21:48:26.425662300-->User with Username feridm1 found
+2025-05-04T21:48:26.426679500-->UserDAO: User with UID 1 successfully removed
+2025-05-04T21:48:26.426679500-->Session removed with sessionid: 8258
+2025-05-04T21:48:26.426679500-->For input string: ""
+2025-05-04T21:48:41.974671100-->User with Username feridm1 not found
+2025-05-04T21:48:41.975681200-->User feridm1 not found
+2025-05-04T21:48:41.975681200-->For input string: ""
+2025-05-04T21:48:58.441608600-->User with Username feridm1 not found
+2025-05-04T21:48:58.441608600-->User feridm1 not found
+2025-05-04T21:48:58.443066500-->For input string: ""
+2025-05-04T21:49:02.168905200-->Logging out...
+2025-05-04T21:49:02.168905200-->Session removed with sessionid: 1920
+2025-05-04T21:49:07.845279600-->User with Username feridm not found
+2025-05-04T21:49:07.846282300-->User feridm not found
