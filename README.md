@@ -73,7 +73,7 @@ OOP-Final-Project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/oop-flight-booking.git
+   git clone https://github.com/AytajjAbdullayeva/OOP-Final-Project.git
 
 2. Open in your preferred IDE (e.g., IntelliJ IDEA, VS Code, Eclipse)
 3. Run main.java to test.
