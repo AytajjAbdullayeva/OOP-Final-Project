@@ -42,13 +42,14 @@ This is a Java console application for booking and managing plane tickets. Users
 
 
 OOP-Final-Project/  
+                
+├── src/  
 ├── Databases/                      
 │   ├── HoneyIndex.json           
 │   ├── Users.json                
 │   └── flights.txt                
 ├── logs/  
-│   └── log.txt                    
-├── src/  
+│   └── log.txt    
 │   ├── main/java/  
 │   │   ├── DAO/                 
 │   │   ├── console/              
