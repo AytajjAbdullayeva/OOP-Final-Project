@@ -1,10 +1,10 @@
-package Controller;//import model.Passenger;
+package controller;//import model.Passenger;
 //import model.Booking;
 //import service.BookingService;
 //import util.Logger;
 import DAO.*;
-import Logging.Logger;
-import Service.*;
+import logging.Logger;
+import service.*;
 import entity.Booking;
 import entity.Passenger;
 
