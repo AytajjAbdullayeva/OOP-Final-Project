@@ -1,7 +1,7 @@
-package Controller;
+package controller;
 
-import Logging.Logger;
-import Service.UserService;
+import logging.Logger;
+import service.UserService;
 import entity.SessionManager;
 
 import java.security.MessageDigest;
