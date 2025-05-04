@@ -15,7 +15,7 @@ public class FlightDAO {
     private static final DateTimeFormatter DATE_TIME_FORMATTER =
             DateTimeFormatter.ISO_LOCAL_DATE_TIME;
     private List<Flight> flights = new ArrayList<>();
-    private final String filePath = "src/flights.txt";
+    private final String filePath = "Databases/flights.txt";
 
     public FlightDAO() {
         Logger.DebugLog("Initializing FlightDAO");
