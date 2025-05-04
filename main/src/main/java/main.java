@@ -1,3 +1,11 @@
+import controller.BookingController;
+import controller.FlightController;
+import DAO.BookingDao;
+import DAO.FlightDAO;
+import service.BookingService;
+import service.FlightService;
+import console.ConsoleApp;
+
 public class main {
     public static void main(String[] args) {
         // Initialize the controllers (you may need to adjust these constructors based on your implementation)
@@ -13,4 +21,3 @@ public class main {
         app.run();
     }
 }
-
